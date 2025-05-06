@@ -1,6 +1,5 @@
 # DeepDroid
 
----
 
 ## About
 
@@ -8,7 +7,6 @@ This repository contains the code for the system for the paper: **DeepDroid: And
 
 For accessing the datasets, you could download them from [*FestiVAL*](https://github.com/PKU-ASE-RISE/FestiVal) and [*FrUITeR*](https://felicitia.github.io/FrUITeR/).
 
----
 
 ## How to install
 
@@ -21,7 +19,6 @@ Make sure you have:
 Then clone this repo and install with: 
 `git clone https://github.com/MobileLLM/AutoDroid.git`
 
----
 
 ## How to use
 
@@ -39,14 +36,12 @@ Then clone this repo and install with:
    4. Prepare the test file `DeepDroid/test_info.csv` for **DeepDroid**, you can use the `test_info_festival.csv` and `test_info_fruiter.csv` we provide. 
    5. Run `DeepDroid/run_this.py`, and after testing is complete, it will generate `test_record` files containing test records and evaluation metrics used in our paper.
 
----
 
 ## Limitations
 
 - The current implementation may make it difficult for LLM to determine whether a task has finished, resulting in difficulty in self stopping.
 - Due to the randomness of LLM, the diversity of application GUI, and the subjectivity of task description in test cases, the performance of GUI testing may be unstable.
 
----
 
 ## Team
 
