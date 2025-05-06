@@ -14,10 +14,10 @@ path = []
 structure_creator = Structure()
 page_match = MatchUtil()
 
-
+# needs to be modified ----------------------------------
 # 连接设备
 AVD_SERIAL = "YOUR_AVD_SERIAL"
 device = u2.connect(AVD_SERIAL)
 # episode的最大步长，即执行60个操作后结束
 max_step = 60
-
+# -------------------------------------------------------

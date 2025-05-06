@@ -18,7 +18,7 @@ test = ""
 Manifest_xml = ""  # 开源应用存Manifest.xml路径，闭源应用存apk路径
 AUT = ""
 
-
+# needs to be modified ----------------------------------
 api_key = "YOUR_API"
 base_url = "https://api.deepseek.com"
 email = "YOUR_EMAIL_for_APP_ACCOUNT"
@@ -27,7 +27,7 @@ AVD_SERIAL = "YOUR_AVD_SERIAL"
 DataSet_DIR = "PATH_to_FestiVal\\tests\\"
 AllData_FILE = "PATH_to_FestiVal\\all_test_info.json"
 max_character = 64  # text字段最大长度
-
+# -------------------------------------------------------
 
 # 连接设备
 device = u2.connect(AVD_SERIAL)
