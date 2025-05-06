@@ -1,0 +1,31 @@
+['Play Christmas Music']
+
+The SoundHound app is a music identification and discovery service that allows users to identify songs playing around them, discover new music, and access lyrics and playlists.
+All its main function pages are: SoundHound, URLRouter, WidgetRouter, WidgetPermission, SoundHoundIdNow, IdNowRouter, CreateShortcutIdNow, NewTaskLauncher, ViewDatabaseError, ViewInternalWebview, ViewFreemiumStatus, PageHost, VideoPlayerPage, NoActionBarNoNavBarPageHost, OMR, PlayerPage, ViewMusicSearchResults, ViewSaySearchResults, ViewAudioSearchResultListItems.
+I have explored the following pages and predicted its possible features:
+    MainNavigation: Identify songs; Search lyrics and songs; Access history; Manage playlists.
+    OMRPage: Identify music; Display song information; Close OMR; Swipe to view tips.
+    MusicSearchError: Display search error message; Save search attempt; Close error page; Open more options.
+    MainNavigationPage: Search lyrics, songs, and more; View history; Access playlists; Identify music.
+    SearchPage: Search for lyrics and songs; Cancel search; Activate music identification.
+    VoiceSearchPage: Initiate voice search; Display search status; Provide help option; Abort current search.
+    MusicDiscoveryHome: Log In or Sign Up; View Discovered Songs; Access History; Search Music; Manage Playlists.
+    PlaylistManagement: Create new playlist; Navigate to history; Navigate to search; Long-click search.
+    PlaylistCreation: Create new playlist; Input playlist name.
+    PlaylistManagement1: Create Playlist; View Playlist History; Search Music; Long-press Search.
+    PlaylistManagement2: Create Playlist; Navigate to History; Navigate to Search; Long-press Search.
+    Settings: Sign Up/Log In; Link Accounts; Configure Song Playback; Connect YouTube for Full Songs/Videos; Enable Previews; Connect Twitter; Access Help & Tips; Navigate to Search; Navigate to Playlists.
+    AccountSignUp: Sign up with email; Sign up with Facebook; View privacy policy; Log into existing account; Enter name, email, and password; Show/hide password.
+    AccountSignUpError: Display error message; Provide retry option.
+    AccountSignUp2: Sign up with email; Sign up with Facebook; Enter name; Enter email.
+    LinkedAccounts: Manage linked social media accounts; Connect to Twitter; Navigate to Search; Navigate to Playlists.
+    MainNavigationSelector: Access song history; Search for music; Manage playlists.
+Please give me the page with the function that best matches the following tasks:
+    (1) Play Christmas Music.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['PlayerPage']

@@ -1,0 +1,27 @@
+The SHEIN app is a mobile shopping application that offers a wide range of trendy and affordable fashion items, including clothing, accessories, and beauty products, with features for easy browsing, purchasing, and tracking orders.
+All its main function pages are: Welcome.
+I want to shop by category, in which shop by category may be accomplished in MainCategorySelector page.
+I have finished the following actions:
+    (Step 1 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'bt9', 'class': 'FrameLayout', 'content-desc': 'Category', 'parent_node': '', 'sibling_nodes': 'btd, bt_, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/Category'};
+    (Step 2 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Women Clothing'};
+    (Step 3 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'bfc', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bf9', 'child_nodes': 'bh7, tv_title/Shop by category'};
+    (Step 4 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'btd', 'class': 'FrameLayout', 'content-desc': 'Shop', 'parent_node': '', 'sibling_nodes': 'bt9, bt_, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/Shop'};
+    (Step 5 in Unknown page) {'action': 'click', 'text': 'Try it again', 'resource-id': 'brm', 'class': 'Button', 'content-desc': '', 'parent_node': 'brl', 'sibling_nodes': 'aw3, dxp/OOPS!, afa/There is something wrong with our server. We are trying to fix i...', 'child_nodes': ''}.
+Current function GUI page is MainTabs, which has the following texts: 'Search', 'Shop', 'Category', 'New', 'Cart', 'Me'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': 'bt0', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'es', 'sibling_nodes': 'bsw, bt4', 'child_nodes': 'auf'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'bsw', 'class': 'ImageView', 'content-desc': '', 'parent_node': 'es', 'sibling_nodes': 'bt0, bt4', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'bt4', 'class': 'FrameLayout', 'content-desc': 'Wishlist', 'parent_node': 'es', 'sibling_nodes': 'bt0, bsw', 'child_nodes': 'bc1'};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': 'bt1', 'class': 'View', 'content-desc': '', 'parent_node': 'cru', 'sibling_nodes': 'ato, bag', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'ato', 'class': 'ImageView', 'content-desc': 'VISUAL SEARCH', 'parent_node': 'cru', 'sibling_nodes': 'bt1, bag', 'child_nodes': ''};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': 'bag', 'class': 'ImageView', 'content-desc': '', 'parent_node': 'cru', 'sibling_nodes': 'bt1, ato', 'child_nodes': ''};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': 'bt9', 'class': 'FrameLayout', 'content-desc': 'Category', 'parent_node': '', 'sibling_nodes': 'btd, bt_, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/Category'};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': 'bt_', 'class': 'FrameLayout', 'content-desc': 'New', 'parent_node': '', 'sibling_nodes': 'btd, bt9, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/New'};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': 'bt7', 'class': 'FrameLayout', 'content-desc': 'Cart', 'parent_node': '', 'sibling_nodes': 'btd, bt9, bt_, btc', 'child_nodes': 'bxx, bxy, bxz, by1/Cart'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': 'btc', 'class': 'FrameLayout', 'content-desc': 'Me', 'parent_node': '', 'sibling_nodes': 'btd, bt9, bt_, bt7', 'child_nodes': 'bxx, bxy, bxz, by1/Me'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

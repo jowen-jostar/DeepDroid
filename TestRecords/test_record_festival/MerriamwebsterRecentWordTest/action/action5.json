@@ -1,0 +1,27 @@
+[
+    {
+        "page_name": "MainMenuDrawer2",
+        "action": "click",
+        "index": "0",
+        "text": "",
+        "resource-id": "",
+        "class": "android.widget.ImageButton",
+        "package": "com.merriamwebster",
+        "content-desc": "Open menu drawer",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "scrollable": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "visible-to-user": "true",
+        "bounds": "[0,72][168,240]",
+        "parent_node": "toolbar",
+        "sibling_nodes": "Recent",
+        "child_nodes": ""
+    }
+]

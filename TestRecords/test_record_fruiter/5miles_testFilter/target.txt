@@ -1,0 +1,46 @@
+['sign in', 'search for "aa"', 'apply price ascending filter']
+
+5miles is a mobile shopping app that allows users to buy, sell, and discover items locally, offering a wide range of products from electronics to fashion.
+All its main function pages are: Welcome, MainTab, TabProfile, Report, ItemLocationMap, Profile, MyProfile, FmWeb, GuidePager.
+I have explored the following pages and predicted its possible features:
+    MainShoppingHub: Search for items; Browse local listings; View popular items; Bid on items; Chat with sellers; Like items; Navigate to different categories; Access user profile.
+    CategorySearch: Navigate back; Search items; Select main categories; Explore subcategories.
+    KeywordAndUserSearch: Search for listings; Search for sellers; View popular search terms; Set up search alerts.
+    LocalSearchAndDiscovery: Navigate back; Input search keyword; Clear search keyword; Switch between Listings and Sellers views; Swipe through search results.
+    CategorySearch1: Navigate back; Search items; Select main categories; Select sub-categories.
+    SearchResult: Display search results; Filter listings; Navigate back; Set alerts; View item details; Like items.
+    KeyWordAndUserSearch: Search for items by keyword; Filter results by Listings or Sellers; View popular search terms; Set up search alerts; Clear search history.
+    LocationVerification: Confirm current location; Enter zip code manually; Save location settings.
+    ItemDetailView: View item details; Make an offer; Initiate chat; Navigate back; Share item; Like item.
+    ItemImageGallery: Swipe to view images; Navigate back to previous page.
+    ItemDetailView1: View item details; Make an offer; Initiate chat; Navigate back; Share item; Like item.
+    ItemImageGallery1: Swipe through large images; Navigate back to previous page.
+    CreditLotteryWeb: Display new coupons; Offer limited-time savings; Provide new user bonuses; Redirect to coupon management; Enable bidding action.
+    DashIntroduction: Introduce 5miles Dash; Explain bidding process; Confirm payment method; Ensure delivery; Provide buyer protection; Confirm understanding with OK button.
+    MainShoppingPage: Search items; Filter by category; View product details; Place bids; Navigate to home, sell, like, chat, and profile sections.
+    SearchResult1: Display search results; Filter items; Alert notifications; Navigate back; Like items; View item details.
+    SearchInput: Enter search keyword; Clear search input; Select search suggestion; Navigate back.
+    SearchResult2: Display search results; Filter listings; Alert for new items; Navigate back; View item details; Like items.
+    SearchResult3: Display search results; Filter items; Navigate back; Alert notifications; Like items; Swipe through listings.
+    KeywordAndUserSearch1: Search for listings by keyword; Filter results by listings or sellers; View popular search terms; Set up search alerts; Clear search history; Access suggested search terms.
+    CategorySearch2: Navigate back; Search items; Select main categories; Select sub-categories; Swipe through sub-categories.
+    SearchResult4: Display search results; Filter items; Navigate back; Toggle list mode; Set alerts; Like items.
+    SearchInput1: Enter search keyword; Display search suggestions; Clear search input; Navigate back.
+    SearchResult5: Display search results; Filter items; Navigate back; Set alerts; Like items; View item details.
+    SearchResult6: Display search results; Apply filters; Show alerts; Navigate back; Switch list mode.
+    SearchInput2: Enter search keyword; Clear search input; Navigate back.
+    SearchInput3: Navigate back; Input search keyword.
+    DynamicFilter: Apply filter settings; Reset filter settings; Select category; Set sort order; Adjust distance; Define price range; Set last active time.
+    CategorySelector: Select main categories; Navigate to subcategories; Return to previous page.
+    CategorySelector1: Navigate to parent categories; Select sub-categories; Return to previous page.
+Please give me the page with the function that best matches the following tasks:
+    (1) sign in;
+    (2) search for "aa";
+    (3) apply price ascending filter.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['Welcome', 'SearchInput', 'DynamicFilter']

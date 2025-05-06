@@ -1,0 +1,25 @@
+The Line Webtoon app is a digital platform for reading and discovering webcomics (webtoons), offering a wide range of genres and stories created by various artists, with features like personalized recommendations and community interactions.
+All its main function pages are: Splash, Tutorial.
+I want to check the most liked fantasy original is Lore Olympus, in which check the most liked fantasy original is Lore Olympus may be accomplished in WebtoonRanking page.
+This is the first action.
+Current function GUI page is Main, which has the following texts: 'Find your series', 'Answer these questions to', 'Start', 'Boy Next-Door ....', '2 Day(s) 13:13:25', 'Super Secret', 'You know that one close friend who takes care of you as if they...', '61 Free Episodes', 'Ongoing Events', 'FOR YOU', 'ORIGINALS', 'CANVAS', 'MY', 'MORE'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'swipe', 'text': '', 'resource-id': 'home_recycler_view', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'logo, title, home_section_banner, collection_title/Find your series, onboarding_desc/Answer these questions to, time_deal_icon_indicator, home_section_promotion_list, collection_title/Ongoing Events'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'search', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'logo, title', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': 'Start', 'resource-id': 'onboarding_button', 'class': 'TextView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'onboarding_desc/Answer these questions to', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': 'Boy Next-Door ....', 'resource-id': 'time_deal_title', 'class': 'TextView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'time_deal_view_pager, time_deal_icon_indicator', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'swipe', 'text': '', 'resource-id': 'time_deal_view_pager', 'class': 'ViewPager', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'time_deal_title/Boy Next-Door ...., time_deal_icon_indicator', 'child_nodes': 'icon_remain_time, remain_time/2 Day(s) 13:13:25'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': 'single_title', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'icon_remain_time, remain_time/2 Day(s) 13:13:25', 'child_nodes': 'title_thumbnail, title_name/Super Secret, synopsis/You know that one close friend who takes care of you as if they..., free_episode_count/61 Free Episodes'};
+    (Widget Id: 6) {'action': 'swipe', 'text': '', 'resource-id': 'view_pager', 'class': 'ViewPager', 'content-desc': '', 'parent_node': 'home_section_promotion_list', 'sibling_nodes': 'collection_title/Ongoing Events', 'child_nodes': ''};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': 'promotion_container', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'promotion_image'};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'For you', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/FOR YOU'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'ORIGINALS', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/ORIGINALS'};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'CANVAS', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/CANVAS'};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'My', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/MY'};
+    (Widget Id: 12) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'More', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/MORE'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

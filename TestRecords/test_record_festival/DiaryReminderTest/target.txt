@@ -1,0 +1,28 @@
+['set a daily reminder to write my diary']
+
+A diary app is a digital tool that allows users to record their thoughts, experiences, and daily activities in an organized and private manner.
+All its main function pages are: Splash, About, AccountInterim, AccountSettings, PasswordChange, PasswordChangeSuccess, PasswordReset, PasswordResetSuccess, AccountBannedError, AccountSignIn, AccountSignInDone, AccountSignInInvalid, AccountSignOut, AccountSignOutDone, AccountAlreadyExists, AccountSignUp, AccountSignUpDone, AccountTerminate, AccountTerminateDone, AdConsent, Codelock, CodelockActivated, CodelockDeactivated, ForgotCode1, ForgotCode2, CodelockRecoverDone, CodelockSetup, CouldNotConnectError, ColorsAndStyle, AccountNotExistError, ContactBlockedError, EmailNotVerified, EmailSpeedingError, EmailPickError, EmailClientError, MaintenanceModeError, TokenInvalidError, IpSpeedingError, EmailSendingError, UnspecifiedError, EncodingError, DatabaseError, JsonError, ContactUnknownError, OfflineError, TokenRenewError, Export, ExportEmptyError, ExportNoTargetError, ExportCacheIOFileError, ExportCacheExceptionError, ExportTargetGeneralError, ExportTargetIOError, Feedback, FeedbackDone, Help, HelpLoadingError, Terms, TermsLoadingError, SupportMessage, EmojiSupportWarning, Note, NoteList, Premium, PremiumActivated, PremiumError, PremiumReactivated, PremiumCancel, PremiumFailure, RateAndReview, RateWithGooglePlay, Rating1, Rating2, Rating3, Rating4, Rating5, ReminderActivated, Reminder, ReminderDeactivated, IconInstallError, FacebookOpenError, AdProviders.
+I have explored the following pages and predicted its possible features:
+    NoteList: View diary entries; Search notes; Create new note; Long-press to interact with notes.
+    NoteListWithNavigationDrawer: View diary entries; Create new note; Search notes; Long-press to interact with notes; Access settings like Codelock, Colors and style, Reminder, Export; Rate and review app; Recommend app; Get premium; Visit Facebook page; Provide feedback; Get help; Sign in.
+    AccountInterim: Cloud connection setup; Device synchronization; Note restoration; User account creation; Existing account login.
+    SearchFilterPage: Select year; Input search text; Close search; Execute search.
+    MainLocationSelector: Select year; Filter notes by year.
+    SearchFilterPage1: Select year; Enter location text; Close search; Execute search.
+    NoteList2: Display search results; Clear search query; Navigate to write diary; Initiate search.
+    NoteListSideMenu: Write diary; Search notes; Clear search; Navigate settings like Codelock, Colors and style, Reminder, Export; Rate and review; Recommend app; Get premium; Visit Facebook; Provide feedback; Access help; Sign in.
+    NoteActionSelector: View note; Share note; Delete note.
+    NoteEditor: Navigate back; Save note; Open more options; Edit date; Edit title; Edit body.
+    NoteEditor1: Edit diary entry; Save entry; Navigate back; Insert emoji; Change date; Scroll emoji options.
+    NoteActionSelector1: Share note; Delete note; Toggle emoji helper.
+    DatePicker: Select year; Select month and day; Confirm or cancel date selection.
+    DatePicker1: Select year; Select month and day; Confirm or cancel date selection.
+Please give me the page with the function that best matches the following tasks:
+    (1) set a daily reminder to write my diary.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['Reminder']

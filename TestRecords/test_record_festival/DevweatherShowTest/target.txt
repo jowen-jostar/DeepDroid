@@ -1,0 +1,29 @@
+['Show me the temperature forecast over New Orleans Louisiana']
+
+The DevWeather app is a weather forecasting application designed specifically for developers, offering real-time weather data and APIs for integration into software projects.
+All its main function pages are: Main, AppPreferences, AppWidgetPreferences, About, CityList, AppList, CalList.
+I have explored the following pages and predicted its possible features:
+    MainLocationWeather: Display real-time weather data; Show 5-day forecast; Provide weather details like temperature, humidity, wind; Allow location selection; Enable data refresh; Share weather information; Access additional options.
+    MainWeatherDisplay: Display current weather details; Show 5-day weather forecast; Navigate to hourly weather; Navigate to 10-day forecast; Navigate to moon phase; Manage saved cities; Access settings; Access about information; Refresh weather data; Share weather information; Access more options.
+    MainHourlyWeatherView: Display hourly weather details; Navigate back; Refresh data; View weather graph; Access more options; Swipe through hourly forecasts.
+    HourlyWeatherView: Display hourly weather data; Navigate to other weather views; Refresh weather data; View weather graph; Access additional options.
+    MainWidgetManager: Add widget; Delete widget; Configure widget settings.
+    MainLocationSelector: Input city and country; Search for weather data; Cancel search operation.
+    MainLocationSelector1: Input location; Search for weather data; Cancel search.
+    LocationErrorDialog: Display location error; Allow manual location selection; Provide cancel option.
+    MainLocationWeatherView: Display hourly weather; Show location name; Update weather data; Toggle graph/list view; Access more options; Swipe through weather graphs.
+    MainNavigationMenu: Access 5-Day Weather; Access Hourly Weather; Access 10-Day Forecast; Access Moon Phase; Access My Cities; Access Settings; Access About; Navigate Up; Update Data; Toggle Graph/List View; More Options; Display Current Location.
+    WidgetSettingsCustomizer: Customize widget style; Set text color; Enable text shadow; Configure clock style; Select clock and date font; Adjust clock font size; Modify text size.
+    FontSelector: Select clock and date font; Choose from default or custom fonts; Cancel selection.
+    UpdateNotification: Skip update notification; Cancel update; Open settings.
+    MainWeatherForecast: Display 10-day weather forecast; Show detailed weather conditions for each day; Provide weather data including temperature, precipitation, humidity, wind, pressure, UV index, sunrise, and sunset times; Allow navigation and refresh options; Enable viewing weather data in graph format.
+    MainWeatherForecast1: Display 10-Day Forecast; Show Weather Details; Navigate to Other Sections; Refresh Data; View Graph; Access Settings; Access About.
+Please give me the page with the function that best matches the following tasks:
+    (1) Show me the temperature forecast over New Orleans Louisiana.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['MainWeatherForecast']

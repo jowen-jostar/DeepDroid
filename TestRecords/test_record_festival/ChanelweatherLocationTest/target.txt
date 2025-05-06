@@ -1,0 +1,27 @@
+['go to settings', 'turn off the use of current location']
+
+ChanelWeather is a weather forecasting application that provides real-time weather updates, forecasts, and alerts for locations worldwide.
+All its main function pages are: Splash, Setting, MyLocation, SearchLocation, Radar.
+I have explored the following pages and predicted its possible features:
+    MainWeatherDetail: Display real-time weather data; Show hourly weather forecast; Provide detailed weather summary; Allow navigation to more detailed weather information.
+    MainWeatherDetail1: Display real-time weather data; Show hourly weather forecast; Provide detailed weather summary; Allow navigation to settings and developer options; Enable background auto-change; Manage notifications; Access radar; Adjust unit settings; Offer full version upgrade; Provide feedback and suggestions.
+    MainUpgradePrompt: Offer full version purchase; Display upgrade benefits; Provide purchase options; Allow deferral or rejection of offer.
+    LocationManagement: Edit location; Add location; Automatic detection; Delete location; View current location.
+    SearchLocation: Search for locations; Clear search input.
+    SearchLocation1: Search for locations; Display recent search results; Clear search input; Select location from list.
+    SearchLocation2: Search for locations; Clear search input.
+    MainLocationSelector: Edit or add locations; Enable automatic location detection; Display current location weather; Delete saved locations.
+    MainWeatherDetail2: Display real-time weather data; Show hourly weather forecast; Provide precipitation chance; Display sunrise and sunset times; Allow navigation to detailed weather information.
+    MainSettingsMenu: Manage location; Auto change background; Notification settings; Ongoing notification; Radar; Unit setting; Get Full Version; Rate; Feedback and Suggestion.
+    MainWeatherDetail3: Display real-time weather updates; Show hourly weather forecasts; Provide detailed weather metrics like humidity, precipitation, wind speed, and UV index; Allow navigation to detailed hourly weather view; Enable location selection; Support horizontal scrolling for hourly data; Display chance of rain for each hour.
+    MainWeatherDetail4: Display real-time weather updates; Show hourly weather forecasts; Provide detailed weather metrics like humidity, precipitation, wind speed, and UV index; Allow navigation through hourly data via swipe; Enable detailed view of specific hour's weather; Display location-specific weather information.
+Please give me the page with the function that best matches the following tasks:
+    (1) go to settings;
+    (2) turn off the use of current location.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['MainSettingsMenu', 'LocationManagement']

@@ -1,0 +1,27 @@
+['set dark theme']
+
+Autoscout24 app is a platform for buying and selling new and used cars, offering listings, search tools, and vehicle information.
+All its main function pages are: SplashScreen.
+I have explored the following pages and predicted its possible features:
+    MainHomeScreen: Start search; Browse trending car categories; Navigate to Discover, Search, Favourites, Saved searches, Selling sections.
+    MainHomePage: Start search; Browse trending categories; Navigate to Discover, Search, Favourites, Saved searches, Selling; Access Log in, Settings, Information.
+    LoginPrompt: Navigate back; Log in to access saved searches, price history, and notes.
+    MainSearchFilter: Search for cars by make, model, price, body type, registration, mileage, and power; View search results; Navigate to different sections like Discover, Favourites, Saved searches, and Selling.
+    MainSearchResetDialog: Reset search criteria; Confirm or cancel reset action.
+    MainBrandSelection: Search for car brands; Select car brands from list; Swipe through brand list; View brand icons.
+    MainBrandLocationSelector: Select car brand; Filter by location; Display brand icons; Search for specific brands; Error handling for invalid inputs.
+    BrandSelectionPage: Search for car brands; Select specific car brands; Swipe through brand list; View brand icons and names.
+    MainSearchFilter1: Search for cars by make, model, price, registration, quality, mileage, displacement; Navigate to Discover, Favourites, Saved searches, Selling sections; Perform new search; Swipe through search results.
+    MainLocationSelector: Navigate to different sections; Filter by premium German brands; Filter by price range; Access Discover, Search, Favourites, Saved searches, and Selling sections.
+    MainSavedSearches: View saved searches; Log in to sync searches; Start new search; Navigate to Discover, Search, Favourites, Saved searches, Selling sections.
+    SavedSearchesOnboarding: Display saved searches; Prompt user to log in; Start new search; Navigate to main sections: Discover, Search, Favourites, Saved searches, Selling; Access settings and information.
+    LoginPrompt1: Navigate back; Log in to synchronize data.
+Please give me the page with the function that best matches the following tasks:
+    (1) set dark theme.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['MainHomePage']

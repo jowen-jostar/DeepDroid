@@ -1,0 +1,27 @@
+[
+    {
+        "page_name": "Unknown",
+        "action": "click",
+        "index": "0",
+        "text": "",
+        "resource-id": "",
+        "class": "android.webkit.WebView",
+        "package": "com.adpog.diary",
+        "content-desc": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "true",
+        "scrollable": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "visible-to-user": "true",
+        "bounds": "[0,0][1080,2034]",
+        "parent_node": "",
+        "sibling_nodes": "",
+        "child_nodes": ""
+    }
+]

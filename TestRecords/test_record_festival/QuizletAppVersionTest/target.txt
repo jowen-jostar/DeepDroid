@@ -1,0 +1,28 @@
+['check that the version of the app is 6.6.2']
+
+The Quizlet app is a powerful tool for studying and learning, enabling users to create custom flashcards, quizzes, and study sets on a wide range of subjects, with features like interactive games and spaced repetition.
+All its main function pages are: Root, CreateSetShortcutInterstitial, Intro, Login, Signup, HomeNavigation, Group, DeepLinkInterstitial, Folder, AccessCodeBlocker, SetPage, SetPageMobileWeb, EdgyDataCollectionWeb, Profile, Feedback, FlipFlashcardsV3, Flashcards, FlashcardsOnboarding, LearnMode, LearnSettings, Match, MatchSettings, TestStudyMode, FullScreenOverlay, EditTermImagePreview, EditSet, EditSetDetails, EditSetLanguageSelection, EditSetPermissionSelection, InputPassword, Search, SetPreview, WebView, ChangeProfileImage, ChangeEmail, ChangeUsername, AddPassword, ChangePassword, PremiumContent, NightThemePicker, NightThemeInputAutomaticSunsetMode, ReferralInvite, GoogleAuth, FacebookAuth, CropImage, LearningAssistant, LADueDate, LASettings, LASettingsGradingOptions, Upgrade, UpgradeExperimentInterstitial, DiagramOverview, AddSetToClassOrFolder, JoinContentToFolder, AddClassSet, EditClass, QuizletLive, QuizletLiveDeepLinkInterstitial, AddSetToFolder, QuizletLiveInterstitial, QLiveQrCodeReader, ScanDocument, SwipeFlashcardsOnboarding, Subject, StudyPath, ThankCreator, Textbook, QuestionDetail, Courses.
+I have explored the following pages and predicted its possible features:
+    HomeNavigation: Access activity center; Upgrade account; Search content; Create study sets; Manage account.
+    ActivitySummary: View recent activity; Navigate back; Dismiss modal.
+    UpgradeSubscription: Try free trial; Close upgrade page; View subscription details; Scroll through features; Annual billing option.
+    UserSettingsProfile: View profile; Upgrade account; Manage school and courses; Edit email and username; Navigate to Home, Search, Create.
+    ProfileImageSelector: Choose a picture; Navigate up; Select image from grid; Confirm image selection.
+    SearchResultsNavigation: Search for study materials; Filter results by Sets, Textbooks, Questions; Play Quizlet Live; Navigate to Home, Create, Account sections.
+    SearchResultsPage: Search by topic or keywords; Filter results by sets, textbooks, questions; Clear search input; Play Quizlet Live; Swipe through search results.
+    SearchResultsNavigation1: Search for study materials; Filter results by Sets, Textbooks, Questions; Play Quizlet Live; Navigate to Home, Create, Account sections.
+    SearchResultsPage1: Search by topic or keywords; Filter results by sets, textbooks, questions; Clear search input; Play Quizlet Live; Swipe through results.
+    SearchResultsNavigation2: Search for study materials; Filter results by Sets, Textbooks, Questions; Access Quizlet Live; Navigate to Home, Create, Account sections.
+    SearchResultsExplorer: Search for study materials; Filter results by type; Navigate to Quizlet Live; Access home, create, and account sections.
+    SearchResultsPage2: Search by topic or keywords; Filter results by Sets, Questions, Users; Clear search input; Play Quizlet Live; Swipe through results.
+    HomeNavigation1: Search for study sets; Clear search input; Navigate to Sets, Textbooks, Users, Classes; Swipe through search results; Access Home, Create, Account sections.
+    HomeNavigation2: Search for study sets; Navigate to different categories like SETS, TEXTBOOKS, USERS, CLASSES; Play Quizlet Live; Clear search input.
+Please give me the page with the function that best matches the following tasks:
+    (1) check that the version of the app is 6.6.2.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['UserSettingsProfile']

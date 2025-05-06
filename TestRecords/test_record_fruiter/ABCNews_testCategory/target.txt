@@ -1,0 +1,32 @@
+['open the navigation drawer', 'select the first category from the list']
+
+ABC News is a news application that provides users with up-to-date news, live streaming, and on-demand video content from the ABC network, covering a wide range of topics including politics, entertainment, health, and more.
+All its main function pages are: Start, SlideshowViewing, MainNavigation, NewsItemPager, FilmStrip, NewsItem, WebView, Settings, ChromecastTutorial, Search, ManageInterests, HashtagTopic, AndroidAuto, Notifications, VideoPlaylist, ElectionRaces.
+I have explored the following pages and predicted its possible features:
+    MainNewsFeed: View top stories; Swipe to refresh; Navigate to news categories; Access live content; Explore shows; Listen to audio content.
+    MainNavigation: View top stories; Navigate through news categories; Access live streaming; Search for content; Save and view trending stories.
+    MainNewsFeed1: View trending news; Read article headlines; Access different content categories; Navigate through news sections.
+    MainNavigation1: Browse trending news; Access live streaming; Explore on-demand video content; Navigate through sections; Search for specific topics; Save and view top stories.
+    MainNavigation2: Access saved stories; Navigate to news, interests, live, shows, listen sections; Open drawer menu.
+    MainNavigationDrawer: Access saved stories; Navigate through news categories; Search for content; View top stories; Explore trending topics; Watch live and on-demand videos; Follow election updates; Read investigative reports.
+    VideoPlaylist: View video playlist; Share video; Close playlist; Minimize playlist.
+    PermissionPrompt: Request app permissions; Confirm action.
+    VideoPlaylistError: Display error message; Provide OK button for acknowledgment.
+    VideoPlaylist2: View video playlist; Share video; Close playlist; Minimize playlist.
+    MainNavigation4: Listen to ABC News Radio; Browse podcasts; Navigate to NEWS, INTERESTS, LIVE, SHOWS, LISTEN tabs.
+    AppUpdateNotification: Inform app improvement; Prompt user action; Confirm notification.
+    MainNavigation5: Listen to podcasts; Browse news categories; Access live streaming; Search for content; View top stories; Save articles; Explore trending topics; Watch videos; Follow election updates; Read investigative reports.
+    MainNavigation6: Listen to podcasts; Navigate news categories; Access live streaming; Search content; Explore shows and sections.
+    MainNavigation7: Access podcast episodes; Navigate through news categories; Search for content; View top stories; Save and manage content; Explore trending topics; Access specific sections like U.S., Video, Election 2020, Politics, Local Video, International, Investigative.
+    MainNewsFeed2: View news headlines; Access featured content; Navigate to different sections like NEWS, INTERESTS, LIVE, SHOWS, LISTEN; Click on specific news items; Swipe through news list.
+    MainNavigation8: Navigate to NEWS, INTERESTS, LIVE, SHOWS, LISTEN; Access search functionality; Explore sections and shows; View specific programs like GOOD MORNING AMERICA, WORLD NEWS TONIGHT, NIGHTLINE, THIS WEEK, 20/20, ABC NEWS FEATURES, A MURDER ON ORCHARD STREET, YOUNG AND GIFTED, FINDING THE NEXT.
+Please give me the page with the function that best matches the following tasks:
+    (1) open the navigation drawer;
+    (2) select the first category from the list.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['MainNavigationDrawer', 'MainNavigation']

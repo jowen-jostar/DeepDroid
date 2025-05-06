@@ -1,0 +1,29 @@
+['open sleep mode']
+
+The Line Webtoon app is a digital platform for reading and discovering webcomics (webtoons), offering a wide range of genres and stories created by various artists, with features like personalized recommendations and community interactions.
+All its main function pages are: Splash, Tutorial.
+I have explored the following pages and predicted its possible features:
+    MainHome: Personalized recommendations; Top series display; Genre-based browsing; Navigation tabs for For You, Originals, Canvas, My, More; Search functionality; Onboarding questionnaire.
+    SearchGenreSelector: Search for titles or creators; Filter by genre; Cancel search.
+    SearchResultsPage: Search bar with text input; Cancel search option; Display genre categories; No results found message; Genre image clickable.
+    MainWebtoonDiscovery: Browse daily webtoons; Explore genres; Search for webtoons; View popular webtoons; Navigate between tabs like FOR YOU, ORIGINALS, CANVAS, MY, MORE.
+    MainWebtoonDiscovery1: Daily updates; Genre selection; Weekly schedule navigation; Daily Pass access; Completed series; Personalized recommendations; Original and Canvas content; User profile and settings.
+    WebtoonRankingSelector: View trending webtoons; Explore popular webtoons; Filter by romance genre; Filter by drama genre; Navigate to search; Access shortcut menu.
+    WebtoonRanking: View genre-based rankings; Navigate through trending, popular, romance, and drama categories; Access shortcuts for quick genre selection; Swipe to explore more genres; Search for specific webtoons.
+    MainGenreSelection: Daily updates; Genre browsing; Shortcut access; Popularity sorting; Webtoon previews; Tab navigation.
+    MainWebtoonExplorer: Browse daily webtoons; Explore genres like SCI-FI, THRILLER, SUPERNATURAL, MYSTERY; View popular webtoons; Access personalized recommendations; Navigate through ORIGINALS, CANVAS, MY, MORE sections.
+    MainWebtoonDiscovery2: Daily updates; Genre selection; Weekly schedule navigation; Daily Pass access; Webtoon recommendations; Sorting by likes; Webtoon browsing; Tab navigation for For You, Originals, Canvas, My, More.
+    MainLocationSelector: Navigate to personalized recommendations; Access original webtoons; Explore user-generated content; Manage personal profile; Access additional features.
+    OnBoardingInterestSelector: Step 1 of 3; Skip onboarding; Select interests; Proceed to next step.
+    OnBoardingSelect_Error: No Internet Connection; Retry Connection.
+    WebtoonRanking2: View trending webtoons; Filter by genre; Access top-ranked webtoons; Swipe to browse; Click to select webtoon.
+    MainSortSelector: Sort by Popularity; Sort by Interests; Sort by Likes; Sort by Date.
+Please give me the page with the function that best matches the following tasks:
+    (1) open sleep mode.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['MainWebtoonDiscovery1']

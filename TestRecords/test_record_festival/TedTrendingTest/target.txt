@@ -1,0 +1,36 @@
+['take me to the trending section']
+
+The TED app is a mobile application that provides access to TED Talks, offering users the ability to watch and listen to inspiring and educational presentations by experts and thought leaders on various topics.
+All its main function pages are: Main.
+I have explored the following pages and predicted its possible features:
+    MainHomeScreen: View spotlight talks; Browse newest and trending videos; Navigate to profile, discover, surprise me, library, and podcasts sections.
+    MainUserProfile: Navigate to user profile; Access settings; View recommended content; View history; Create or sign in to account; Navigate to home, browse, surprise me, my library, and podcasts sections.
+    MainHomeScreen1: View spotlight talks; Browse newest and trending videos; Navigate to profile; Access home, discover, surprise me, my library, and podcasts sections.
+    VideoDetails: Watch video; Like video; Save video; Share video; Download video; Navigate to Home; Navigate to Browse; Navigate to Surprise Me!; Navigate to My Library; Navigate to Podcasts.
+    VideoDetailsPage: Watch video; Like video; Save video; Share video; Download video; Navigate to Home; Navigate to Browse; Navigate to Surprise Me!; Navigate to My Library; Navigate to Podcasts.
+    MainHomeScreen2: View spotlight talks; Browse newest videos; Navigate to Home, Discover, Surprise Me, My Library, Podcasts; Access profile page.
+    MainUserProfile1: Access user profile; Navigate to settings; View recommended content; View history; Create or sign in to account; Navigate to home, browse, surprise me, my library, and podcasts; Interact with video content.
+    UserSettingsScreen: Toggle light mode; Toggle cellular downloads; Set video resolution; Toggle autoplay; Select languages; Manage notifications; Set interests; Navigate to Home, Browse, Surprise Me!, My Library, Podcasts; View mysterious design content.
+    VideoDetail: Watch video; Like/Save/Share/Download video; View video details; Navigate to Home/Browse/Surprise Me!/My Library/Podcasts; Explore related content.
+    VideoPlayer: Watch TED Talk; Like/Save/Share/Download video; Navigate to Home/Browse/Surprise Me/My Library/Podcasts; View video details.
+    VideoPlayer1: Watch video; Like video; Save video; Share video; Download video; Navigate to Home; Navigate to Browse; Navigate to Surprise Me!; Navigate to My Library; Navigate to Podcasts.
+    MainUserProfile2: Navigate to profile; Access settings; View library; Check recommendations; View history; Create or sign in account; Switch between home, browse, surprise me, library, and podcasts.
+    PodcastsScreen: View podcast episodes; Navigate to Home, Discover, Surprise Me, My Library, Podcasts tabs.
+    PodcastDetails: View podcast details; Navigate back to previous page; Scroll through podcast list; Select specific podcast episode; Switch between app tabs.
+    PodcastDetails1: Navigate back to TED Podcasts; Scroll through podcast details; Select specific podcast episodes; Switch between app sections like Home, Browse, Surprise Me, My Library, Podcasts; Access listening history.
+    PodcastDetails2: Navigate back to TED Podcasts; Scroll through podcast details; Select specific podcast episodes; Switch between app sections like Home, Discover, Surprise Me, My Library, Podcasts.
+    PodcastsScreen1: View podcast episodes; Navigate to different sections like Home, Discover, Surprise Me, My Library, Podcasts; Access specific podcast content.
+    PodcastDetails3: Navigate back to previous page; Scroll through podcast details; Switch to Home, Discover, Surprise Me, My Library, or Podcasts tabs; Select podcast episode.
+    PodcastDetails4: Navigate back to previous page; Scroll through podcast details; Access podcast episodes; Switch between app tabs; Listen to selected podcast.
+    PodcastDetails5: Navigate back to previous page; Scroll through podcast details; Select podcast episode; Switch to Home tab; Switch to Browse tab; Switch to Surprise Me tab; Switch to My Library tab; Switch to Podcasts tab.
+    UserProfileSettings: Access user profile; Navigate to settings; View recommended content; View history; Create or sign in to account; Browse content; Access podcasts; Explore surprise content; Access library; View specific talk.
+    MainHomeScreen3: View spotlight talks; Browse newest videos; Navigate to profile; Access home, discover, surprise me, my library, and podcasts sections.
+Please give me the page with the function that best matches the following tasks:
+    (1) take me to the trending section.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['MainHomeScreen']

@@ -1,0 +1,20 @@
+Autoscout24 app is a platform for buying and selling new and used cars, offering listings, search tools, and vehicle information.
+All its main function pages are: SplashScreen.
+I want to set dark theme, in which set dark theme may be accomplished in MainHomePage page.
+I have finished the following actions:
+    (Step 1 in MainHomeScreen page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'toolbar', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 2 in MainHomePage page) {'action': 'click', 'text': '', 'resource-id': 'drawer_layout_icon', 'class': 'ImageView', 'content-desc': '', 'parent_node': 'drawer_login_header', 'sibling_nodes': 'drawer_item_login', 'child_nodes': ''};
+    (Step 3 in MainHomeScreen page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'toolbar', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 4 in MainHomePage page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'FrameLayout', 'content-desc': 'PROFILE', 'parent_node': 'drawer_container_linearlayout', 'sibling_nodes': 'drawer_login_header', 'child_nodes': 'drawer_item_imageview, drawer_item_textview/Settings'};
+    (Step 5 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'theme_settings_container', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'fragment_profile_login_container', 'sibling_nodes': 'fragment_profile_login_header_label/Profile, fragment_profile_login_subtitle_label/Log in to synchronize your favorites with 'My AutoScout24', fragment_profile_button_login/Log in', 'child_nodes': 'theme_settings_title/Appearance, theme_settings_description/Choose your light or dark theme preference'}.
+Current function GUI page is Main, which has the following texts: 'Appearance', 'Use device theme', 'Light theme', 'Dark theme'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': 'Use device theme', 'resource-id': 'system_theme_button', 'class': 'RadioButton', 'content-desc': '', 'parent_node': 'theme_radio_group', 'sibling_nodes': 'light_theme_button/Light theme, dark_theme_button/Dark theme', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': 'Light theme', 'resource-id': 'light_theme_button', 'class': 'RadioButton', 'content-desc': '', 'parent_node': 'theme_radio_group', 'sibling_nodes': 'system_theme_button/Use device theme, dark_theme_button/Dark theme', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': 'Dark theme', 'resource-id': 'dark_theme_button', 'class': 'RadioButton', 'content-desc': '', 'parent_node': 'theme_radio_group', 'sibling_nodes': 'system_theme_button/Use device theme, light_theme_button/Light theme', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

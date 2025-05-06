@@ -1,0 +1,33 @@
+['sign in with email and password', 'navigate to help section in the menu']
+
+Geek is a shopping app that offers a wide range of tech gadgets, electronics, and geek culture-related products, often featuring deals and exclusive items.
+All its main function pages are: Browse.
+I have explored the following pages and predicted its possible features:
+    BrowseProductFeed: Open Menu; Filter Products; Search Products; Swipe Product Feed; View Product Details; Select Popular Items; Navigate to Deals Hub.
+    BrowseProductFeed1: Open Menu; Filter Products; Search Products; Swipe Product View; Click Product Tile; Long-Click Product Tile; Swipe Tab Strip; Select Popular; Select Deals Hub.
+    Browse: View product listings; Filter by Popular or Deals Hub; Access user profile; Navigate to Search, Notifications, Shopping Cart, Order History, Geek Cash, Rewards, Daily Login Bonus, Shop More, Invite Friends.
+    MenuDrawer: Open Menu.
+    ProfileMenu: Close Menu; View Profile; Browse; Search; Notifications; Shopping Cart; Order History; Geek Cash; Rewards; Daily Login Bonus; Shop More; Invite Friends.
+    CartLoading: Open Menu; Loading Cart View.
+    CartErrorMenu: Close Menu; Retry Loading; Navigate to Profile; Browse; Search; Notifications; Shopping Cart; Order History; Geek Cash; Rewards; Daily Login Bonus; Shop More; Invite Friends.
+    ProfileWishlist: View user profile; Edit profile picture; View followers and following; Navigate to wishlist, reviews, and photos sections; Create a new wishlist.
+    CartEmpty: Navigate back; Display empty cart message; Continue shopping.
+    UserList: Display followers; Show no users found; Navigate up.
+    ProductDetails: Navigate back; Access search; Long-press search.
+    ProductDetailsError: Navigate back; Retry loading; Search products.
+    SearchPage: Open Menu; Enter Search Query.
+    SearchLocation: Input search query; Clear search query; Open menu.
+    MainMenuDrawer: Close Menu; View Profile; Browse; Search; Notifications; Shopping Cart; Order History.
+    ProductBrowseFilter: Close menu; Navigate to filter; Search products; Swipe through product feed; View product details; Select popular or deals hub; Refine by color or rating; Clear or apply filters.
+    ErrorDialog: Display error message; Provide OK button for confirmation.
+    SearchResults: Display search suggestions; Clear search query; Open menu; Select search result.
+Please give me the page with the function that best matches the following tasks:
+    (1) sign in with email and password;
+    (2) navigate to help section in the menu.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['ProfileMenu', 'MainMenuDrawer']

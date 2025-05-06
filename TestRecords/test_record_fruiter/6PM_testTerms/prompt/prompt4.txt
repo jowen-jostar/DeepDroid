@@ -1,0 +1,25 @@
+6PM is a shopping app that offers discounted deals on shoes, clothing, and accessories from various brands.
+All its main function pages are: Home, Splash, Departments, Recommendations, RecentlyViewedItems, MyListItems, MyLists, Favorites, OrderSummary, Order, SizeChart, ZAsk, GiftCard, LandingPages, Search, Product, ProductEnhance, VideoPlayer, AccountForwarding, MyAccountMultiPane, MyAccount, ReturnWizard, WebPackageTracking, NewMapPackageTracking, LoyaltyFAQ, InfoWeb, AccountAuth, AUIAccountAuth, TeamMember, EasterEgg, WebView, ACheckoutWizard, Checkout, CheckoutSecondary, Confirmation, ReviewCreation, OrderConfirmation, Settings, About, BarcodeScanner, LandingPage, ReturnUPSPickup, CustomerService, PushHistory.
+I want to navigate to settings and open terms of use from more info, in which navigate to settings may be accomplished in Settings page, open more info may be accomplished in About page, open terms of use may be accomplished in InfoWeb page.
+I have finished the following actions:
+    (Step 1 in MainCategorySelector page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Open navigation drawer', 'parent_node': 'extended_toolbar', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 2) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayoutCompat', 'content-desc': '', 'parent_node': 'design_navigation_view', 'sibling_nodes': 'navigation_header_container', 'child_nodes': 'design_menu_item_text/Settings & Information'};
+    (Step 3) {'action': 'swipe', 'text': '', 'resource-id': 'recycler_view', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': 'list_container', 'sibling_nodes': '', 'child_nodes': 'title/General, title/Preferences, title/Account'};
+    (Step 4) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/More Info, summary/Policies, Tax, Shipping & Returns, Terms, etc.'}.
+Current function GUI page is Settings, which has the following texts: 'Settings & Info', 'About 6PM', 'License Agreement', 'Privacy Policy', 'Shipping & Delivery', 'Tax Information', 'Return Policy', 'Tell Us What You Think', 'Terms of Use', 'Zappos Careers'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/About 6PM'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/License Agreement'};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Privacy Policy'};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Shipping & Delivery'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Tax Information'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Return Policy'};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Tell Us What You Think'};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Terms of Use'};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Zappos Careers'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps, and don't do any extra operation after completing the task, such as going back to the home page, just output '-1'.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to check whether the target widget has already been operated in the previous steps.

@@ -1,0 +1,28 @@
+['go to settings', 'enable Dark Mode Theme']
+
+The NASA app is an official application developed by the National Aeronautics and Space Administration (NASA), offering users access to the latest news, images, videos, and information about space exploration missions and discoveries.
+All its main function pages are: Main, ExpandedControls, Ringtones, Feeds, WebBrowserView, EXOVideoPlayer, News, NewsPager, Images, ImageDetail, Missions, MissionDetail, MapTracking, Map, Sightings, Videos, NASALive, Podcasts1, Featured, FeaturedChild, FeaturedChildSectioned, CenterDetail, GlobalSearch, Planet, FeaturedHistoryTimeline, TweetTab, Sites, LegacySettings, ThirdRock1, Tweets, WWFeatured.
+I have explored the following pages and predicted its possible features:
+    MainNewsImageTV: Access latest news; View space-related images; Explore TV and audio content; Navigate to settings.
+    MainNewsImageTVSelector: Access latest news; View space images; Watch TV and audio content; Navigate to all news.
+    SettingsMenu: Toggle Dark Mode; Enable NASA Events Notifications; Enable NASA Image of the Day Notifications; Enable Astronomy Picture of the Day Notifications; Configure ISS Sightings Notifications; Set Wallpaper Automatically; Select Image Feeds to Display.
+    SightingsPage: View sighting details; Switch between Sightings and Tracking modes; Navigate up; Access more options.
+    SightingsMapViewer: View satellite locations on map; Toggle between Sightings and Tracking modes; Zoom in on map; Navigate up; Access more options.
+    ImageSourceSelector: Select image source; Choose between All Images, NASA Image of the Day, Astronomy Picture of the Day; Cancel selection.
+    FeedsSelection: Select all feeds; Deselect all feeds; Toggle individual feed subscriptions.
+    SightingsLocationSetup: Request GPS Location; Share sightings info; Guide on viewing passes; Manual location entry; Enable sightings notifications.
+    LocationPermissionPrompt: Request location access; Launch app settings.
+    LocationSettings: Request GPS Location; Show Current Home Location; Show Current Orbiter Location; Select Map Type; Center On Orbiter; Manually Enter Location.
+    NewsPager: Swipe through articles; Navigate back; Share article.
+    NewsFeed: Navigate up; Search; Scroll news items; View news details.
+    NASALiveSelector: Navigate up; Select Public channel; Select Media channel; Select ISS Views; Select Radio channel; Select Podcasts.
+Please give me the page with the function that best matches the following tasks:
+    (1) go to settings;
+    (2) enable Dark Mode Theme.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['MainNewsImageTV', 'SettingsMenu']

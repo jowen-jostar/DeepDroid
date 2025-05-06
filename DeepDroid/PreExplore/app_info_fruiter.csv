@@ -1,0 +1,12 @@
+app_function,AUT
+"ABC News is a news application that provides users with up-to-date news, live streaming, and on-demand video content from the ABC network, covering a wide range of topics including politics, entertainment, health, and more.",com.abc.abcnews
+"BBC News is a trusted global news app providing up-to-date coverage on international news, politics, business, technology, and more, directly from the British Broadcasting Corporation.",bbc.mobile.news.ww
+"BuzzFeed is a news app that delivers trending stories, quizzes, videos, and entertainment content, often focusing on pop culture, viral topics, and social media trends.",com.buzzfeed.android
+"Fox News is a news app that provides the latest updates, articles, and videos on politics, business, entertainment, and more, from the Fox News network.",com.foxnews.android
+"SmartNews is a news aggregation app that delivers curated news stories from various sources, personalized to user interests, using machine learning algorithms.",jp.gocro.smartnews.android
+"USA TODAY is a news app that provides the latest national and international news, sports, entertainment, and more, delivering content from the USA TODAY newspaper and its network of local media outlets.",com.usatoday.android.news
+"5miles is a mobile shopping app that allows users to buy, sell, and discover items locally, offering a wide range of products from electronics to fashion.",com.thirdrock.fivemiles
+"6PM is a shopping app that offers discounted deals on shoes, clothing, and accessories from various brands.",com.zappos.android.sixpmFlavor
+"Geek is a shopping app that offers a wide range of tech gadgets, electronics, and geek culture-related products, often featuring deals and exclusive items.",com.contextlogic.geek
+"The shopping app named ""Home"" is likely a platform focused on home goods, furniture, and decor, allowing users to browse and purchase items for their living spaces.",com.contextlogic.home
+"Wish is a mobile shopping app that offers a wide range of discounted products, often directly from manufacturers, with a focus on affordable and trendy items.",com.contextlogic.wish

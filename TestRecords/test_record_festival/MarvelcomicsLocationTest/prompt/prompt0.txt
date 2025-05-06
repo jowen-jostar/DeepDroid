@@ -1,0 +1,23 @@
+The Marvel Comics app is a digital platform for reading official Marvel comic books, featuring a vast library of titles from various series, with options for purchasing and subscribing to new releases.
+All its main function pages are: Router.
+I want to change download location to SD card, in which change download location to SD card may be accomplished in Unknown page.
+This is the first action.
+Current function GUI page is Featured, which has the following texts: 'Featured', 'FEATURED', 'NEW', 'DISCOVER', 'POPULAR', 'Cannot connect to the Comic Store', 'The Comic Store is temporarily unavailable.', 'RETRY'.
+Current GUI page seems like MainNavigationDrawer page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Open navigation drawer', 'parent_node': 'toolbar', 'sibling_nodes': 'Featured', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'StoreMenu_search', 'class': 'TextView', 'content-desc': 'Search', 'parent_node': '', 'sibling_nodes': 'StoreMenu_myBooks', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'StoreMenu_myBooks', 'class': 'TextView', 'content-desc': 'My Books', 'parent_node': '', 'sibling_nodes': 'StoreMenu_search', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'swipe', 'text': '', 'resource-id': 'tabs', 'class': 'HorizontalScrollView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'FeaturedActivity_viewPager', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'swipe', 'text': '', 'resource-id': 'FeaturedActivity_viewPager', 'class': 'ViewPager', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'tabs', 'child_nodes': 'contentContainer, messageView, title/Cannot connect to the Comic Store, subtitleFirst/The Comic Store is temporarily unavailable.'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'FEATURED', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'FEATURED'};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'NEW', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'NEW'};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'DISCOVER', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'DISCOVER'};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'POPULAR', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'POPULAR'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'TOP RATED', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 10) {'action': 'click', 'text': 'RETRY', 'resource-id': 'button', 'class': 'Button', 'content-desc': '', 'parent_node': 'messageView', 'sibling_nodes': '', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

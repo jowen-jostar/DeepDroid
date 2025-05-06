@@ -1,0 +1,197 @@
+AccuweatherDefaultLocationTest:
+ACP: 10/10=1.0
+SUCCESS: True
+
+AccuweatherDisplayModeTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+AccuweatherFavouriteLocationTest:
+ACP: 4/4=1.0
+SUCCESS: True
+
+AccuweatherLondonTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+AccuweatherNotificationTest:
+ACP: 2/4=0.5
+SUCCESS: False
+
+AccuweatherTemperatureTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+Autoscout24DarkThemeTest:
+ACP: 4/4=1.0
+SUCCESS: True
+
+Autoscout24FavouriteTest:
+ACP: 7/8=0.875
+SUCCESS: False
+
+Autoscout24SearchTest:
+ACP: 7/7=1.0
+SUCCESS: True
+
+CastboxTechnologyTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+ChanelweatherLocationTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+ChanelweatherNotificationTest:
+ACP: 4/4=1.0
+SUCCESS: True
+
+DevweatherLocationTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+DevweatherShowTest:
+ACP: 0/4=0.0
+SUCCESS: False
+
+DiaryCreateTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+DiaryExportTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+DiaryReminderTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+GooglechromeAppVersionTest:
+ACP: 4/4=1.0
+SUCCESS: True
+
+GooglechromeBookmarkTest:
+ACP: 2/2=1.0
+SUCCESS: True
+
+GooglechromeOpenIncognitoTest:
+ACP: 2/2=1.0
+SUCCESS: True
+
+GooglenewsProfileTest:
+ACP: 1/1=1.0
+SUCCESS: True
+
+GooglenewsTechnologyTest:
+ACP: 2/2=1.0
+SUCCESS: True
+
+GoogletranslateHelloTest:
+ACP: 1/3=0.3333333333333333
+SUCCESS: False
+
+GoogletranslateHelloToFrenchTest:
+ACP: 6/7=0.8571428571428571
+SUCCESS: False
+
+GoogletranslateRecentLanguagesTest:
+ACP: 0/3=0.0
+SUCCESS: False
+
+LinewebtoonAppVersionTest:
+ACP: 7/7=1.0
+SUCCESS: True
+
+LinewebtoonMostLikedOriginalTest:
+ACP: 3/5=0.6
+SUCCESS: False
+
+LinewebtoonOpenSleepModeTest:
+ACP: 5/5=1.0
+SUCCESS: True
+
+LinewebtoonSearchToonTest:
+ACP: 2/2=1.0
+SUCCESS: True
+
+MarvelcomicsLocationTest:
+ACP: 5/7=0.7142857142857143
+SUCCESS: False
+
+MarvelcomicsVersionTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+MerriamwebsterRecentWordTest:
+ACP: 1/2=0.5
+SUCCESS: False
+
+MerriamwebsterSearchForHelloTest:
+ACP: 0/2=0.0
+SUCCESS: False
+
+NasaDarkmodeTest:
+ACP: 2/2=1.0
+SUCCESS: True
+
+NasaImageTest:
+ACP: 2/6=0.3333333333333333
+SUCCESS: False
+
+NasaMissionTest:
+ACP: 0/3=0.0
+SUCCESS: False
+
+PhotomathCalculatorTest:
+ACP: 0/1=0.0
+SUCCESS: False
+
+PhotomathLanguageTest:
+ACP: 5/5=1.0
+SUCCESS: True
+
+QuizletAppVersionTest:
+ACP: 3/3=1.0
+SUCCESS: True
+
+QuizletTurnOnNightModeTest:
+ACP: 4/4=1.0
+SUCCESS: True
+
+SheinBagTest:
+ACP: 1/1=1.0
+SUCCESS: True
+
+SheinCategoryTest:
+ACP: 1/1=1.0
+SUCCESS: True
+
+SheinNewTest:
+ACP: 1/1=1.0
+SUCCESS: True
+
+SoundhoundHistoryTest:
+ACP: 6/6=1.0
+SUCCESS: True
+
+SoundhoundMusicTest:
+ACP: 0/4=0.0
+SUCCESS: False
+
+TedSearchTest:
+ACP: 2/5=0.4
+SUCCESS: False
+
+TedTrendingTest:
+ACP: 1/1=1.0
+SUCCESS: True
+
+TransitSettingTest:
+ACP: 1/1=1.0
+SUCCESS: True
+
+
+
+ACP: 138/173=0.7976878612716763
+
+SR: 33/48=0.6875

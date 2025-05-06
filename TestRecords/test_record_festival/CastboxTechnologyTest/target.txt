@@ -1,0 +1,25 @@
+['view technology headlines']
+
+The Castbox app is a podcast player that allows users to discover, stream, and download a wide variety of podcasts and audio content.
+All its main function pages are: Main, MainRouter, Welcome, Brand.
+I have explored the following pages and predicted its possible features:
+    MainDiscover: Browse podcast categories; Explore audiobooks; Access original content; Discover podcast networks; Search for shows, RSS feeds, iTunes links; Navigate to Discover, Community, Library, and Personal sections.
+    ChannelDetail: View podcast details; Subscribe to channel; Switch between episodes, details, and comments tabs; Share channel; Access more options; Navigate back.
+    ChannelDetail1: View podcast details; Edit tags; Subscribe to channel; Navigate between episodes, details, and comments; Share channel; Access more options.
+    ChannelDetail2: View podcast details; Subscribe/Unsubscribe to channel; Navigate between episodes, details, and comments; Share channel; Access more options.
+    CategorySelector: Browse podcast categories; Select specific category; Navigate back to previous page.
+    CategoryChannels: Navigate back; Display podcast categories; Select specific category.
+    Audiobooks: Navigate back; Search for content.
+    SearchPage: Search for podcasts, RSS feeds, iTunes links; View search history; Clear search history; Voice search.
+    ErrorPage: Navigate back; Search content; Retry connection.
+    SearchResults: Display search results for 'London'; Clear search query; Collapse search bar.
+    SearchPage1: Search for podcasts, RSS feeds, iTunes links; View search history; Clear search history; Voice search; Clear individual search items.
+Please give me the page with the function that best matches the following tasks:
+    (1) view technology headlines.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['MainDiscover']

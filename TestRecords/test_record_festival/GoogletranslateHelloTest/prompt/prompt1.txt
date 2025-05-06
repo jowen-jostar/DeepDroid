@@ -1,0 +1,18 @@
+The Google Translate app is a language translation application that provides text, voice, and image translation capabilities for over 100 languages, allowing users to communicate across language barriers.
+All its main function pages are: Translate, KeyboardHandwriting, VoiceInput, ContinuousTranslate, ContinuousTranslateTranscript, SavedContinuousTranslate, ConversationIntro, OpticsInput, Phrasebook, Flashcard, Onboarding, RestorePackages, LanguagePicker, OpticsOnboarding, Help, Settings, OfflineManager, OfflineDialog, LauncherShortcuts, WordyWelcome, CopyDropWelcome, CopyDrop, CopyDropInApp, CopyDropContextMenu, GetOfflineSpec.
+I want to translate 'hello' to spanish and verify that the result is 'hola', in which translate 'hello' to spanish may be accomplished in MainTranslationInterface page, verify that the result is 'hola' may be accomplished in KeyboardHandwriting page.
+I have finished the following actions:
+    (Step 1 in MainTranslationInterface1 page) {'action': 'click', 'text': '', 'resource-id': 'lyt_home', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'online_state_bg, img_cursor, touch_to_type_text/Tap to enter text'}.
+Current function GUI page is KeyboardHandwriting, which has the following texts: 'Enter text (English)', 'Translation (Spanish)'.
+Current GUI page seems like KeyboardHandwriting page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': 'input_mode', 'class': 'Spinner', 'content-desc': 'Input methods', 'parent_node': '', 'sibling_nodes': 'result_container', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'long-click', 'text': '', 'resource-id': 'input_mode', 'class': 'Spinner', 'content-desc': 'Input methods', 'parent_node': '', 'sibling_nodes': 'result_container', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'result_layout', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'input_card, divider', 'child_nodes': 'result_scroller, result_linear_layout, result_text/Translation (Spanish)'};
+    (Widget Id: 3) {'action': 'text', 'text': 'Enter text (English)', 'resource-id': 'edit_input', 'class': 'EditText', 'content-desc': '', 'parent_node': 'input_card', 'sibling_nodes': 'btn_clear_input', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'btn_clear_input', 'class': 'ImageView', 'content-desc': 'Cancel input', 'parent_node': 'input_card', 'sibling_nodes': 'edit_input/Enter text (English)', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

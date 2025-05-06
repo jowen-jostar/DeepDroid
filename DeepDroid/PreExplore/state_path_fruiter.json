@@ -1,0 +1,1215 @@
+{
+    "com.abc.abcnews.MainNewsFeed": [
+        "MainNewsFeed"
+    ],
+    "com.abc.abcnews.MainNavigation": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "com.abc.abcnews.MainNewsFeed1": [
+        "MainNewsFeed"
+    ],
+    "com.abc.abcnews.MainNavigation1": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "com.abc.abcnews.MainNavigation2": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "com.abc.abcnews.MainNavigationDrawer": [
+        "MainNewsFeed",
+        "MainNavigation",
+        "MainNavigationDrawer"
+    ],
+    "com.abc.abcnews.VideoPlaylist": [
+        "MainNewsFeed",
+        "VideoPlaylist"
+    ],
+    "com.abc.abcnews.PermissionPrompt": [
+        "MainNewsFeed",
+        "VideoPlaylist",
+        "PermissionPrompt"
+    ],
+    "com.abc.abcnews.VideoPlaylistError": [
+        "MainNewsFeed",
+        "VideoPlaylist",
+        "PermissionPrompt",
+        "VideoPlaylistError"
+    ],
+    "com.abc.abcnews.VideoPlaylist2": [
+        "MainNewsFeed",
+        "VideoPlaylist"
+    ],
+    "com.abc.abcnews.MainNavigation4": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "com.abc.abcnews.AppUpdateNotification": [
+        "MainNewsFeed",
+        "MainNavigation",
+        "AppUpdateNotification"
+    ],
+    "com.abc.abcnews.GrantPermissions": [
+        "GrantPermissions"
+    ],
+    "com.abc.abcnews.MainNavigation5": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "com.abc.abcnews.MainNavigation6": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "com.abc.abcnews.MainNavigation7": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "com.abc.abcnews.MainNewsFeed2": [
+        "MainNewsFeed"
+    ],
+    "com.abc.abcnews.Launcher": [
+        "MainNewsFeed",
+        "Launcher"
+    ],
+    "com.abc.abcnews.MainNavigation8": [
+        "MainNewsFeed",
+        "MainNavigation"
+    ],
+    "bbc.mobile.news.ww.MainNavigation": [
+        "MainNavigation"
+    ],
+    "bbc.mobile.news.ww.MainNavigation1": [
+        "MainNavigation"
+    ],
+    "bbc.mobile.news.ww.SearchPage": [
+        "MainNavigation",
+        "SearchPage"
+    ],
+    "bbc.mobile.news.ww.SettingsMenu": [
+        "MainNavigation",
+        "SettingsMenu"
+    ],
+    "bbc.mobile.news.ww.Settings": [
+        "MainNavigation",
+        "SettingsMenu",
+        "Settings"
+    ],
+    "bbc.mobile.news.ww.VideoAutoPlaySetting": [
+        "MainNavigation",
+        "SettingsMenu",
+        "Settings",
+        "VideoAutoPlaySetting"
+    ],
+    "bbc.mobile.news.ww.ArticleDetail": [
+        "MainNavigation",
+        "ArticleDetail"
+    ],
+    "bbc.mobile.news.ww.NetworkErrorRetry": [
+        "MainNavigation",
+        "SettingsMenu",
+        "ArticleDetail",
+        "NetworkErrorRetry"
+    ],
+    "com.buzzfeed.android.MainContentPager": [
+        "MainContentPager"
+    ],
+    "com.buzzfeed.android.ContentPager": [
+        "MainContentPager",
+        "ContentPager"
+    ],
+    "com.buzzfeed.android.SearchResultPager": [
+        "MainContentPager",
+        "ContentPager",
+        "SearchResultPager"
+    ],
+    "com.buzzfeed.android.BuffetSearch": [
+        "MainContentPager",
+        "ContentPager",
+        "SearchResultPager",
+        "BuffetSearch"
+    ],
+    "com.buzzfeed.android.ContentPager1": [
+        "MainContentPager",
+        "ContentPager"
+    ],
+    "com.buzzfeed.android.ProfileSignUp": [
+        "MainContentPager",
+        "ProfileSignUp"
+    ],
+    "com.buzzfeed.android.Unknown": [
+        "Unknown"
+    ],
+    "com.buzzfeed.android.CustomTab": [
+        "Unknown",
+        "CustomTab"
+    ],
+    "com.buzzfeed.android.Settings": [
+        "Unknown",
+        "CustomTab",
+        "ProfileSignUp",
+        "Settings"
+    ],
+    "com.buzzfeed.android.NotificationTopicSelector": [
+        "Unknown",
+        "CustomTab",
+        "ProfileSignUp",
+        "Settings",
+        "NotificationTopicSelector"
+    ],
+    "com.buzzfeed.android.MainContentNavigator": [
+        "Unknown",
+        "CustomTab",
+        "ProfileSignUp",
+        "Settings",
+        "MainContentNavigator"
+    ],
+    "com.buzzfeed.android.SearchResultsPager": [
+        "SearchResultsPager"
+    ],
+    "com.buzzfeed.android.BuffetSearch1": [
+        "SearchResultsPager",
+        "BuffetSearch"
+    ],
+    "com.buzzfeed.android.BuffetSearch2": [
+        "SearchResultsPager",
+        "BuffetSearch"
+    ],
+    "com.buzzfeed.android.DetailPage": [
+        "SearchResultsPager",
+        "BuffetSearch",
+        "DetailPage"
+    ],
+    "com.buzzfeed.android.ArticleDetailPage": [
+        "SearchResultsPager",
+        "BuffetSearch",
+        "ArticleDetailPage"
+    ],
+    "com.buzzfeed.android.CommentsErrorPage": [
+        "SearchResultsPager",
+        "BuffetSearch",
+        "ArticleDetailPage",
+        "CommentsErrorPage"
+    ],
+    "com.buzzfeed.android.FacebookLoginPage": [
+        "SearchResultsPager",
+        "BuffetSearch",
+        "ArticleDetailPage",
+        "CommentsErrorPage",
+        "ProfileSignUp",
+        "FacebookLoginPage"
+    ],
+    "com.buzzfeed.android.FacebookLogin": [
+        "SearchResultsPager",
+        "BuffetSearch",
+        "ArticleDetailPage",
+        "CommentsErrorPage",
+        "ProfileSignUp",
+        "FacebookLoginPage",
+        "FacebookLogin"
+    ],
+    "com.buzzfeed.android.FacebookLogin2": [
+        "SearchResultsPager",
+        "BuffetSearch",
+        "ArticleDetailPage",
+        "CommentsErrorPage",
+        "ProfileSignUp",
+        "FacebookLoginPage",
+        "FacebookLogin"
+    ],
+    "com.foxnews.android.HomeTab": [
+        "HomeTab"
+    ],
+    "com.foxnews.android.VideoFeed": [
+        "HomeTab",
+        "VideoFeed"
+    ],
+    "com.foxnews.android.MainNewsFeed": [
+        "HomeTab",
+        "MainNewsFeed"
+    ],
+    "com.foxnews.android.ArticleDetail": [
+        "HomeTab",
+        "MainNewsFeed",
+        "VideoFeed",
+        "ArticleDetail"
+    ],
+    "com.foxnews.android.ArticleDetail1": [
+        "HomeTab",
+        "MainNewsFeed",
+        "VideoFeed",
+        "ArticleDetail"
+    ],
+    "com.foxnews.android.ArticleDetail2": [
+        "ArticleDetail"
+    ],
+    "com.foxnews.android.HomeFeed": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed"
+    ],
+    "com.foxnews.android.MainNewsFeed1": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed"
+    ],
+    "com.foxnews.android.ArticleView": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "ArticleView"
+    ],
+    "com.foxnews.android.WebViewArticle": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "WebViewArticle"
+    ],
+    "com.foxnews.android.ArticleDetailView": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "ArticleDetailView"
+    ],
+    "com.foxnews.android.ArticleDetailView1": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "ArticleDetailView"
+    ],
+    "com.foxnews.android.WebViewArticle1": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "WebViewArticle"
+    ],
+    "com.foxnews.android.NewsWebView": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "ArticleView",
+        "NewsWebView"
+    ],
+    "com.foxnews.android.ArticleView1": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "ArticleView"
+    ],
+    "com.foxnews.android.ArticleDetailView2": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "HomeFeed",
+        "MainNewsFeed",
+        "WebViewArticle",
+        "ArticleDetailView"
+    ],
+    "com.foxnews.android.VideoList": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "VideoList"
+    ],
+    "com.foxnews.android.VideoList1": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "VideoList"
+    ],
+    "com.foxnews.android.VideoPlaylistEnd": [
+        "ArticleDetail",
+        "HomeTab",
+        "VideoFeed",
+        "VideoList",
+        "VideoPlaylistEnd"
+    ],
+    "jp.gocro.smartnews.android.MainUnsupportedVersion": [
+        "MainUnsupportedVersion"
+    ],
+    "jp.gocro.smartnews.android.SearchHistory": [
+        "MainUnsupportedVersion",
+        "SearchHistory"
+    ],
+    "jp.gocro.smartnews.android.MainLocalNews": [
+        "MainUnsupportedVersion",
+        "MainLocalNews"
+    ],
+    "jp.gocro.smartnews.android.MainNewsFeed": [
+        "MainUnsupportedVersion",
+        "MainNewsFeed"
+    ],
+    "jp.gocro.smartnews.android.UnknownNavigationBar": [
+        "MainUnsupportedVersion",
+        "UnknownNavigationBar"
+    ],
+    "jp.gocro.smartnews.android.SettingChannel": [
+        "MainUnsupportedVersion",
+        "MainNewsFeed",
+        "SettingChannel"
+    ],
+    "jp.gocro.smartnews.android.NewsArticleView": [
+        "MainUnsupportedVersion",
+        "NewsArticleView"
+    ],
+    "jp.gocro.smartnews.android.WebBrowser": [
+        "MainUnsupportedVersion",
+        "NewsArticleView",
+        "WebBrowser"
+    ],
+    "jp.gocro.smartnews.android.WebBrowser1": [
+        "MainUnsupportedVersion",
+        "NewsArticleView",
+        "WebBrowser"
+    ],
+    "jp.gocro.smartnews.android.WebBrowserShareOptions": [
+        "MainUnsupportedVersion",
+        "NewsArticleView",
+        "WebBrowser",
+        "WebBrowserShareOptions"
+    ],
+    "jp.gocro.smartnews.android.TwitterAuth": [
+        "MainUnsupportedVersion",
+        "NewsArticleView",
+        "WebBrowser",
+        "WebBrowserShareOptions",
+        "TwitterAuth"
+    ],
+    "jp.gocro.smartnews.android.FacebookAppInstallPrompt": [
+        "TwitterAuth",
+        "WebBrowser",
+        "WebBrowserShareOptions",
+        "FacebookAppInstallPrompt"
+    ],
+    "jp.gocro.smartnews.android.MainNewsFeed1": [
+        "SettingChannel",
+        "MainUnsupportedVersion",
+        "MainNewsFeed"
+    ],
+    "com.usatoday.android.news.NewsFeedNavigation": [
+        "NewsFeedNavigation"
+    ],
+    "com.usatoday.android.news.SettingsNavigation": [
+        "NewsFeedNavigation",
+        "SettingsNavigation"
+    ],
+    "com.usatoday.android.news.SettingsTheme": [
+        "NewsFeedNavigation",
+        "SettingsNavigation",
+        "SettingsTheme"
+    ],
+    "com.usatoday.android.news.OfflineReadingSettings": [
+        "NewsFeedNavigation",
+        "SettingsNavigation",
+        "OfflineReadingSettings"
+    ],
+    "com.usatoday.android.news.OfflineReadingSettings1": [
+        "NewsFeedNavigation",
+        "SettingsNavigation",
+        "OfflineReadingSettings"
+    ],
+    "com.usatoday.android.news.Unknown": [
+        "NewsFeedNavigation",
+        "SettingsNavigation",
+        "OfflineReadingSettings",
+        "Unknown"
+    ],
+    "com.usatoday.android.news.SearchNavigation": [
+        "NewsFeedNavigation",
+        "SearchNavigation"
+    ],
+    "com.usatoday.android.news.ArticleDetail": [
+        "NewsFeedNavigation",
+        "ArticleDetail"
+    ],
+    "com.usatoday.android.news.ArticleTextSizeSelector": [
+        "NewsFeedNavigation",
+        "ArticleDetail",
+        "ArticleTextSizeSelector"
+    ],
+    "com.usatoday.android.news.ShareOptions": [
+        "NewsFeedNavigation",
+        "ArticleDetail",
+        "ShareOptions"
+    ],
+    "com.usatoday.android.news.ShoppingTopic": [
+        "ArticleDetail",
+        "ShoppingTopic"
+    ],
+    "com.usatoday.android.news.ShoppingDealsArticle": [
+        "ArticleDetail",
+        "ShoppingTopic",
+        "ShoppingDealsArticle"
+    ],
+    "com.usatoday.android.news.ShoppingDealsArticle1": [
+        "ArticleDetail",
+        "ShoppingTopic",
+        "ShoppingDealsArticle"
+    ],
+    "com.usatoday.android.news.ArticleTextSizeSelector1": [
+        "ArticleDetail",
+        "ShoppingTopic",
+        "ShoppingDealsArticle",
+        "ArticleTextSizeSelector"
+    ],
+    "com.usatoday.android.news.EditWidget": [
+        "EditWidget"
+    ],
+    "com.usatoday.android.news.TopicNavigation": [
+        "EditWidget",
+        "ShoppingDealsArticle",
+        "TopicNavigation"
+    ],
+    "com.usatoday.android.news.EnlargedPhoto": [
+        "EditWidget",
+        "ShoppingDealsArticle",
+        "EnlargedPhoto"
+    ],
+    "com.usatoday.android.news.EnlargedPhoto1": [
+        "EditWidget",
+        "ShoppingDealsArticle",
+        "EnlargedPhoto"
+    ],
+    "com.usatoday.android.news.ShoppingDealsPage": [
+        "EditWidget",
+        "ShoppingDealsArticle",
+        "ShoppingDealsPage"
+    ],
+    "com.usatoday.android.news.ShoppingDealsPage1": [
+        "EditWidget",
+        "ShoppingDealsArticle",
+        "ShoppingDealsPage"
+    ],
+    "com.usatoday.android.news.StandaloneNews": [
+        "EditWidget",
+        "ShoppingDealsArticle",
+        "ShoppingDealsPage",
+        "ShoppingTopic",
+        "StandaloneNews"
+    ],
+    "com.usatoday.android.news.ArticleView": [
+        "EditWidget",
+        "ShoppingDealsArticle",
+        "ShoppingDealsPage",
+        "ShoppingTopic",
+        "StandaloneNews",
+        "ArticleView"
+    ],
+    "com.thirdrock.fivemiles.MainShoppingHub": [
+        "MainShoppingHub"
+    ],
+    "com.thirdrock.fivemiles.CategorySearch": [
+        "MainShoppingHub",
+        "CategorySearch"
+    ],
+    "com.thirdrock.fivemiles.KeywordAndUserSearch": [
+        "MainShoppingHub",
+        "CategorySearch",
+        "KeywordAndUserSearch"
+    ],
+    "com.thirdrock.fivemiles.LocalSearchAndDiscovery": [
+        "MainShoppingHub",
+        "CategorySearch",
+        "KeywordAndUserSearch",
+        "LocalSearchAndDiscovery"
+    ],
+    "com.thirdrock.fivemiles.CategorySearch1": [
+        "MainShoppingHub",
+        "CategorySearch"
+    ],
+    "com.thirdrock.fivemiles.SearchResult": [
+        "MainShoppingHub",
+        "KeywordAndUserSearch",
+        "SearchResult"
+    ],
+    "com.thirdrock.fivemiles.KeyWordAndUserSearch": [
+        "MainShoppingHub",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "KeyWordAndUserSearch"
+    ],
+    "com.thirdrock.fivemiles.LocationVerification": [
+        "MainShoppingHub",
+        "LocationVerification"
+    ],
+    "com.thirdrock.fivemiles.ItemDetailView": [
+        "MainShoppingHub",
+        "ItemDetailView"
+    ],
+    "com.thirdrock.fivemiles.ItemImageGallery": [
+        "MainShoppingHub",
+        "ItemDetailView",
+        "ItemImageGallery"
+    ],
+    "com.thirdrock.fivemiles.ItemDetailView1": [
+        "MainShoppingHub",
+        "ItemDetailView"
+    ],
+    "com.thirdrock.fivemiles.ItemImageGallery1": [
+        "MainShoppingHub",
+        "ItemDetailView",
+        "ItemImageGallery"
+    ],
+    "com.thirdrock.fivemiles.CreditLotteryWeb": [
+        "MainShoppingHub",
+        "CreditLotteryWeb"
+    ],
+    "com.thirdrock.fivemiles.DashIntroduction": [
+        "MainShoppingHub",
+        "CreditLotteryWeb",
+        "DashIntroduction"
+    ],
+    "com.thirdrock.fivemiles.MainShoppingPage": [
+        "MainShoppingHub",
+        "MainShoppingPage"
+    ],
+    "com.thirdrock.fivemiles.SearchResult1": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "CategorySearch",
+        "KeywordAndUserSearch",
+        "SearchResult"
+    ],
+    "com.thirdrock.fivemiles.SearchInput": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "CategorySearch",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "SearchInput"
+    ],
+    "com.thirdrock.fivemiles.SearchResult2": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "CategorySearch",
+        "KeywordAndUserSearch",
+        "SearchResult"
+    ],
+    "com.thirdrock.fivemiles.SearchResult3": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "CategorySearch",
+        "KeywordAndUserSearch",
+        "SearchResult"
+    ],
+    "com.thirdrock.fivemiles.KeywordAndUserSearch1": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "CategorySearch",
+        "KeywordAndUserSearch"
+    ],
+    "com.thirdrock.fivemiles.CategorySearch2": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "CategorySearch"
+    ],
+    "com.thirdrock.fivemiles.SearchResult4": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult"
+    ],
+    "com.thirdrock.fivemiles.SearchInput1": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "SearchInput"
+    ],
+    "com.thirdrock.fivemiles.SearchResult5": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult"
+    ],
+    "com.thirdrock.fivemiles.SearchResult6": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult"
+    ],
+    "com.thirdrock.fivemiles.SearchInput2": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "SearchInput"
+    ],
+    "com.thirdrock.fivemiles.SearchInput3": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "SearchInput"
+    ],
+    "com.thirdrock.fivemiles.DynamicFilter": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "DynamicFilter"
+    ],
+    "com.thirdrock.fivemiles.CategorySelector": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "DynamicFilter",
+        "CategorySelector"
+    ],
+    "com.thirdrock.fivemiles.CategorySelector1": [
+        "MainShoppingHub",
+        "MainShoppingPage",
+        "KeywordAndUserSearch",
+        "SearchResult",
+        "DynamicFilter",
+        "CategorySelector"
+    ],
+    "com.zappos.android.sixpmFlavor.MainCategorySelector": [
+        "MainCategorySelector"
+    ],
+    "com.zappos.android.sixpmFlavor.AccountSettingsMenu": [
+        "MainCategorySelector",
+        "AccountSettingsMenu"
+    ],
+    "com.zappos.android.sixpmFlavor.WebViewPage": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage"
+    ],
+    "com.zappos.android.sixpmFlavor.AccountSignIn": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn"
+    ],
+    "com.zappos.android.sixpmFlavor.HomePage": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage"
+    ],
+    "com.zappos.android.sixpmFlavor.ShippingDeliveryFAQ": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ"
+    ],
+    "com.zappos.android.sixpmFlavor.ShippingDeliveryFAQ1": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ"
+    ],
+    "com.zappos.android.sixpmFlavor.UnknownAccountAuth": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ",
+        "UnknownAccountAuth"
+    ],
+    "com.zappos.android.sixpmFlavor.UnknownBankingAuth": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ",
+        "UnknownAccountAuth",
+        "UnknownBankingAuth"
+    ],
+    "com.zappos.android.sixpmFlavor.OCBCBankingAuth": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ",
+        "UnknownAccountAuth",
+        "UnknownBankingAuth",
+        "OCBCBankingAuth"
+    ],
+    "com.zappos.android.sixpmFlavor.SecurityLoginPage": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ",
+        "UnknownAccountAuth",
+        "UnknownBankingAuth",
+        "OCBCBankingAuth",
+        "SecurityLoginPage"
+    ],
+    "com.zappos.android.sixpmFlavor.OCBCScamAlert": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ",
+        "UnknownAccountAuth",
+        "UnknownBankingAuth",
+        "OCBCBankingAuth",
+        "SecurityLoginPage",
+        "OCBCScamAlert"
+    ],
+    "com.zappos.android.sixpmFlavor.BankAuthPage": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ",
+        "UnknownAccountAuth",
+        "UnknownBankingAuth",
+        "OCBCBankingAuth",
+        "SecurityLoginPage",
+        "BankAuthPage"
+    ],
+    "com.zappos.android.sixpmFlavor.BankLoginPage": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "WebViewPage",
+        "AccountSignIn",
+        "HomePage",
+        "ShippingDeliveryFAQ",
+        "UnknownAccountAuth",
+        "UnknownBankingAuth",
+        "OCBCBankingAuth",
+        "SecurityLoginPage",
+        "BankAuthPage",
+        "BankLoginPage"
+    ],
+    "com.zappos.android.sixpmFlavor.MainShoppingDeals": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "MainShoppingDeals"
+    ],
+    "com.zappos.android.sixpmFlavor.ShippingDeliveryFAQ2": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "MainShoppingDeals",
+        "HomePage",
+        "ShippingDeliveryFAQ"
+    ],
+    "com.zappos.android.sixpmFlavor.AccountAuthLanding": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "MainShoppingDeals",
+        "HomePage",
+        "AccountAuthLanding"
+    ],
+    "com.zappos.android.sixpmFlavor.ShippingDeliveryFAQ3": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "MainShoppingDeals",
+        "HomePage",
+        "AccountAuthLanding",
+        "ShippingDeliveryFAQ"
+    ],
+    "com.zappos.android.sixpmFlavor.AccountAuthentication": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "HomePage",
+        "AccountAuthentication"
+    ],
+    "com.zappos.android.sixpmFlavor.PasswordAssistancePage": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "PasswordAssistancePage"
+    ],
+    "com.zappos.android.sixpmFlavor.PasswordAssistancePage1": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "PasswordAssistancePage"
+    ],
+    "com.zappos.android.sixpmFlavor.MainShoppingPage": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "PasswordAssistancePage",
+        "HomePage",
+        "MainShoppingPage"
+    ],
+    "com.zappos.android.sixpmFlavor.AccountAuthLiveHelp": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "PasswordAssistancePage",
+        "HomePage",
+        "MainShoppingPage",
+        "AccountAuthLiveHelp"
+    ],
+    "com.zappos.android.sixpmFlavor.AccountSignIn1": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn"
+    ],
+    "com.zappos.android.sixpmFlavor.WebViewPage1": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "AccountAuthLiveHelp",
+        "HomePage",
+        "WebViewPage"
+    ],
+    "com.zappos.android.sixpmFlavor.ShippingDeliveryFAQ4": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "ShippingDeliveryFAQ"
+    ],
+    "com.zappos.android.sixpmFlavor.AUIAccountAuth": [
+        "MainCategorySelector",
+        "AccountSettingsMenu",
+        "AccountSignIn",
+        "ShippingDeliveryFAQ",
+        "AUIAccountAuth"
+    ],
+    "com.zappos.android.sixpmFlavor.SearchFilterPage": [
+        "MainCategorySelector",
+        "SearchFilterPage"
+    ],
+    "com.zappos.android.sixpmFlavor.SearchResults": [
+        "MainCategorySelector",
+        "SearchFilterPage",
+        "SearchResults"
+    ],
+    "com.contextlogic.geek.BrowseProductFeed": [
+        "BrowseProductFeed"
+    ],
+    "com.contextlogic.geek.BrowseProductFeed1": [
+        "BrowseProductFeed"
+    ],
+    "com.contextlogic.geek.Browse": [
+        "BrowseProductFeed",
+        "Browse"
+    ],
+    "com.contextlogic.geek.MenuDrawer": [
+        "BrowseProductFeed",
+        "Browse",
+        "MenuDrawer"
+    ],
+    "com.contextlogic.geek.ProfileMenu": [
+        "BrowseProductFeed",
+        "Browse",
+        "MenuDrawer",
+        "ProfileMenu"
+    ],
+    "com.contextlogic.geek.CartLoading": [
+        "BrowseProductFeed",
+        "Browse",
+        "MenuDrawer",
+        "ProfileMenu",
+        "CartLoading"
+    ],
+    "com.contextlogic.geek.CartErrorMenu": [
+        "BrowseProductFeed",
+        "Browse",
+        "MenuDrawer",
+        "ProfileMenu",
+        "CartLoading",
+        "CartErrorMenu"
+    ],
+    "com.contextlogic.geek.ProfileWishlist": [
+        "BrowseProductFeed",
+        "Browse",
+        "MenuDrawer",
+        "ProfileMenu",
+        "CartLoading",
+        "CartErrorMenu",
+        "ProfileWishlist"
+    ],
+    "com.contextlogic.geek.GrantPermissions1": [
+        "GrantPermissions"
+    ],
+    "com.contextlogic.geek.CartEmpty": [
+        "BrowseProductFeed",
+        "CartEmpty"
+    ],
+    "com.contextlogic.geek.UserList": [
+        "BrowseProductFeed",
+        "Browse",
+        "ProfileWishlist",
+        "UserList"
+    ],
+    "com.contextlogic.geek.ProductDetails": [
+        "BrowseProductFeed",
+        "ProductDetails"
+    ],
+    "com.contextlogic.geek.ProductDetailsError": [
+        "BrowseProductFeed",
+        "ProductDetails",
+        "ProductDetailsError"
+    ],
+    "com.contextlogic.geek.SearchPage": [
+        "BrowseProductFeed",
+        "ProductDetails",
+        "ProductDetailsError",
+        "SearchPage"
+    ],
+    "com.contextlogic.geek.SearchLocation": [
+        "BrowseProductFeed",
+        "ProductDetails",
+        "ProductDetailsError",
+        "SearchPage",
+        "SearchLocation"
+    ],
+    "com.contextlogic.geek.MainMenuDrawer": [
+        "BrowseProductFeed",
+        "ProductDetails",
+        "ProductDetailsError",
+        "SearchPage",
+        "SearchLocation",
+        "MainMenuDrawer"
+    ],
+    "com.contextlogic.geek.ProductBrowseFilter": [
+        "BrowseProductFeed",
+        "ProductBrowseFilter"
+    ],
+    "com.contextlogic.geek.ErrorDialog": [
+        "BrowseProductFeed",
+        "ProductDetails",
+        "ProductDetailsError",
+        "SearchPage",
+        "ErrorDialog"
+    ],
+    "com.contextlogic.geek.SearchResults": [
+        "BrowseProductFeed",
+        "ProductDetails",
+        "ProductDetailsError",
+        "SearchPage",
+        "SearchResults"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.BrowseMenuDrawer": [
+        "BrowseHomeGoods",
+        "BrowseMenuDrawer"
+    ],
+    "com.contextlogic.home.ProfileWishlistManager": [
+        "BrowseHomeGoods",
+        "BrowseMenuDrawer",
+        "ProfileWishlistManager"
+    ],
+    "com.contextlogic.home.GrantPermissions2": [
+        "GrantPermissions"
+    ],
+    "com.contextlogic.home.UserList": [
+        "BrowseHomeGoods",
+        "BrowseMenuDrawer",
+        "ProfileWishlistManager",
+        "UserList"
+    ],
+    "com.contextlogic.home.SearchFunctionality": [
+        "BrowseHomeGoods",
+        "SearchFunctionality"
+    ],
+    "com.contextlogic.home.SearchResults": [
+        "BrowseHomeGoods",
+        "SearchFunctionality",
+        "SearchResults"
+    ],
+    "com.contextlogic.home.SearchFeed": [
+        "BrowseHomeGoods",
+        "SearchFunctionality",
+        "SearchResults",
+        "SearchFeed"
+    ],
+    "com.contextlogic.home.SearchHistory": [
+        "BrowseHomeGoods",
+        "SearchFunctionality",
+        "SearchResults",
+        "SearchFeed",
+        "SearchHistory"
+    ],
+    "com.contextlogic.home.CartEmpty": [
+        "BrowseHomeGoods",
+        "CartEmpty"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods1": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods2": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods3": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods4": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods5": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods6": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.BrowseHomeGoods7": [
+        "BrowseHomeGoods"
+    ],
+    "com.contextlogic.home.ReferralProgramError": [
+        "BrowseHomeGoods",
+        "UserList",
+        "ReferralProgramError"
+    ],
+    "com.contextlogic.home.WishlistCreation": [
+        "BrowseHomeGoods",
+        "UserList",
+        "ReferralProgramError",
+        "ProfileWishlistManager",
+        "WishlistCreation"
+    ],
+    "com.contextlogic.home.CreateWishlistDialog": [
+        "BrowseHomeGoods",
+        "UserList",
+        "ReferralProgramError",
+        "ProfileWishlistManager",
+        "CreateWishlistDialog"
+    ],
+    "com.contextlogic.home.CreateWishlistDialog1": [
+        "BrowseHomeGoods",
+        "UserList",
+        "ReferralProgramError",
+        "ProfileWishlistManager",
+        "CreateWishlistDialog"
+    ],
+    "com.contextlogic.home.WishlistCreation1": [
+        "BrowseHomeGoods",
+        "UserList",
+        "ReferralProgramError",
+        "ProfileWishlistManager",
+        "WishlistCreation"
+    ],
+    "com.contextlogic.home.ProductDetails": [
+        "BrowseHomeGoods",
+        "SearchFeed",
+        "ProductDetails"
+    ],
+    "com.contextlogic.home.SearchHistoryAndRecentlyViewed": [
+        "BrowseHomeGoods",
+        "SearchFeed",
+        "ProductDetails",
+        "SearchHistoryAndRecentlyViewed"
+    ],
+    "com.contextlogic.home.ImageViewer": [
+        "BrowseHomeGoods",
+        "SearchFeed",
+        "ProductDetails",
+        "ImageViewer"
+    ],
+    "com.contextlogic.wish.ProductBrowse": [
+        "ProductBrowse"
+    ],
+    "com.contextlogic.wish.BrowseDeals": [
+        "ProductBrowse",
+        "BrowseDeals"
+    ],
+    "com.contextlogic.wish.MainMenuDrawer": [
+        "ProductBrowse",
+        "BrowseDeals",
+        "MainMenuDrawer"
+    ],
+    "com.contextlogic.wish.UserProfile": [
+        "ProductBrowse",
+        "BrowseDeals",
+        "MainMenuDrawer",
+        "UserProfile"
+    ],
+    "com.contextlogic.wish.GrantPermissions3": [
+        "GrantPermissions"
+    ],
+    "com.contextlogic.wish.BrowseProductFeed": [
+        "ProductBrowse",
+        "BrowseDeals",
+        "BrowseProductFeed"
+    ],
+    "com.contextlogic.wish.MainBrowseMenu": [
+        "ProductBrowse",
+        "BrowseDeals",
+        "BrowseProductFeed",
+        "MainBrowseMenu"
+    ],
+    "com.contextlogic.wish.CartEmpty": [
+        "ProductBrowse",
+        "BrowseDeals",
+        "BrowseProductFeed",
+        "MainBrowseMenu",
+        "UserProfile",
+        "CartEmpty"
+    ],
+    "com.contextlogic.wish.BrowseShoppingFeed": [
+        "ProductBrowse",
+        "BrowseShoppingFeed"
+    ],
+    "com.contextlogic.wish.UserList": [
+        "ProductBrowse",
+        "BrowseShoppingFeed",
+        "UserProfile",
+        "UserList"
+    ],
+    "com.contextlogic.wish.WishlistCreation": [
+        "ProductBrowse",
+        "BrowseShoppingFeed",
+        "UserProfile",
+        "WishlistCreation"
+    ],
+    "com.contextlogic.wish.UserProfile1": [
+        "ProductBrowse",
+        "BrowseShoppingFeed",
+        "UserProfile"
+    ],
+    "com.contextlogic.wish.ProductBrowsePage": [
+        "ProductBrowse",
+        "ProductBrowsePage"
+    ],
+    "com.contextlogic.wish.SearchHistory": [
+        "ProductBrowse",
+        "SearchHistory"
+    ],
+    "com.contextlogic.wish.SearchMenuDrawer": [
+        "ProductBrowse",
+        "SearchHistory",
+        "SearchMenuDrawer"
+    ],
+    "com.contextlogic.wish.WishlistEmpty": [
+        "ProductBrowse",
+        "SearchHistory",
+        "SearchMenuDrawer",
+        "UserProfile",
+        "WishlistEmpty"
+    ]
+}

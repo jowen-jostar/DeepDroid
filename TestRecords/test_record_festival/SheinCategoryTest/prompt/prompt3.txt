@@ -1,0 +1,87 @@
+The SHEIN app is a mobile shopping application that offers a wide range of trendy and affordable fashion items, including clothing, accessories, and beauty products, with features for easy browsing, purchasing, and tracking orders.
+All its main function pages are: Welcome.
+I want to shop by category, in which shop by category may be accomplished in MainCategorySelector page.
+I have finished the following actions:
+    (Step 1 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'bt9', 'class': 'FrameLayout', 'content-desc': 'Category', 'parent_node': '', 'sibling_nodes': 'btd, bt_, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/Category'};
+    (Step 2 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Women Clothing'};
+    (Step 3 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'bfc', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bf9', 'child_nodes': 'bh7, tv_title/Shop by category'}.
+Current function GUI page is MainTabs, which has the following texts: 'Search', 'All', 'Women', 'Curve', 'kids', 'men', 'home', 'beauty', 'Just For You', 'New In', 'Sale', 'Women Clothing', 'Beachwear', 'Curve', 'Kids', 'Men Clothing', 'Underwear & Sleepwear', 'Home & Kitchen', 'Shoes', 'Jewelry & Accessories', 'Shop by category', 'View all', 'New in', 'Top rated', 'Tops', 'Dresses', 'T-shirts', 'Blouses', 'Bottoms', 'Co-ords', 'Denim', 'Pants', 'Jumpsuits & bodysuits', 'Beachwear', 'Jackets & coats', 'Hoodies & sweatshirts', 'Shop', 'Category', 'New', 'Cart', 'Me'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': 'bt0', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'crs, bt4', 'child_nodes': 'auf'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'bt4', 'class': 'FrameLayout', 'content-desc': 'Wishlist', 'parent_node': '', 'sibling_nodes': 'bt0, crs', 'child_nodes': 'bc1'};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'bt1', 'class': 'View', 'content-desc': '', 'parent_node': 'crs', 'sibling_nodes': 'ato, bag', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': 'ato', 'class': 'ImageView', 'content-desc': 'VISUAL SEARCH', 'parent_node': 'crs', 'sibling_nodes': 'bt1, bag', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'bag', 'class': 'ImageView', 'content-desc': '', 'parent_node': 'crs', 'sibling_nodes': 'bt1, ato', 'child_nodes': ''};
+    (Widget Id: 5) {'action': 'swipe', 'text': '', 'resource-id': 'bh4', 'class': 'HorizontalScrollView', 'content-desc': '', 'parent_node': 'day', 'sibling_nodes': 'line, ele', 'child_nodes': ''};
+    (Widget Id: 6) {'action': 'swipe', 'text': '', 'resource-id': 'ele', 'class': 'ViewPager', 'content-desc': '', 'parent_node': 'day', 'sibling_nodes': 'bh4, line', 'child_nodes': ''};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'All'};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'Women'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'Curve'};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'kids'};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'men'};
+    (Widget Id: 12) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'home'};
+    (Widget Id: 13) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'beauty'};
+    (Widget Id: 14) {'action': 'swipe', 'text': '', 'resource-id': '', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': 'ele', 'sibling_nodes': '', 'child_nodes': 'ch2'};
+    (Widget Id: 15) {'action': 'swipe', 'text': '', 'resource-id': 'bkd', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'ch2', 'child_nodes': ''};
+    (Widget Id: 16) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Just For You'};
+    (Widget Id: 17) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/New In'};
+    (Widget Id: 18) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Sale'};
+    (Widget Id: 19) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Women Clothing'};
+    (Widget Id: 20) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Beachwear'};
+    (Widget Id: 21) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Curve'};
+    (Widget Id: 22) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Kids'};
+    (Widget Id: 23) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Men Clothing'};
+    (Widget Id: 24) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Underwear & Sleepwear'};
+    (Widget Id: 25) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Home & Kitchen'};
+    (Widget Id: 26) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Shoes'};
+    (Widget Id: 27) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': 'ej0, du2/Jewelry & Accessories'};
+    (Widget Id: 28) {'action': 'click', 'text': '', 'resource-id': 'wa', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bkd', 'sibling_nodes': 'wa', 'child_nodes': ''};
+    (Widget Id: 29) {'action': 'swipe', 'text': '', 'resource-id': 'bk4', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 30) {'action': 'click', 'text': '', 'resource-id': 'bfc', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bf9', 'child_nodes': 'bh7, tv_title/Shop by category'};
+    (Widget Id: 31) {'action': 'long-click', 'text': '', 'resource-id': 'bfc', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bf9', 'child_nodes': 'bh7, tv_title/Shop by category'};
+    (Widget Id: 32) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/View all'};
+    (Widget Id: 33) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/View all'};
+    (Widget Id: 34) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/New in'};
+    (Widget Id: 35) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/New in'};
+    (Widget Id: 36) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Top rated'};
+    (Widget Id: 37) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Top rated'};
+    (Widget Id: 38) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Tops'};
+    (Widget Id: 39) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Tops'};
+    (Widget Id: 40) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Dresses'};
+    (Widget Id: 41) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Dresses'};
+    (Widget Id: 42) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/T-shirts'};
+    (Widget Id: 43) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/T-shirts'};
+    (Widget Id: 44) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Blouses'};
+    (Widget Id: 45) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Blouses'};
+    (Widget Id: 46) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Bottoms'};
+    (Widget Id: 47) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Bottoms'};
+    (Widget Id: 48) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Co-ords'};
+    (Widget Id: 49) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Co-ords'};
+    (Widget Id: 50) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Denim'};
+    (Widget Id: 51) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Denim'};
+    (Widget Id: 52) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Pants'};
+    (Widget Id: 53) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Pants'};
+    (Widget Id: 54) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Jumpsuits & bodysuits'};
+    (Widget Id: 55) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Jumpsuits & bodysuits'};
+    (Widget Id: 56) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Beachwear'};
+    (Widget Id: 57) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Beachwear'};
+    (Widget Id: 58) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Jackets & coats'};
+    (Widget Id: 59) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Jackets & coats'};
+    (Widget Id: 60) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Hoodies & sweatshirts'};
+    (Widget Id: 61) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy, ebk/Hoodies & sweatshirts'};
+    (Widget Id: 62) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy'};
+    (Widget Id: 63) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy'};
+    (Widget Id: 64) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy'};
+    (Widget Id: 65) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy'};
+    (Widget Id: 66) {'action': 'click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy'};
+    (Widget Id: 67) {'action': 'long-click', 'text': '', 'resource-id': 'bf9', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'bk4', 'sibling_nodes': 'bfc, bf9', 'child_nodes': 'bf8, azp, avy'};
+    (Widget Id: 68) {'action': 'click', 'text': '', 'resource-id': 'btd', 'class': 'FrameLayout', 'content-desc': 'Shop', 'parent_node': '', 'sibling_nodes': 'bt9, bt_, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/Shop'};
+    (Widget Id: 69) {'action': 'click', 'text': '', 'resource-id': 'bt_', 'class': 'FrameLayout', 'content-desc': 'New', 'parent_node': '', 'sibling_nodes': 'btd, bt9, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/New'};
+    (Widget Id: 70) {'action': 'click', 'text': '', 'resource-id': 'bt7', 'class': 'FrameLayout', 'content-desc': 'Cart', 'parent_node': '', 'sibling_nodes': 'btd, bt9, bt_, btc', 'child_nodes': 'bxx, bxy, bxz, by1/Cart'};
+    (Widget Id: 71) {'action': 'click', 'text': '', 'resource-id': 'btc', 'class': 'FrameLayout', 'content-desc': 'Me', 'parent_node': '', 'sibling_nodes': 'btd, bt9, bt_, bt7', 'child_nodes': 'bxx, bxy, bxz, by1/Me'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

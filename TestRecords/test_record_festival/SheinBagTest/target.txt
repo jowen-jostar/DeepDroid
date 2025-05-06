@@ -1,0 +1,31 @@
+['view my shopping bag']
+
+The SHEIN app is a mobile shopping application that offers a wide range of trendy and affordable fashion items, including clothing, accessories, and beauty products, with features for easy browsing, purchasing, and tracking orders.
+All its main function pages are: Welcome.
+I have explored the following pages and predicted its possible features:
+    MainCategorySelector: Browse categories; Navigate tabs; View flash sale; Access wishlist; Perform visual search; View cart; Access user profile.
+    DiscountErrorPage: Server error notification; Retry action; Category, Size, Color filters; Highly Reviewed Picks; Most Popular; Price sorting; Search and Share options; Tab navigation for Women, Tops, Dresses, Bottoms, Plus, Shoes & Bags.
+    SearchHomeV3: Search bar for 'Dress For Women'; Recently Searched items; CNY Sale promotions; Search Discovery suggestions; Back navigation; Image-based actions.
+    SearchHomeV31: Search bar with recent searches; Display trending searches; Highlighted sale categories; Popular product categories; Copy text to search field.
+    WishlistEmptyState: Sign in/Register; Shop Now; Enable notifications for discounts/stock updates; View recommended items; Save items to wishlist.
+    ErrorPageWithCategoryFilter: Display server error message; Retry connection; Browse categories (Tops, Bottoms, Swimwear, Suits & Separates, Denim); Apply filters (Recommend, Most Popular, Price); View product attributes (evoluSHEIN, Category, Fit Type, Style).
+    SignInPage: Select country; Enter mobile/email; Continue with credentials; Continue with Google; Continue with Facebook; Agree to policy.
+    SignInEmailSelector: Select email address; Input email or mobile number; Clear input field; Continue with Google; Close page.
+    SignIn: Input email or phone; Clear input; Continue to next step; Sign in with Google; Close page.
+    WebViewPage: Navigate back; Access shopping cart; Display web content.
+    MainProductListingPage: View product discounts; Navigate through tab items; Access shopping cart; View product images; Swipe through product listings.
+    MainProductListing: Display product discounts; Show product prices; Navigate to cart; Browse product categories; View product images.
+    MainShoppingPage: Browse products; View discounts; Navigate tabs; Access cart; View product details.
+    MainWebViewPage: Navigate back; Access shopping cart; Browse product categories; View product discounts; Interact with promotional images.
+    WebViewWelcomePage: Navigate back; Access cart; Swipe through content; Interact with JavaScript elements.
+    WebViewWelcome: Navigate back; Access shopping cart.
+    MainLocationSelector: Select current location; Choose common locations; Browse and select countries; Close location selector.
+Please give me the page with the function that best matches the following tasks:
+    (1) view my shopping bag.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['MainShoppingPage']

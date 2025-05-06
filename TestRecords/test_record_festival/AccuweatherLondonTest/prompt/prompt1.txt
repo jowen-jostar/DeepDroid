@@ -1,0 +1,18 @@
+AccuWeather app is a weather forecasting application that provides real-time weather updates, forecasts, and alerts for locations worldwide.
+All its main function pages are: Onboarding, Splash, Main, WhatsNew.
+I want to search for the weather in london, in which search for the weather in london may be accomplished in MainLocationSelector page.
+I have finished the following actions:
+    (Step 1 in MainWeatherDashboard page) {'action': 'click', 'text': 'Mountain View, CA', 'resource-id': 'location_button', 'class': 'Button', 'content-desc': '', 'parent_node': 'global_toolbar', 'sibling_nodes': 'affiliate_logo', 'child_nodes': ''}.
+Current function GUI page is Main, which has the following texts: 'Locations', '°F', 'Find Location', 'Enable Current Location', 'FAVORITES', 'You haven't added any locations yet.', 'Manage Notifications', 'RECENT', 'Looks like your recent history is empty.'.
+Current GUI page seems like MainLocationSelector page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': 'location_dialog', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'content', 'sibling_nodes': '', 'child_nodes': 'location_dialog_container, location_dialog_header_top, Locations, unit/°F, location_search, location_current, scroll_view, location_dialog_content, favorite_locations, favorites_title_container, favorites_title/FAVORITES, favorite_locations_list_empty_text/You haven't added any locations yet., favorite_locations_list_empty_divider_view, recent_locations, RECENT, recent_locations_list_empty_text/Looks like your recent history is empty.'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'close_dialog', 'class': 'ImageButton', 'content-desc': 'Close location selector', 'parent_node': 'location_dialog_header_top', 'sibling_nodes': 'Locations, unit/°F, location_search, location_current', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'text', 'text': 'Find Location', 'resource-id': 'location_search_box', 'class': 'EditText', 'content-desc': '', 'parent_node': 'location_search', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': 'Enable Current Location', 'resource-id': 'location_disabled', 'class': 'TextView', 'content-desc': '', 'parent_node': 'location_current', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'manage_notification_layout', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'location_dialog_content', 'sibling_nodes': 'favorite_locations, recent_locations', 'child_nodes': 'Manage Notifications, manage_notification_caret_imageview, manage_notification_divider_view'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

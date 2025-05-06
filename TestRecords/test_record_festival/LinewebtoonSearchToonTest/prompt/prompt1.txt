@@ -1,0 +1,27 @@
+The Line Webtoon app is a digital platform for reading and discovering webcomics (webtoons), offering a wide range of genres and stories created by various artists, with features like personalized recommendations and community interactions.
+All its main function pages are: Splash, Tutorial.
+I want to search for Lore Olympus by Rachel Smythe, in which search for Lore Olympus by Rachel Smythe may be accomplished in SearchGenreSelector page.
+I have finished the following actions:
+    (Step 1 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'search', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'logo, title', 'child_nodes': ''}.
+Current function GUI page is Search, which has the following texts: 'Search Title or Creator', 'CANCEL', 'Drama', 'Fantasy', 'Comedy', 'Action', 'Slice of life', 'Romance', 'Superhero', 'Sci-fi'.
+Current GUI page seems like SearchGenreSelector page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'text', 'text': 'Search Title or Creator', 'resource-id': 'search_edit_text', 'class': 'EditText', 'content-desc': '', 'parent_node': 'search_bar', 'sibling_nodes': 'search_cancel/CANCEL', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': 'CANCEL', 'resource-id': 'search_cancel', 'class': 'Button', 'content-desc': '', 'parent_node': 'search_bar', 'sibling_nodes': 'search_edit_text/Search Title or Creator', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 12) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''};
+    (Widget Id: 13) {'action': 'click', 'text': '', 'resource-id': 'genre_image', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'genre_background', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

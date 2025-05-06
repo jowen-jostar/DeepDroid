@@ -1,0 +1,1901 @@
+{
+    "com.autoscout24": {
+        "MainHomeScreen": [
+            "Start search",
+            "Browse trending car categories",
+            "Navigate to Discover, Search, Favourites, Saved searches, Selling sections"
+        ],
+        "MainHomePage": [
+            "Start search",
+            "Browse trending categories",
+            "Navigate to Discover, Search, Favourites, Saved searches, Selling",
+            "Access Log in, Settings, Information"
+        ],
+        "LoginPrompt": [
+            "Navigate back",
+            "Log in to access saved searches, price history, and notes"
+        ],
+        "MainSearchFilter": [
+            "Search for cars by make, model, price, body type, registration, mileage, and power",
+            "View search results",
+            "Navigate to different sections like Discover, Favourites, Saved searches, and Selling"
+        ],
+        "MainSearchResetDialog": [
+            "Reset search criteria",
+            "Confirm or cancel reset action"
+        ],
+        "MainBrandSelection": [
+            "Search for car brands",
+            "Select car brands from list",
+            "Swipe through brand list",
+            "View brand icons"
+        ],
+        "MainBrandLocationSelector": [
+            "Select car brand",
+            "Filter by location",
+            "Display brand icons",
+            "Search for specific brands",
+            "Error handling for invalid inputs"
+        ],
+        "BrandSelectionPage": [
+            "Search for car brands",
+            "Select specific car brands",
+            "Swipe through brand list",
+            "View brand icons and names"
+        ],
+        "MainSearchFilter1": [
+            "Search for cars by make, model, price, registration, quality, mileage, displacement",
+            "Navigate to Discover, Favourites, Saved searches, Selling sections",
+            "Perform new search",
+            "Swipe through search results"
+        ],
+        "MainLocationSelector": [
+            "Navigate to different sections",
+            "Filter by premium German brands",
+            "Filter by price range",
+            "Access Discover, Search, Favourites, Saved searches, and Selling sections"
+        ],
+        "MainSavedSearches": [
+            "View saved searches",
+            "Log in to sync searches",
+            "Start new search",
+            "Navigate to Discover, Search, Favourites, Saved searches, Selling sections"
+        ],
+        "SavedSearchesOnboarding": [
+            "Display saved searches",
+            "Prompt user to log in",
+            "Start new search",
+            "Navigate to main sections: Discover, Search, Favourites, Saved searches, Selling",
+            "Access settings and information"
+        ],
+        "LoginPrompt1": [
+            "Navigate back",
+            "Log in to synchronize data"
+        ]
+    },
+    "fm.castbox.audiobook.radio.podcast": {
+        "MainDiscover": [
+            "Browse podcast categories",
+            "Explore audiobooks",
+            "Access original content",
+            "Discover podcast networks",
+            "Search for shows, RSS feeds, iTunes links",
+            "Navigate to Discover, Community, Library, and Personal sections"
+        ],
+        "ChannelDetail": [
+            "View podcast details",
+            "Subscribe to channel",
+            "Switch between episodes, details, and comments tabs",
+            "Share channel",
+            "Access more options",
+            "Navigate back"
+        ],
+        "ChannelDetail1": [
+            "View podcast details",
+            "Edit tags",
+            "Subscribe to channel",
+            "Navigate between episodes, details, and comments",
+            "Share channel",
+            "Access more options"
+        ],
+        "ChannelDetail2": [
+            "View podcast details",
+            "Subscribe/Unsubscribe to channel",
+            "Navigate between episodes, details, and comments",
+            "Share channel",
+            "Access more options"
+        ],
+        "CategorySelector": [
+            "Browse podcast categories",
+            "Select specific category",
+            "Navigate back to previous page"
+        ],
+        "CategoryChannels": [
+            "Navigate back",
+            "Display podcast categories",
+            "Select specific category"
+        ],
+        "Audiobooks": [
+            "Navigate back",
+            "Search for content"
+        ],
+        "SearchPage": [
+            "Search for podcasts, RSS feeds, iTunes links",
+            "View search history",
+            "Clear search history",
+            "Voice search"
+        ],
+        "ErrorPage": [
+            "Navigate back",
+            "Search content",
+            "Retry connection"
+        ],
+        "SearchResults": [
+            "Display search results for 'London'",
+            "Clear search query",
+            "Collapse search bar"
+        ],
+        "SearchPage1": [
+            "Search for podcasts, RSS feeds, iTunes links",
+            "View search history",
+            "Clear search history",
+            "Voice search",
+            "Clear individual search items"
+        ]
+    },
+    "com.chanel.weather.forecast.accu": {
+        "MainWeatherDetail": [
+            "Display real-time weather data",
+            "Show hourly weather forecast",
+            "Provide detailed weather summary",
+            "Allow navigation to more detailed weather information"
+        ],
+        "MainWeatherDetail1": [
+            "Display real-time weather data",
+            "Show hourly weather forecast",
+            "Provide detailed weather summary",
+            "Allow navigation to settings and developer options",
+            "Enable background auto-change",
+            "Manage notifications",
+            "Access radar",
+            "Adjust unit settings",
+            "Offer full version upgrade",
+            "Provide feedback and suggestions"
+        ],
+        "MainUpgradePrompt": [
+            "Offer full version purchase",
+            "Display upgrade benefits",
+            "Provide purchase options",
+            "Allow deferral or rejection of offer"
+        ],
+        "LocationManagement": [
+            "Edit location",
+            "Add location",
+            "Automatic detection",
+            "Delete location",
+            "View current location"
+        ],
+        "SearchLocation": [
+            "Search for locations",
+            "Clear search input"
+        ],
+        "SearchLocation1": [
+            "Search for locations",
+            "Display recent search results",
+            "Clear search input",
+            "Select location from list"
+        ],
+        "SearchLocation2": [
+            "Search for locations",
+            "Clear search input"
+        ],
+        "MainLocationSelector": [
+            "Edit or add locations",
+            "Enable automatic location detection",
+            "Display current location weather",
+            "Delete saved locations"
+        ],
+        "MainWeatherDetail2": [
+            "Display real-time weather data",
+            "Show hourly weather forecast",
+            "Provide precipitation chance",
+            "Display sunrise and sunset times",
+            "Allow navigation to detailed weather information"
+        ],
+        "MainSettingsMenu": [
+            "Manage location",
+            "Auto change background",
+            "Notification settings",
+            "Ongoing notification",
+            "Radar",
+            "Unit setting",
+            "Get Full Version",
+            "Rate",
+            "Feedback and Suggestion"
+        ],
+        "MainWeatherDetail3": [
+            "Display real-time weather updates",
+            "Show hourly weather forecasts",
+            "Provide detailed weather metrics like humidity, precipitation, wind speed, and UV index",
+            "Allow navigation to detailed hourly weather view",
+            "Enable location selection",
+            "Support horizontal scrolling for hourly data",
+            "Display chance of rain for each hour"
+        ],
+        "MainWeatherDetail4": [
+            "Display real-time weather updates",
+            "Show hourly weather forecasts",
+            "Provide detailed weather metrics like humidity, precipitation, wind speed, and UV index",
+            "Allow navigation through hourly data via swipe",
+            "Enable detailed view of specific hour's weather",
+            "Display location-specific weather information"
+        ]
+    },
+    "com.devexpert.weather": {
+        "MainLocationWeather": [
+            "Display real-time weather data",
+            "Show 5-day forecast",
+            "Provide weather details like temperature, humidity, wind",
+            "Allow location selection",
+            "Enable data refresh",
+            "Share weather information",
+            "Access additional options"
+        ],
+        "MainWeatherDisplay": [
+            "Display current weather details",
+            "Show 5-day weather forecast",
+            "Navigate to hourly weather",
+            "Navigate to 10-day forecast",
+            "Navigate to moon phase",
+            "Manage saved cities",
+            "Access settings",
+            "Access about information",
+            "Refresh weather data",
+            "Share weather information",
+            "Access more options"
+        ],
+        "MainHourlyWeatherView": [
+            "Display hourly weather details",
+            "Navigate back",
+            "Refresh data",
+            "View weather graph",
+            "Access more options",
+            "Swipe through hourly forecasts"
+        ],
+        "HourlyWeatherView": [
+            "Display hourly weather data",
+            "Navigate to other weather views",
+            "Refresh weather data",
+            "View weather graph",
+            "Access additional options"
+        ],
+        "MainWidgetManager": [
+            "Add widget",
+            "Delete widget",
+            "Configure widget settings"
+        ],
+        "MainLocationSelector": [
+            "Input city and country",
+            "Search for weather data",
+            "Cancel search operation"
+        ],
+        "MainLocationSelector1": [
+            "Input location",
+            "Search for weather data",
+            "Cancel search"
+        ],
+        "LocationErrorDialog": [
+            "Display location error",
+            "Allow manual location selection",
+            "Provide cancel option"
+        ],
+        "MainLocationWeatherView": [
+            "Display hourly weather",
+            "Show location name",
+            "Update weather data",
+            "Toggle graph/list view",
+            "Access more options",
+            "Swipe through weather graphs"
+        ],
+        "MainNavigationMenu": [
+            "Access 5-Day Weather",
+            "Access Hourly Weather",
+            "Access 10-Day Forecast",
+            "Access Moon Phase",
+            "Access My Cities",
+            "Access Settings",
+            "Access About",
+            "Navigate Up",
+            "Update Data",
+            "Toggle Graph/List View",
+            "More Options",
+            "Display Current Location"
+        ],
+        "WidgetSettingsCustomizer": [
+            "Customize widget style",
+            "Set text color",
+            "Enable text shadow",
+            "Configure clock style",
+            "Select clock and date font",
+            "Adjust clock font size",
+            "Modify text size"
+        ],
+        "FontSelector": [
+            "Select clock and date font",
+            "Choose from default or custom fonts",
+            "Cancel selection"
+        ],
+        "UpdateNotification": [
+            "Skip update notification",
+            "Cancel update",
+            "Open settings"
+        ],
+        "MainWeatherForecast": [
+            "Display 10-day weather forecast",
+            "Show detailed weather conditions for each day",
+            "Provide weather data including temperature, precipitation, humidity, wind, pressure, UV index, sunrise, and sunset times",
+            "Allow navigation and refresh options",
+            "Enable viewing weather data in graph format"
+        ],
+        "MainWeatherForecast1": [
+            "Display 10-Day Forecast",
+            "Show Weather Details",
+            "Navigate to Other Sections",
+            "Refresh Data",
+            "View Graph",
+            "Access Settings",
+            "Access About"
+        ]
+    },
+    "com.adpog.diary": {
+        "NoteList": [
+            "View diary entries",
+            "Search notes",
+            "Create new note",
+            "Long-press to interact with notes"
+        ],
+        "NoteListWithNavigationDrawer": [
+            "View diary entries",
+            "Create new note",
+            "Search notes",
+            "Long-press to interact with notes",
+            "Access settings like Codelock, Colors and style, Reminder, Export",
+            "Rate and review app",
+            "Recommend app",
+            "Get premium",
+            "Visit Facebook page",
+            "Provide feedback",
+            "Get help",
+            "Sign in"
+        ],
+        "AccountInterim": [
+            "Cloud connection setup",
+            "Device synchronization",
+            "Note restoration",
+            "User account creation",
+            "Existing account login"
+        ],
+        "SearchFilterPage": [
+            "Select year",
+            "Input search text",
+            "Close search",
+            "Execute search"
+        ],
+        "MainLocationSelector": [
+            "Select year",
+            "Filter notes by year"
+        ],
+        "SearchFilterPage1": [
+            "Select year",
+            "Enter location text",
+            "Close search",
+            "Execute search"
+        ],
+        "NoteList2": [
+            "Display search results",
+            "Clear search query",
+            "Navigate to write diary",
+            "Initiate search"
+        ],
+        "NoteListSideMenu": [
+            "Write diary",
+            "Search notes",
+            "Clear search",
+            "Navigate settings like Codelock, Colors and style, Reminder, Export",
+            "Rate and review",
+            "Recommend app",
+            "Get premium",
+            "Visit Facebook",
+            "Provide feedback",
+            "Access help",
+            "Sign in"
+        ],
+        "NoteActionSelector": [
+            "View note",
+            "Share note",
+            "Delete note"
+        ],
+        "NoteEditor": [
+            "Navigate back",
+            "Save note",
+            "Open more options",
+            "Edit date",
+            "Edit title",
+            "Edit body"
+        ],
+        "NoteEditor1": [
+            "Edit diary entry",
+            "Save entry",
+            "Navigate back",
+            "Insert emoji",
+            "Change date",
+            "Scroll emoji options"
+        ],
+        "NoteActionSelector1": [
+            "Share note",
+            "Delete note",
+            "Toggle emoji helper"
+        ],
+        "DatePicker": [
+            "Select year",
+            "Select month and day",
+            "Confirm or cancel date selection"
+        ],
+        "DatePicker1": [
+            "Select year",
+            "Select month and day",
+            "Confirm or cancel date selection"
+        ]
+    },
+    "com.google.android.apps.magazines": {
+        "Home": [
+            "News aggregation",
+            "Personalized content delivery",
+            "Top stories display",
+            "Article source selection",
+            "Full coverage access",
+            "Navigation tabs for For you, Headlines, Following, Newsstand"
+        ],
+        "SearchPage": [
+            "Search for topics, locations & sources",
+            "Navigate back"
+        ],
+        "SearchResultsPage": [
+            "Display search results",
+            "Allow text input",
+            "Clear search text",
+            "Navigate back",
+            "Follow topics/sources",
+            "Scroll through results"
+        ],
+        "AccountSettingsPage": [
+            "Manage Google Account",
+            "View Notifications",
+            "View My Activity",
+            "Configure News Settings",
+            "Access Help & Feedback",
+            "View Privacy Policy",
+            "View Terms of Service"
+        ],
+        "AccountManagementPage": [
+            "Manage user accounts",
+            "Change profile picture",
+            "Add another account",
+            "Manage accounts on device",
+            "Configure notifications",
+            "View activity",
+            "Adjust news settings",
+            "Access help & feedback",
+            "Review privacy policy",
+            "View terms of service"
+        ],
+        "HomeNewsFeed": [
+            "View personalized news headlines",
+            "Navigate news categories like U.S., World, Business, Technology",
+            "Access full coverage of stories",
+            "Switch between For You, Headlines, Following, Newsstand tabs",
+            "Search for news",
+            "Manage account settings"
+        ],
+        "SearchResultsPage1": [
+            "Display search results",
+            "Allow scrolling through articles",
+            "Enable following topics",
+            "Provide article details",
+            "Offer more options for articles"
+        ],
+        "SearchResultsPage2": [
+            "Display search suggestions",
+            "Allow text input",
+            "Clear search text",
+            "Navigate back",
+            "Select search result"
+        ],
+        "Home2": [
+            "View personalized news headlines",
+            "Navigate through news categories like U.S., World, Business, Technology",
+            "Access full coverage of stories",
+            "Switch between For You, Headlines, Following, and Newsstand tabs",
+            "Search for news",
+            "View account settings"
+        ],
+        "ArticleDrawer": [
+            "Navigate up",
+            "Share article",
+            "Save for later",
+            "Access more options",
+            "View Full Coverage"
+        ],
+        "ArticleReading": [
+            "View article content",
+            "Navigate back",
+            "Access full coverage",
+            "Share article",
+            "Save for later",
+            "Open more options"
+        ],
+        "NewsEdition": [
+            "View full coverage of news",
+            "Navigate back",
+            "Share news",
+            "Access more options",
+            "Swipe through news list",
+            "Select news articles for details"
+        ],
+        "ArticleReading1": [
+            "Read article content",
+            "Close smart banner",
+            "Share article",
+            "Save article for later",
+            "Access more options",
+            "Navigate back",
+            "View full coverage"
+        ],
+        "HeaderEdition": [
+            "Refresh news content",
+            "Display personalized news headlines"
+        ],
+        "NewsArticleViewer": [
+            "Navigate back",
+            "Share article",
+            "Access more options",
+            "Scroll news list",
+            "View detailed news articles",
+            "Access additional article options"
+        ],
+        "ArticleReading2": [
+            "Navigate back",
+            "Share article",
+            "Save for later",
+            "Access full coverage",
+            "Open article drawer",
+            "Scroll article content",
+            "Access breadcrumb links",
+            "View author profiles"
+        ],
+        "ArticleReading3": [
+            "Navigate back",
+            "Share article",
+            "Save for later",
+            "Access more options",
+            "View full coverage",
+            "Swipe through content"
+        ],
+        "ArticleReading4": [
+            "Navigate back",
+            "Share article",
+            "Save for later",
+            "Open more options",
+            "Swipe through content",
+            "Access full coverage"
+        ],
+        "ArticleDrawer1": [
+            "Navigate up",
+            "Share article",
+            "Save for later",
+            "More options"
+        ]
+    },
+    "com.google.android.apps.translate": {
+        "MainTranslationInterface": [
+            "Tap to Translate",
+            "Language Selection",
+            "Input Mode Selection",
+            "Navigation Drawer Access"
+        ],
+        "KeyboardHandwriting": [
+            "Input text for translation",
+            "Select input method",
+            "Clear input text",
+            "View translation result"
+        ],
+        "InputMethodSelector": [
+            "Switch between Keyboard and Handwriting input methods"
+        ],
+        "KeyboardHandwriting1": [
+            "Input method selection",
+            "Handwriting input",
+            "Undo/Redo actions",
+            "Backspace functionality",
+            "Space bar input",
+            "Text entry and clearing",
+            "Translation result display"
+        ],
+        "KeyboardHandwriting2": [
+            "Input text for translation",
+            "Select input method",
+            "Clear input text",
+            "View translation result"
+        ],
+        "CopyDropWelcome": [
+            "Enable background translation",
+            "Provide instant translation on text copy",
+            "Learn more about Tap to Translate"
+        ],
+        "MainTranslationInterface1": [
+            "Language selection",
+            "Text input",
+            "Camera translation",
+            "Handwriting input",
+            "Conversation mode",
+            "Voice input"
+        ],
+        "MainTranslationInterface2": [
+            "Language selection",
+            "Text input",
+            "Camera translation",
+            "Handwriting input",
+            "Conversation mode",
+            "Voice input",
+            "Navigation drawer access",
+            "Home",
+            "Phrasebook",
+            "Offline translation",
+            "Settings"
+        ],
+        "LanguagePicker": [
+            "Select source language",
+            "Detect language automatically",
+            "Search for languages",
+            "View recent languages",
+            "View all languages",
+            "Manage offline translation files"
+        ],
+        "LanguageSelection": [
+            "Select source language",
+            "Detect language automatically",
+            "Manage offline translation files",
+            "Search for languages"
+        ],
+        "LanguageSearch": [
+            "Search for languages",
+            "Clear search query",
+            "Collapse search interface"
+        ],
+        "LanguagePicker1": [
+            "Select target language",
+            "Search languages",
+            "View recent languages",
+            "View all languages",
+            "Manage offline translation files"
+        ],
+        "LanguagePicker2": [
+            "Select target language",
+            "Manage offline translation files",
+            "Search for languages",
+            "View recent and all languages"
+        ]
+    },
+    "com.naver.linewebtoon": {
+        "MainHome": [
+            "Personalized recommendations",
+            "Top series display",
+            "Genre-based browsing",
+            "Navigation tabs for For You, Originals, Canvas, My, More",
+            "Search functionality",
+            "Onboarding questionnaire"
+        ],
+        "SearchGenreSelector": [
+            "Search for titles or creators",
+            "Filter by genre",
+            "Cancel search"
+        ],
+        "SearchResultsPage": [
+            "Search bar with text input",
+            "Cancel search option",
+            "Display genre categories",
+            "No results found message",
+            "Genre image clickable"
+        ],
+        "MainWebtoonDiscovery": [
+            "Browse daily webtoons",
+            "Explore genres",
+            "Search for webtoons",
+            "View popular webtoons",
+            "Navigate between tabs like FOR YOU, ORIGINALS, CANVAS, MY, MORE"
+        ],
+        "MainWebtoonDiscovery1": [
+            "Daily updates",
+            "Genre selection",
+            "Weekly schedule navigation",
+            "Daily Pass access",
+            "Completed series",
+            "Personalized recommendations",
+            "Original and Canvas content",
+            "User profile and settings"
+        ],
+        "WebtoonRankingSelector": [
+            "View trending webtoons",
+            "Explore popular webtoons",
+            "Filter by romance genre",
+            "Filter by drama genre",
+            "Navigate to search",
+            "Access shortcut menu"
+        ],
+        "WebtoonRanking": [
+            "View genre-based rankings",
+            "Navigate through trending, popular, romance, and drama categories",
+            "Access shortcuts for quick genre selection",
+            "Swipe to explore more genres",
+            "Search for specific webtoons"
+        ],
+        "MainGenreSelection": [
+            "Daily updates",
+            "Genre browsing",
+            "Shortcut access",
+            "Popularity sorting",
+            "Webtoon previews",
+            "Tab navigation"
+        ],
+        "MainWebtoonExplorer": [
+            "Browse daily webtoons",
+            "Explore genres like SCI-FI, THRILLER, SUPERNATURAL, MYSTERY",
+            "View popular webtoons",
+            "Access personalized recommendations",
+            "Navigate through ORIGINALS, CANVAS, MY, MORE sections"
+        ],
+        "MainWebtoonDiscovery2": [
+            "Daily updates",
+            "Genre selection",
+            "Weekly schedule navigation",
+            "Daily Pass access",
+            "Webtoon recommendations",
+            "Sorting by likes",
+            "Webtoon browsing",
+            "Tab navigation for For You, Originals, Canvas, My, More"
+        ],
+        "MainLocationSelector": [
+            "Navigate to personalized recommendations",
+            "Access original webtoons",
+            "Explore user-generated content",
+            "Manage personal profile",
+            "Access additional features"
+        ],
+        "OnBoardingInterestSelector": [
+            "Step 1 of 3",
+            "Skip onboarding",
+            "Select interests",
+            "Proceed to next step"
+        ],
+        "OnBoardingSelect_Error": [
+            "No Internet Connection",
+            "Retry Connection"
+        ],
+        "WebtoonRanking2": [
+            "View trending webtoons",
+            "Filter by genre",
+            "Access top-ranked webtoons",
+            "Swipe to browse",
+            "Click to select webtoon"
+        ],
+        "MainSortSelector": [
+            "Sort by Popularity",
+            "Sort by Interests",
+            "Sort by Likes",
+            "Sort by Date"
+        ]
+    },
+    "com.marvel.comics": {
+        "MainNavigationDrawer": [
+            "Open navigation drawer",
+            "Search comics",
+            "Access My Books",
+            "Swipe through tabs",
+            "View featured, new, discover, popular, and top-rated comics"
+        ],
+        "MainNavigationDrawer1": [
+            "Access navigation drawer",
+            "Browse featured, new, discover, and popular comics",
+            "Access smart lists, my books, wish list, archived books, series, story arcs, creators",
+            "Manage account, settings, feedback, and about information"
+        ],
+        "SearchPage": [
+            "Search for comic titles or creators",
+            "Collapse search interface"
+        ],
+        "MyBooksSignInPrompt": [
+            "Navigation drawer access",
+            "More options access",
+            "Sign-in button"
+        ],
+        "NavigationDrawer": [
+            "Access navigation menu",
+            "Sign in to Marvel account",
+            "Explore featured content",
+            "Manage library",
+            "View smart lists",
+            "Access My Books",
+            "Manage Wish List",
+            "View archived books",
+            "Browse series, story arcs, and creators",
+            "Access account settings",
+            "Provide feedback",
+            "View app information"
+        ],
+        "MyBooks": [
+            "Refresh library",
+            "View tips"
+        ],
+        "Unknown": [
+            "MainLocationSelector",
+            "Access to MyBooks",
+            "Navigation to other sections",
+            "Display of available comic titles",
+            "Purchase and subscription options"
+        ],
+        "Login": [
+            "Navigate back",
+            "Sign In"
+        ],
+        "WebViewAuthPortal": [
+            "Web-based authentication",
+            "Login or sign-up interface",
+            "Embedded web content"
+        ],
+        "LoginErrorPage": [
+            "Navigate back",
+            "Attempt to sign in again",
+            "Display connection error message"
+        ],
+        "MainNavigationDrawer2": [
+            "Open navigation drawer",
+            "Search comics",
+            "Access My Books",
+            "Swipe through tabs",
+            "View featured content",
+            "Explore new releases",
+            "Discover popular titles",
+            "Access top-rated comics",
+            "Get started guide"
+        ]
+    },
+    "com.merriamwebster": {
+        "MainDictionary": [
+            "Open menu drawer",
+            "Search",
+            "Voice search",
+            "Access WORD GAMES",
+            "PLAY M-W QUIZZES"
+        ],
+        "MainMenuDrawer": [
+            "Navigate to Dictionary",
+            "Navigate to Word of the Day",
+            "Navigate to Games",
+            "Access Account/Log in",
+            "View Recent Searches",
+            "View Saved Words",
+            "Upgrade Options",
+            "Access More Features",
+            "Close Menu",
+            "Voice Search",
+            "Search Function",
+            "Access Word Games"
+        ],
+        "DictionarySearch": [
+            "Open menu drawer",
+            "Voice search",
+            "Input search text"
+        ],
+        "MainMenuDrawer1": [
+            "Navigate to Dictionary",
+            "Access Word of the Day",
+            "Play Games",
+            "Manage Account",
+            "View Recent Searches",
+            "Access Saved Words",
+            "Upgrade Subscription",
+            "Explore More Options",
+            "Perform Search",
+            "Voice Search"
+        ],
+        "DictionarySearch1": [
+            "Search word definitions",
+            "Switch between Dictionary and Thesaurus",
+            "Voice search",
+            "Display search suggestions"
+        ],
+        "MainSearchPage": [
+            "Search for words",
+            "Switch between Dictionary and Thesaurus",
+            "Access voice search",
+            "View word games and quizzes"
+        ],
+        "MainSearchPage1": [
+            "Search for words",
+            "Switch between Dictionary and Thesaurus",
+            "Voice search",
+            "View search history"
+        ],
+        "DictionarySearch2": [
+            "Search word definitions",
+            "Switch between dictionary and thesaurus",
+            "View search suggestions",
+            "Clear search query",
+            "Voice search"
+        ],
+        "MainMenuDrawer2": [
+            "Open menu drawer",
+            "Access additional features"
+        ],
+        "MainMenuDrawer3": [
+            "Navigate to Dictionary",
+            "Access Word of the Day",
+            "Play Games",
+            "Manage Account",
+            "View Recent Searches",
+            "Access Saved Words",
+            "Upgrade Subscription",
+            "Explore More Options",
+            "Close Menu Drawer"
+        ],
+        "GamesDifficultySelector": [
+            "Select game difficulty levels",
+            "Navigate to game menu",
+            "Choose between LIGHT, MEDIUM, HARD, DEVILISH, DIFFICULT options"
+        ],
+        "MainMenuGames": [
+            "Access dictionary",
+            "Access Word of the Day",
+            "Access games",
+            "Log in/Account management",
+            "View recent searches",
+            "View saved words",
+            "Upgrade options",
+            "More settings",
+            "Select game difficulty levels"
+        ],
+        "DictionarySearch3": [
+            "Search word definitions",
+            "Switch between dictionary and thesaurus",
+            "View search suggestions",
+            "Access voice search",
+            "Open menu drawer"
+        ],
+        "DictionarySearch4": [
+            "Search for words",
+            "Switch between Dictionary and Thesaurus",
+            "View search suggestions",
+            "Access menu options like Word of the Day, Games, Account, Recent, Saved Words, Upgrade, More"
+        ],
+        "GamePlayInstructions": [
+            "Display game rules and instructions",
+            "Start gameplay",
+            "Pause game"
+        ],
+        "GamePlay": [
+            "Toggle audio on/off",
+            "Exit game",
+            "Track question progress",
+            "Display time",
+            "Display score"
+        ],
+        "GamePlay_QuestionAnswer": [
+            "Pause game",
+            "Select answer",
+            "Track progress",
+            "Display score",
+            "Timer countdown"
+        ],
+        "GamePlayPauseMenu": [
+            "Resume quiz",
+            "Start new quiz",
+            "Exit quiz",
+            "Toggle audio"
+        ],
+        "GamePlayPauseMenu1": [
+            "Pause quiz",
+            "Resume quiz",
+            "Start new quiz",
+            "Exit quiz",
+            "Toggle audio"
+        ],
+        "GamePlay5": [
+            "Pause game",
+            "Track question progress",
+            "Display time",
+            "Show score",
+            "Present word challenge"
+        ],
+        "Dictionary": [
+            "Open menu drawer"
+        ]
+    },
+    "gov.nasa": {
+        "MainNewsImageTV": [
+            "Access latest news",
+            "View space-related images",
+            "Explore TV and audio content",
+            "Navigate to settings"
+        ],
+        "MainNewsImageTVSelector": [
+            "Access latest news",
+            "View space images",
+            "Watch TV and audio content",
+            "Navigate to all news"
+        ],
+        "SettingsMenu": [
+            "Toggle Dark Mode",
+            "Enable NASA Events Notifications",
+            "Enable NASA Image of the Day Notifications",
+            "Enable Astronomy Picture of the Day Notifications",
+            "Configure ISS Sightings Notifications",
+            "Set Wallpaper Automatically",
+            "Select Image Feeds to Display"
+        ],
+        "SightingsPage": [
+            "View sighting details",
+            "Switch between Sightings and Tracking modes",
+            "Navigate up",
+            "Access more options"
+        ],
+        "SightingsMapViewer": [
+            "View satellite locations on map",
+            "Toggle between Sightings and Tracking modes",
+            "Zoom in on map",
+            "Navigate up",
+            "Access more options"
+        ],
+        "ImageSourceSelector": [
+            "Select image source",
+            "Choose between All Images, NASA Image of the Day, Astronomy Picture of the Day",
+            "Cancel selection"
+        ],
+        "FeedsSelection": [
+            "Select all feeds",
+            "Deselect all feeds",
+            "Toggle individual feed subscriptions"
+        ],
+        "SightingsLocationSetup": [
+            "Request GPS Location",
+            "Share sightings info",
+            "Guide on viewing passes",
+            "Manual location entry",
+            "Enable sightings notifications"
+        ],
+        "LocationPermissionPrompt": [
+            "Request location access",
+            "Launch app settings"
+        ],
+        "LocationSettings": [
+            "Request GPS Location",
+            "Show Current Home Location",
+            "Show Current Orbiter Location",
+            "Select Map Type",
+            "Center On Orbiter",
+            "Manually Enter Location"
+        ],
+        "NewsPager": [
+            "Swipe through articles",
+            "Navigate back",
+            "Share article"
+        ],
+        "NewsFeed": [
+            "Navigate up",
+            "Search",
+            "Scroll news items",
+            "View news details"
+        ],
+        "NASALiveSelector": [
+            "Navigate up",
+            "Select Public channel",
+            "Select Media channel",
+            "Select ISS Views",
+            "Select Radio channel",
+            "Select Podcasts"
+        ]
+    },
+    "com.microblink.photomath": {
+        "MainCameraFunctionPage": [
+            "Take a picture of a math problem",
+            "Access calculator",
+            "Open menu",
+            "Access help",
+            "Access my stuff",
+            "Control flash",
+            "Scan button"
+        ],
+        "OutdatedAppNotification": [
+            "Display outdated app message",
+            "Prompt user to update",
+            "Provide OK button to acknowledge"
+        ],
+        "MainCameraFunctionPage1": [
+            "Take a picture of a math problem",
+            "Access calculator",
+            "Open settings",
+            "Access help center",
+            "View about us",
+            "Explore Photomath Plus"
+        ],
+        "AboutPage": [
+            "Display contact information",
+            "Link to website",
+            "Access terms of service",
+            "Access privacy policy",
+            "Access open-source software details"
+        ],
+        "OssLicensesMenu": [
+            "Display open source licenses",
+            "Navigate back",
+            "View detailed license information"
+        ],
+        "LicenseViewer": [
+            "Display open-source license details",
+            "Navigate back",
+            "Long-click to interact with license text"
+        ],
+        "HelpSettingsPage": [
+            "Camera adjustment guidance",
+            "Advanced calculator usage",
+            "How to use instructions"
+        ],
+        "Editor": [
+            "Navigate up",
+            "Input mathematical equations",
+            "Switch between tabs",
+            "Swipe through keyboard options"
+        ],
+        "Editor1": [
+            "Navigate up",
+            "Input mathematical equations",
+            "View step-by-step solutions"
+        ],
+        "MyStuff": [
+            "View history",
+            "Manage bookmarks",
+            "Navigate between history and bookmarks"
+        ]
+    },
+    "com.quizlet.quizletandroid": {
+        "HomeNavigation": [
+            "Access activity center",
+            "Upgrade account",
+            "Search content",
+            "Create study sets",
+            "Manage account"
+        ],
+        "ActivitySummary": [
+            "View recent activity",
+            "Navigate back",
+            "Dismiss modal"
+        ],
+        "UpgradeSubscription": [
+            "Try free trial",
+            "Close upgrade page",
+            "View subscription details",
+            "Scroll through features",
+            "Annual billing option"
+        ],
+        "UserSettingsProfile": [
+            "View profile",
+            "Upgrade account",
+            "Manage school and courses",
+            "Edit email and username",
+            "Navigate to Home, Search, Create"
+        ],
+        "ProfileImageSelector": [
+            "Choose a picture",
+            "Navigate up",
+            "Select image from grid",
+            "Confirm image selection"
+        ],
+        "SearchResultsNavigation": [
+            "Search for study materials",
+            "Filter results by Sets, Textbooks, Questions",
+            "Play Quizlet Live",
+            "Navigate to Home, Create, Account sections"
+        ],
+        "SearchResultsPage": [
+            "Search by topic or keywords",
+            "Filter results by sets, textbooks, questions",
+            "Clear search input",
+            "Play Quizlet Live",
+            "Swipe through search results"
+        ],
+        "SearchResultsNavigation1": [
+            "Search for study materials",
+            "Filter results by Sets, Textbooks, Questions",
+            "Play Quizlet Live",
+            "Navigate to Home, Create, Account sections"
+        ],
+        "SearchResultsPage1": [
+            "Search by topic or keywords",
+            "Filter results by sets, textbooks, questions",
+            "Clear search input",
+            "Play Quizlet Live",
+            "Swipe through results"
+        ],
+        "SearchResultsNavigation2": [
+            "Search for study materials",
+            "Filter results by Sets, Textbooks, Questions",
+            "Access Quizlet Live",
+            "Navigate to Home, Create, Account sections"
+        ],
+        "SearchResultsExplorer": [
+            "Search for study materials",
+            "Filter results by type",
+            "Navigate to Quizlet Live",
+            "Access home, create, and account sections"
+        ],
+        "SearchResultsPage2": [
+            "Search by topic or keywords",
+            "Filter results by Sets, Questions, Users",
+            "Clear search input",
+            "Play Quizlet Live",
+            "Swipe through results"
+        ],
+        "HomeNavigation1": [
+            "Search for study sets",
+            "Clear search input",
+            "Navigate to Sets, Textbooks, Users, Classes",
+            "Swipe through search results",
+            "Access Home, Create, Account sections"
+        ],
+        "HomeNavigation2": [
+            "Search for study sets",
+            "Navigate to different categories like SETS, TEXTBOOKS, USERS, CLASSES",
+            "Play Quizlet Live",
+            "Clear search input"
+        ]
+    },
+    "com.android.vending": {
+        "SheetUiBuilderHost": [
+            "Custom flashcard creation",
+            "Study set editing",
+            "Interactive quiz setup",
+            "Spaced repetition configuration"
+        ]
+    },
+    "com.zzkko": {
+        "MainCategorySelector": [
+            "Browse categories",
+            "Navigate tabs",
+            "View flash sale",
+            "Access wishlist",
+            "Perform visual search",
+            "View cart",
+            "Access user profile"
+        ],
+        "DiscountErrorPage": [
+            "Server error notification",
+            "Retry action",
+            "Category, Size, Color filters",
+            "Highly Reviewed Picks",
+            "Most Popular",
+            "Price sorting",
+            "Search and Share options",
+            "Tab navigation for Women, Tops, Dresses, Bottoms, Plus, Shoes & Bags"
+        ],
+        "SearchHomeV3": [
+            "Search bar for 'Dress For Women'",
+            "Recently Searched items",
+            "CNY Sale promotions",
+            "Search Discovery suggestions",
+            "Back navigation",
+            "Image-based actions"
+        ],
+        "SearchHomeV31": [
+            "Search bar with recent searches",
+            "Display trending searches",
+            "Highlighted sale categories",
+            "Popular product categories",
+            "Copy text to search field"
+        ],
+        "WishlistEmptyState": [
+            "Sign in/Register",
+            "Shop Now",
+            "Enable notifications for discounts/stock updates",
+            "View recommended items",
+            "Save items to wishlist"
+        ],
+        "ErrorPageWithCategoryFilter": [
+            "Display server error message",
+            "Retry connection",
+            "Browse categories (Tops, Bottoms, Swimwear, Suits & Separates, Denim)",
+            "Apply filters (Recommend, Most Popular, Price)",
+            "View product attributes (evoluSHEIN, Category, Fit Type, Style)"
+        ],
+        "SignInPage": [
+            "Select country",
+            "Enter mobile/email",
+            "Continue with credentials",
+            "Continue with Google",
+            "Continue with Facebook",
+            "Agree to policy"
+        ],
+        "SignInEmailSelector": [
+            "Select email address",
+            "Input email or mobile number",
+            "Clear input field",
+            "Continue with Google",
+            "Close page"
+        ],
+        "SignIn": [
+            "Input email or phone",
+            "Clear input",
+            "Continue to next step",
+            "Sign in with Google",
+            "Close page"
+        ],
+        "WebViewPage": [
+            "Navigate back",
+            "Access shopping cart",
+            "Display web content"
+        ],
+        "MainProductListingPage": [
+            "View product discounts",
+            "Navigate through tab items",
+            "Access shopping cart",
+            "View product images",
+            "Swipe through product listings"
+        ],
+        "MainProductListing": [
+            "Display product discounts",
+            "Show product prices",
+            "Navigate to cart",
+            "Browse product categories",
+            "View product images"
+        ],
+        "MainShoppingPage": [
+            "Browse products",
+            "View discounts",
+            "Navigate tabs",
+            "Access cart",
+            "View product details"
+        ],
+        "MainWebViewPage": [
+            "Navigate back",
+            "Access shopping cart",
+            "Browse product categories",
+            "View product discounts",
+            "Interact with promotional images"
+        ],
+        "WebViewWelcomePage": [
+            "Navigate back",
+            "Access cart",
+            "Swipe through content",
+            "Interact with JavaScript elements"
+        ],
+        "WebViewWelcome": [
+            "Navigate back",
+            "Access shopping cart"
+        ],
+        "MainLocationSelector": [
+            "Select current location",
+            "Choose common locations",
+            "Browse and select countries",
+            "Close location selector"
+        ]
+    },
+    "com.google.android.gms": {
+        "AssistedSignInCartView": [
+            "View empty cart",
+            "Navigate back",
+            "Select shipping location",
+            "Shop without login",
+            "Sign in or register"
+        ]
+    },
+    "com.melodis.midomiMusicIdentifier.freemium": {
+        "MainNavigation": [
+            "Identify songs",
+            "Search lyrics and songs",
+            "Access history",
+            "Manage playlists"
+        ],
+        "OMRPage": [
+            "Identify music",
+            "Display song information",
+            "Close OMR",
+            "Swipe to view tips"
+        ],
+        "MusicSearchError": [
+            "Display search error message",
+            "Save search attempt",
+            "Close error page",
+            "Open more options"
+        ],
+        "MainNavigationPage": [
+            "Search lyrics, songs, and more",
+            "View history",
+            "Access playlists",
+            "Identify music"
+        ],
+        "SearchPage": [
+            "Search for lyrics and songs",
+            "Cancel search",
+            "Activate music identification"
+        ],
+        "VoiceSearchPage": [
+            "Initiate voice search",
+            "Display search status",
+            "Provide help option",
+            "Abort current search"
+        ],
+        "MusicDiscoveryHome": [
+            "Log In or Sign Up",
+            "View Discovered Songs",
+            "Access History",
+            "Search Music",
+            "Manage Playlists"
+        ],
+        "PlaylistManagement": [
+            "Create new playlist",
+            "Navigate to history",
+            "Navigate to search",
+            "Long-click search"
+        ],
+        "PlaylistCreation": [
+            "Create new playlist",
+            "Input playlist name"
+        ],
+        "PlaylistManagement1": [
+            "Create Playlist",
+            "View Playlist History",
+            "Search Music",
+            "Long-press Search"
+        ],
+        "PlaylistManagement2": [
+            "Create Playlist",
+            "Navigate to History",
+            "Navigate to Search",
+            "Long-press Search"
+        ],
+        "Settings": [
+            "Sign Up/Log In",
+            "Link Accounts",
+            "Configure Song Playback",
+            "Connect YouTube for Full Songs/Videos",
+            "Enable Previews",
+            "Connect Twitter",
+            "Access Help & Tips",
+            "Navigate to Search",
+            "Navigate to Playlists"
+        ],
+        "AccountSignUp": [
+            "Sign up with email",
+            "Sign up with Facebook",
+            "View privacy policy",
+            "Log into existing account",
+            "Enter name, email, and password",
+            "Show/hide password"
+        ],
+        "AccountSignUpError": [
+            "Display error message",
+            "Provide retry option"
+        ],
+        "AccountSignUp2": [
+            "Sign up with email",
+            "Sign up with Facebook",
+            "Enter name",
+            "Enter email"
+        ],
+        "LinkedAccounts": [
+            "Manage linked social media accounts",
+            "Connect to Twitter",
+            "Navigate to Search",
+            "Navigate to Playlists"
+        ],
+        "MainNavigationSelector": [
+            "Access song history",
+            "Search for music",
+            "Manage playlists"
+        ]
+    },
+    "com.ted.android": {
+        "MainHomeScreen": [
+            "View spotlight talks",
+            "Browse newest and trending videos",
+            "Navigate to profile, discover, surprise me, library, and podcasts sections"
+        ],
+        "MainUserProfile": [
+            "Navigate to user profile",
+            "Access settings",
+            "View recommended content",
+            "View history",
+            "Create or sign in to account",
+            "Navigate to home, browse, surprise me, my library, and podcasts sections"
+        ],
+        "MainHomeScreen1": [
+            "View spotlight talks",
+            "Browse newest and trending videos",
+            "Navigate to profile",
+            "Access home, discover, surprise me, my library, and podcasts sections"
+        ],
+        "VideoDetails": [
+            "Watch video",
+            "Like video",
+            "Save video",
+            "Share video",
+            "Download video",
+            "Navigate to Home",
+            "Navigate to Browse",
+            "Navigate to Surprise Me!",
+            "Navigate to My Library",
+            "Navigate to Podcasts"
+        ],
+        "VideoDetailsPage": [
+            "Watch video",
+            "Like video",
+            "Save video",
+            "Share video",
+            "Download video",
+            "Navigate to Home",
+            "Navigate to Browse",
+            "Navigate to Surprise Me!",
+            "Navigate to My Library",
+            "Navigate to Podcasts"
+        ],
+        "MainHomeScreen2": [
+            "View spotlight talks",
+            "Browse newest videos",
+            "Navigate to Home, Discover, Surprise Me, My Library, Podcasts",
+            "Access profile page"
+        ],
+        "MainUserProfile1": [
+            "Access user profile",
+            "Navigate to settings",
+            "View recommended content",
+            "View history",
+            "Create or sign in to account",
+            "Navigate to home, browse, surprise me, my library, and podcasts",
+            "Interact with video content"
+        ],
+        "UserSettingsScreen": [
+            "Toggle light mode",
+            "Toggle cellular downloads",
+            "Set video resolution",
+            "Toggle autoplay",
+            "Select languages",
+            "Manage notifications",
+            "Set interests",
+            "Navigate to Home, Browse, Surprise Me!, My Library, Podcasts",
+            "View mysterious design content"
+        ],
+        "VideoDetail": [
+            "Watch video",
+            "Like/Save/Share/Download video",
+            "View video details",
+            "Navigate to Home/Browse/Surprise Me!/My Library/Podcasts",
+            "Explore related content"
+        ],
+        "VideoPlayer": [
+            "Watch TED Talk",
+            "Like/Save/Share/Download video",
+            "Navigate to Home/Browse/Surprise Me/My Library/Podcasts",
+            "View video details"
+        ],
+        "VideoPlayer1": [
+            "Watch video",
+            "Like video",
+            "Save video",
+            "Share video",
+            "Download video",
+            "Navigate to Home",
+            "Navigate to Browse",
+            "Navigate to Surprise Me!",
+            "Navigate to My Library",
+            "Navigate to Podcasts"
+        ],
+        "MainUserProfile2": [
+            "Navigate to profile",
+            "Access settings",
+            "View library",
+            "Check recommendations",
+            "View history",
+            "Create or sign in account",
+            "Switch between home, browse, surprise me, library, and podcasts"
+        ],
+        "PodcastsScreen": [
+            "View podcast episodes",
+            "Navigate to Home, Discover, Surprise Me, My Library, Podcasts tabs"
+        ],
+        "PodcastDetails": [
+            "View podcast details",
+            "Navigate back to previous page",
+            "Scroll through podcast list",
+            "Select specific podcast episode",
+            "Switch between app tabs"
+        ],
+        "PodcastDetails1": [
+            "Navigate back to TED Podcasts",
+            "Scroll through podcast details",
+            "Select specific podcast episodes",
+            "Switch between app sections like Home, Browse, Surprise Me, My Library, Podcasts",
+            "Access listening history"
+        ],
+        "PodcastDetails2": [
+            "Navigate back to TED Podcasts",
+            "Scroll through podcast details",
+            "Select specific podcast episodes",
+            "Switch between app sections like Home, Discover, Surprise Me, My Library, Podcasts"
+        ],
+        "PodcastsScreen1": [
+            "View podcast episodes",
+            "Navigate to different sections like Home, Discover, Surprise Me, My Library, Podcasts",
+            "Access specific podcast content"
+        ],
+        "PodcastDetails3": [
+            "Navigate back to previous page",
+            "Scroll through podcast details",
+            "Switch to Home, Discover, Surprise Me, My Library, or Podcasts tabs",
+            "Select podcast episode"
+        ],
+        "PodcastDetails4": [
+            "Navigate back to previous page",
+            "Scroll through podcast details",
+            "Access podcast episodes",
+            "Switch between app tabs",
+            "Listen to selected podcast"
+        ],
+        "PodcastDetails5": [
+            "Navigate back to previous page",
+            "Scroll through podcast details",
+            "Select podcast episode",
+            "Switch to Home tab",
+            "Switch to Browse tab",
+            "Switch to Surprise Me tab",
+            "Switch to My Library tab",
+            "Switch to Podcasts tab"
+        ],
+        "UserProfileSettings": [
+            "Access user profile",
+            "Navigate to settings",
+            "View recommended content",
+            "View history",
+            "Create or sign in to account",
+            "Browse content",
+            "Access podcasts",
+            "Explore surprise content",
+            "Access library",
+            "View specific talk"
+        ],
+        "MainHomeScreen3": [
+            "View spotlight talks",
+            "Browse newest videos",
+            "Navigate to profile",
+            "Access home, discover, surprise me, my library, and podcasts sections"
+        ]
+    },
+    "com.accuweather.android": {
+        "MainWeatherDashboard": [
+            "Display current location weather",
+            "Show real-time weather updates",
+            "Provide weather alerts",
+            "Display hourly, daily, and radar forecasts",
+            "Show RealFeel temperature",
+            "Display precipitation status",
+            "Show upcoming weather conditions"
+        ],
+        "MainNavigationDrawer": [
+            "Upgrade to Remove Ads",
+            "Access Settings",
+            "View What's New",
+            "Contact Us",
+            "FAQ",
+            "Terms of Use",
+            "Privacy Policy",
+            "Close Navigation Drawer",
+            "Swipe to Refresh",
+            "View Weather Alerts",
+            "Minute Cast Summary",
+            "Dial Interaction",
+            "Today's Forecast"
+        ],
+        "SettingsConfiguration": [
+            "Set weather units (Imperial, Metric, Hybrid)",
+            "Configure wind direction display (Cardinal, Degrees)",
+            "Set time format (12 Hour, 24 Hour)",
+            "Adjust display mode (Light, Dark, Black)",
+            "Manage notifications",
+            "Configure location access",
+            "Set default location"
+        ],
+        "MainLocationSelector": [
+            "Search for locations",
+            "Enable current location",
+            "Manage notifications",
+            "View favorites",
+            "View recent locations"
+        ],
+        "NotificationSettings": [
+            "Toggle Persistent Notification",
+            "Toggle Government Issued Alerts",
+            "Navigate Back"
+        ],
+        "MainWeatherForecast": [
+            "Display current weather details",
+            "Show daily and monthly forecasts",
+            "Provide temperature ranges and precipitation chances",
+            "Display wind and cloud cover details",
+            "Allow navigation between day and month views",
+            "Enable location selection"
+        ],
+        "MainWeatherForecast1": [
+            "Display current location weather",
+            "Show daily and monthly forecasts",
+            "Toggle between day and month views",
+            "Navigate to Today, Hourly, Daily, and Radar sections",
+            "View temperature and precipitation details"
+        ],
+        "MainNavigationDrawer1": [
+            "Upgrade to Remove Ads",
+            "Access Settings",
+            "View What's New",
+            "Contact Us",
+            "FAQ",
+            "Terms of Use",
+            "Privacy Policy",
+            "Close Navigation Drawer",
+            "Swipe Daily Overview",
+            "View Today's Forecast"
+        ],
+        "Settings": [
+            "Manage units (Imperial, Metric, Hybrid)",
+            "Manage wind direction display (Cardinal, Degrees)",
+            "Manage time format (12 Hour, 24 Hour)",
+            "Manage display mode (Light, Dark, Black)",
+            "Manage notifications",
+            "Manage location access",
+            "Set default location"
+        ],
+        "NotificationSettings1": [
+            "Manage persistent notifications",
+            "Control government-issued alerts",
+            "Toggle severe weather alerts"
+        ],
+        "NotificationSettings2": [
+            "Manage notification preferences",
+            "Toggle persistent notifications",
+            "Toggle government-issued alerts"
+        ],
+        "NotificationPermissionPrompt": [
+            "Request push notification permission",
+            "Provide option to cancel",
+            "Redirect to device settings"
+        ],
+        "AlertsDetail": [
+            "View active weather alerts",
+            "Display alert details including title, start time, end time, and source",
+            "Navigate back to previous page"
+        ],
+        "MainWeatherDashboard1": [
+            "Display current location weather",
+            "Show real-time weather updates",
+            "Provide precipitation forecast",
+            "Display RealFeel temperature",
+            "Show hourly, daily, and radar forecasts",
+            "Navigate to different forecast views"
+        ],
+        "MainNavigationDrawer2": [
+            "Upgrade to Remove Ads",
+            "Access Settings",
+            "View What's New",
+            "Contact Us",
+            "FAQ",
+            "Terms of Use",
+            "Privacy Policy",
+            "Close Navigation Drawer",
+            "Swipe for Updates",
+            "View Weather Summary",
+            "View Weather Dial",
+            "View Today's Forecast"
+        ],
+        "MainWeatherForecast2": [
+            "Display current weather details",
+            "Show daily and nightly forecasts",
+            "Provide historical weather data",
+            "Toggle between day and month views",
+            "Display temperature, wind, and precipitation details"
+        ],
+        "MainWeatherForecast3": [
+            "Display current weather details",
+            "Show daily and weekly forecasts",
+            "Provide weather alerts",
+            "Toggle between day and month views",
+            "Navigate to location selection"
+        ],
+        "MainWeatherDashboard2": [
+            "Display current weather details",
+            "Show weather alerts",
+            "Provide today, tonight, and tomorrow forecasts",
+            "Navigate to hourly, daily, and radar views"
+        ],
+        "MainLocationSelector1": [
+            "Search for locations",
+            "Enable current location",
+            "Add locations to favorites",
+            "Cancel search"
+        ],
+        "MainWeatherDashboard3": [
+            "Display current location weather",
+            "Show real-time weather updates",
+            "Provide weather alerts",
+            "Display minute-by-minute precipitation forecast",
+            "Show daily and nightly temperature forecasts",
+            "Display RealFeel temperature",
+            "Show upcoming weather trends"
+        ],
+        "MainWeatherDashboard4": [
+            "Display current weather details",
+            "Show real-time weather alerts",
+            "Provide minute-by-minute precipitation forecast",
+            "Display daily and nightly temperature forecasts",
+            "Show RealFeel temperature",
+            "Navigate to location selection",
+            "Access navigation drawer"
+        ],
+        "MainWeatherForecast4": [
+            "Display current weather details",
+            "Show daily weather forecast",
+            "Toggle between day and month views",
+            "Navigate to hourly and radar views",
+            "Provide RealFeel and precipitation data"
+        ],
+        "MainWeatherForecast5": [
+            "View daily weather forecasts",
+            "Toggle between day and month views",
+            "Navigate to Today, Hourly, Daily, and Radar sections",
+            "Access weather history",
+            "View temperature and precipitation details"
+        ],
+        "MainNavigationDrawer3": [
+            "Upgrade to Remove Ads",
+            "Access Settings",
+            "View What's New",
+            "Contact Us",
+            "FAQ",
+            "Terms of Use",
+            "Privacy Policy",
+            "Close Navigation Drawer",
+            "Swipe Daily Forecast",
+            "View Today's Forecast"
+        ],
+        "SettingDefaultLocation": [
+            "Set default location",
+            "Enable current location",
+            "Edit favorite locations"
+        ],
+        "MainWeatherDashboard5": [
+            "Display current weather details",
+            "Show weather alerts",
+            "Provide minute-by-minute precipitation forecast",
+            "Display hourly and daily forecasts",
+            "Access radar map",
+            "Navigate to different forecast views"
+        ],
+        "MainNavigationDrawer4": [
+            "Upgrade to Remove Ads",
+            "Access Settings",
+            "View What's New",
+            "Contact Support",
+            "FAQ",
+            "Terms of Use",
+            "Privacy Policy",
+            "Close Navigation Drawer",
+            "View Weather Alerts",
+            "Minute Cast Summary",
+            "Today's Forecast"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+The Photomath app is a mobile application that allows users to take pictures of handwritten or printed mathematical equations and provides instant step-by-step solutions and explanations.
+All its main function pages are: Launcher, Main, NoPlayServices.
+I want to Change language to Spanish, in which Change language to Spanish may be accomplished in MainCameraFunctionPage1 page.
+I have finished the following actions:
+    (Step 1 in MainCameraFunctionPage page) {'action': 'click', 'text': '', 'resource-id': 'menu_icon', 'class': 'ImageButton', 'content-desc': '', 'parent_node': 'container', 'sibling_nodes': 'compose_view, camera_fragment_container, help_icon, editor_icon/Calculator, gallery_fragment_container, my_stuff_icon', 'child_nodes': ''};
+    (Step 2 in MainCameraFunctionPage1 page) {'action': 'click', 'text': '', 'resource-id': 'menu_item_language', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'menu_items', 'sibling_nodes': 'menu_title, menu_title_separator, menu_item_settings/Settings, menu_item_help/Help center, menu_item_about/About us, menu_item_genius_subscription/Photomath Plus', 'child_nodes': 'menu_item_language_image, menu_item_language_text/Language, menu_language_name/English'}.
+Current function GUI page is Main, which has the following texts: 'Language', 'English', 'English', 'Arabic', 'العربية', 'Czech', 'Čeština', 'Danish', 'Dansk', 'CANCEL', 'DONE'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'swipe', 'text': '', 'resource-id': 'language_list', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'language_header/Language, language_header_divider, language_bottom_divider, language_dialog_cancel/CANCEL, language_dialog_ok/DONE', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': 'CANCEL', 'resource-id': 'language_dialog_cancel', 'class': 'TextView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'language_header/Language, language_header_divider, language_list, language_bottom_divider, language_dialog_ok/DONE', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': 'DONE', 'resource-id': 'language_dialog_ok', 'class': 'TextView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'language_header/Language, language_header_divider, language_list, language_bottom_divider, language_dialog_cancel/CANCEL', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'language_list', 'sibling_nodes': '', 'child_nodes': 'language_radio, locale_name/English, native_name/English, phone_locale'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'language_list', 'sibling_nodes': '', 'child_nodes': 'language_radio, locale_name/Arabic, native_name/العربية'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'language_list', 'sibling_nodes': '', 'child_nodes': 'language_radio, locale_name/Czech, native_name/Čeština'};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'language_list', 'sibling_nodes': '', 'child_nodes': 'language_radio, locale_name/Danish, native_name/Dansk'};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'language_list', 'sibling_nodes': '', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

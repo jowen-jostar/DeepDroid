@@ -1,0 +1,39 @@
+['sign in with email and password', 'open the menu']
+
+The shopping app named "Home" is likely a platform focused on home goods, furniture, and decor, allowing users to browse and purchase items for their living spaces.
+All its main function pages are: Browse.
+I have explored the following pages and predicted its possible features:
+    BrowseHomeGoods: Open Menu; Search for Items; View Cart; Apply Filters; Swipe Product Feed; View Product Details; Long-click Product; Swipe Tabs; Select Popular Items; Navigate Deals Hub.
+    BrowseMenuDrawer: Close Menu; Search for Products; View Product Details; Switch Tabs; View Profile; Navigate to Browse; Earn Cash; Search; Check Notifications; View Shopping Cart; Apply Promo; View Order History; Manage Home Cash; Check Rewards; Claim Daily Login Bonus.
+    ProfileWishlistManager: View user profile; Manage wishlists; Create new wishlist; Switch between personal and followed wishlists; View reviews and uploads.
+    UserList: Display followers; Show no users found; Navigate back.
+    SearchFunctionality: Input search term; Display recent searches; Navigate back.
+    SearchResults: Display search suggestions; Show recent searches; Clear search query; Navigate back.
+    SearchFeed: Browse products; View product details; Filter results; Navigate back; Scroll through items; View purchase counts; View prices; Access all results.
+    SearchHistory: Display recent searches; Clear search query; Navigate back; Select search term.
+    CartEmpty: Navigate up; Continue Shopping.
+    BrowseHomeGoods1: Open Menu; Search for Items; View Product Details; Filter Products; Swipe Through Product Feed; View Popular Items; Access Deals Hub.
+    BrowseHomeGoods2: View product listings; Filter by popularity; Access deals; Navigate to user profile; Manage shopping cart; Apply promo codes; Check order history; Earn rewards; Claim daily login bonus.
+    BrowseHomeGoods3: Open menu; Search for items; Filter products; Scroll through product feed; View product details; Switch between Popular and Deals Hub tabs.
+    BrowseHomeGoods4: View product details; Swipe through product feed; Select popular or deals; Access user profile; Navigate to search, notifications, shopping cart, promo, order history, rewards, and daily login bonus.
+    BrowseHomeGoods5: Search for home goods; View product details; Filter by color and rating; Apply or clear filters; Browse popular items and deals.
+    BrowseHomeGoods6: Open Menu; Search for Items; View Product Details; Filter Products; Scroll Through Products; View Popular Items; Access Deals Hub.
+    BrowseHomeGoods7: Open Menu; Search for Items; View Product Details; Filter Products; Scroll Product Feed; Switch Tabs between Popular and Deals Hub.
+    ReferralProgramError: Display referral program ineligibility message; Provide retry option; Navigate to user profile; Access main menu options; View rewards and bonuses.
+    WishlistCreation: Create new wishlist; Suggest wishlist names; Cancel wishlist creation; Input custom wishlist name.
+    CreateWishlistDialog: Create new wishlist; Input wishlist name; Cancel wishlist creation.
+    CreateWishlistDialog1: Create new wishlist; Input wishlist name; Cancel wishlist creation.
+    WishlistCreation1: Create new wishlist; Suggest wishlist names; Cancel wishlist creation; Edit wishlist name.
+    ProductDetails: View product details; Swipe through product images; Share product; Save to wishlist; Navigate to related products; Read product reviews; Purchase product.
+    SearchHistoryAndRecentlyViewed: Search for items; View recent searches; View all recent searches; View recently viewed items; View all recently viewed items.
+    ImageViewer: Swipe through images; Click to view details; Navigate back; View all images.
+Please give me the page with the function that best matches the following tasks:
+    (1) sign in with email and password;
+    (2) open the menu.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['BrowseMenuDrawer', 'BrowseMenuDrawer']

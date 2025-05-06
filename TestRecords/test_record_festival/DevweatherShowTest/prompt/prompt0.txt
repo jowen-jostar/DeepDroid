@@ -1,0 +1,27 @@
+The DevWeather app is a weather forecasting application designed specifically for developers, offering real-time weather data and APIs for integration into software projects.
+All its main function pages are: Main, AppPreferences, AppWidgetPreferences, About, CityList, AppList, CalList.
+I want to Show me the temperature forecast over New Orleans Louisiana, in which Show me the temperature forecast over New Orleans Louisiana may be accomplished in MainWeatherForecast page.
+This is the first action.
+Current function GUI page is Main, which has the following texts: '5-Day Weather', 'MINHOU', '学府南路辅路, Minhou, Fuzhou, Fujian, China.', 'Last update: Jan 13  07:12 PM', '07:12 PM', '17/5°C', '11°C', 'Feels Like: 7°C', 'Clear', 'Precip.: 0.00 mm', 'Pressure: 1025 hPa', 'Visibility: 10 km', 'UV Index: ', '0', 'Dew Point: ', '5°C', 'Humidity: ', '62%', 'Sunrise:', ' 06:52 AM', 'Wind: ', '14 km/h NE', 'Sunset:', ' 05:31 PM', 'MON', 'TUE', 'WED', 'THU', 'FRI', '17/5°C', '21/7°C', '18/9°C', '14/4°C', '15/4°C', 'Clear', 'Clear', 'Fair', 'Clear', 'Clear', '-10%', '-30%', '-10%', '-10%', '-10%'.
+Current GUI page seems like MainLocationWeather page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'tool_bar', 'sibling_nodes': '5-Day Weather', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'menu_refresh', 'class': 'Button', 'content-desc': 'Update', 'parent_node': '', 'sibling_nodes': 'menu_share', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'menu_share', 'class': 'Button', 'content-desc': 'Share', 'parent_node': '', 'sibling_nodes': 'menu_refresh', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageView', 'content-desc': 'More options', 'parent_node': '', 'sibling_nodes': 'menu_refresh, menu_share', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'long-click', 'text': '', 'resource-id': '', 'class': 'ImageView', 'content-desc': 'More options', 'parent_node': '', 'sibling_nodes': 'menu_refresh, menu_share', 'child_nodes': ''};
+    (Widget Id: 5) {'action': 'click', 'text': 'MINHOU', 'resource-id': '', 'class': 'TextView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': 'wp_link', 'class': 'ImageView', 'content-desc': 'Weather & Clock Widget', 'parent_node': '', 'sibling_nodes': 'weather_icon', 'child_nodes': ''};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': 'googlefeed_sg%3Fgoods_id%3D42361681%26lang%3Den%26currency%3DSGD%26skucode%3DI32ek94psh3k%26url_from%3Dshein_google_sgadplaEN_GPM_Men01_20240606%26cid%3D20436175899%26pf%3DGOOGLE%26gad_source%3D5', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-10%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-10%'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-30%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-30%'};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-10%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-10%'};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-10%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-10%'};
+    (Widget Id: 12) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-10%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-10%'};
+    (Widget Id: 13) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': 'googlefeed_sg%3Fgoods_id%3D39111430%26lang%3Den%26currency%3DSGD%26skucode%3DI7445wgrpo3o%26url_from%3Dshein_google_sgadplaEN_GPM_Men01_20240606%26cid%3D20436175899%26pf%3DGOOGLE%26gad_source%3D5', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 14) {'action': 'click', 'text': '', 'resource-id': 'cbb', 'class': 'Button', 'content-desc': '', 'parent_node': 'abgc', 'sibling_nodes': 'abgb', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

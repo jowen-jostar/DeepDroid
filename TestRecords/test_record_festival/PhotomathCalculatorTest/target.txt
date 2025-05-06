@@ -1,0 +1,24 @@
+['Open the advanced calculator']
+
+The Photomath app is a mobile application that allows users to take pictures of handwritten or printed mathematical equations and provides instant step-by-step solutions and explanations.
+All its main function pages are: Launcher, Main, NoPlayServices.
+I have explored the following pages and predicted its possible features:
+    MainCameraFunctionPage: Take a picture of a math problem; Access calculator; Open menu; Access help; Access my stuff; Control flash; Scan button.
+    OutdatedAppNotification: Display outdated app message; Prompt user to update; Provide OK button to acknowledge.
+    MainCameraFunctionPage1: Take a picture of a math problem; Access calculator; Open settings; Access help center; View about us; Explore Photomath Plus.
+    AboutPage: Display contact information; Link to website; Access terms of service; Access privacy policy; Access open-source software details.
+    OssLicensesMenu: Display open source licenses; Navigate back; View detailed license information.
+    LicenseViewer: Display open-source license details; Navigate back; Long-click to interact with license text.
+    HelpSettingsPage: Camera adjustment guidance; Advanced calculator usage; How to use instructions.
+    Editor: Navigate up; Input mathematical equations; Switch between tabs; Swipe through keyboard options.
+    Editor1: Navigate up; Input mathematical equations; View step-by-step solutions.
+    MyStuff: View history; Manage bookmarks; Navigate between history and bookmarks.
+Please give me the page with the function that best matches the following tasks:
+    (1) Open the advanced calculator.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['HelpSettingsPage']

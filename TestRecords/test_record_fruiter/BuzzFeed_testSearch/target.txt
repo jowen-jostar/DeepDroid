@@ -1,0 +1,32 @@
+['search for a specific term in the app using the search bar']
+
+BuzzFeed is a news app that delivers trending stories, quizzes, videos, and entertainment content, often focusing on pop culture, viral topics, and social media trends.
+All its main function pages are: Buffet, LocalWeaverFeed, Pager, Splash, EndOfLife, BuffetSearch, Spicy, TestSpicy, SpicyChecklistQuiz, SpicyPersonalityQuiz, SpicyTriviaQuiz, Profile, ContributionSubmit, Settings, DebugSettings, DebugNativeBPageSettings, YouTube, Comments, ShowPage, GoogleLoginProxy, FacebookLoginProxy, NielsenOptOut, LeakCanaryTest, PreRollAdVideoViewer.
+I have explored the following pages and predicted its possible features:
+    MainContentPager: Navigate between 'For You' and 'Trending' sections; Search content; Access user profile; Swipe through content cards; View detailed articles; Switch between Home, News, Videos, Quizzes, and Explore tabs.
+    ContentPager: Switch between 'For You' and 'Trending' tabs; Share trending stories; Navigate to Home, News, Videos, Quizzes, Explore sections; View advertisements.
+    SearchResultPager: Search content; View trending stories; Share articles; Swipe through pages.
+    BuffetSearch: Navigate up; Search for content; Select post card.
+    ContentPager1: Switch between 'For You' and 'Trending' tabs; Share content; Navigate to different sections like Home, News, Videos, Quizzes, Explore; View and interact with trending stories and advertisements.
+    ProfileSignUp: Sign up with Facebook; Sign up with Google; Sign up with email; Log in.
+    Settings: Manage notifications; Toggle dark mode; Control video streaming quality; Set autoplay preferences; Select edition language; Send feedback.
+    NotificationTopicSelector: Select notification topics; Confirm selection with DONE.
+    MainContentNavigator: Switch between content tabs; Access search; Navigate user profile; Swipe through content; Select main categories.
+    SearchResultsPager: Display search suggestions; Show trending articles; Allow text input for search; Enable voice search; Swipe through content; Click to view detailed articles.
+    BuffetSearch1: Search content; Voice search; Select search suggestion; View post details.
+    BuffetSearch2: Search for content; Clear search query; Select trending topic.
+    DetailPage: Navigate up; Share content; Bookmark content.
+    ArticleDetailPage: Navigate back; Contribute; Share; Bookmark; View article details; Long-click title; Long-click description.
+    CommentsErrorPage: Display outdated comment error; Navigate back; Add new comment; Reply to comment; Share comment.
+    FacebookLoginPage: Log in to Facebook; Change language; Enter email or phone; Enter password; Recover password; Create new account; Access About, Help, More sections.
+    FacebookLogin: Log in to Facebook; Create new account; Reset forgotten password; Select language; Close page.
+    FacebookLogin2: Log in to Facebook; Select language; Clear input field; Enter email or phone number; Enter password.
+Please give me the page with the function that best matches the following tasks:
+    (1) search for a specific term in the app using the search bar.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['BuffetSearch']

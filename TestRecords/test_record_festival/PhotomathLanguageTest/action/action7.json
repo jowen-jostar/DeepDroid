@@ -1,0 +1,27 @@
+[
+    {
+        "page_name": "OutdatedAppNotification",
+        "action": "click",
+        "index": "0",
+        "text": "ACEPTAR",
+        "resource-id": "android:id/button1",
+        "class": "android.widget.Button",
+        "package": "com.microblink.photomath",
+        "content-desc": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "scrollable": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "visible-to-user": "true",
+        "bounds": "[699,1159][969,1303]",
+        "parent_node": "",
+        "sibling_nodes": "",
+        "child_nodes": ""
+    }
+]

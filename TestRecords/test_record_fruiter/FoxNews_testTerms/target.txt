@@ -1,0 +1,35 @@
+['navigate to the "For You" menu', 'access account settings', 'go to the legal section in settings']
+
+Fox News is a news app that provides the latest updates, articles, and videos on politics, business, entertainment, and more, from the Fox News network.
+All its main function pages are: .
+I have explored the following pages and predicted its possible features:
+    HomeTab: Watch TV; Explore content; Navigate to Browse, Watch, Listen, For You sections; View sponsored ads.
+    VideoFeed: Swipe to browse videos; Click to play selected video; View video details and timestamps.
+    MainNewsFeed: Watch live TV; Browse news articles; Access COVID-19 updates; Navigate to different sections like Home, Browse, Watch, Listen, For You.
+    ArticleDetail: View article details; Adjust text size; Save article; Share article; Navigate back; Interact with embedded video.
+    ArticleDetail1: Select text; Copy text; Web search; Adjust text size; Save article; Share article; Navigate back; View embedded video.
+    ArticleDetail2: View article details; Save article to For You tab; Adjust text size; Share article; Navigate back; View saved articles.
+    HomeFeed: View live streams; Access news segments; Navigate to different sections like Browse, Watch, Listen, For You.
+    MainNewsFeed1: Watch live TV; Read news articles; Save or remove content; Browse recommended stories; Navigate to different sections like Home, Browse, Watch, Listen, For You.
+    ArticleView: Navigate back; Access main menu; Watch TV; Read article; Swipe through content.
+    WebViewArticle: Display web content; Navigate back.
+    ArticleDetailView: Navigate back; Watch TV; Share via social media; Read article content; View related articles; Access comments; Print or email article.
+    ArticleDetailView1: Navigate back; Watch TV; Share via social media; Read article details; View related content; Access comments.
+    WebViewArticle1: Display web content; Navigate back.
+    NewsWebView: Navigate back; View latest news; Watch TV; Access mobile menu; Browse news categories; Read specific articles.
+    ArticleView1: Navigate back; Access Fox News homepage; Watch TV; Open mobile menu; Read article on AG Pam Bondi.
+    ArticleDetailView2: Navigate back; Watch TV; Share via social media; Read article details; View related content; Access comments.
+    VideoList: Swipe to browse videos; Click to view video details; Navigate through video categories.
+    VideoList1: Display video headlines; Navigate to video details; Play selected video.
+    VideoPlaylistEnd: Display video details; Indicate end of playlist; Swipe to navigate.
+Please give me the page with the function that best matches the following tasks:
+    (1) navigate to the "For You" menu;
+    (2) access account settings;
+    (3) go to the legal section in settings.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['HomeTab', 'MainNewsFeed', 'MainNewsFeed1']

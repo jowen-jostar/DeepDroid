@@ -1,0 +1,26 @@
+The SHEIN app is a mobile shopping application that offers a wide range of trendy and affordable fashion items, including clothing, accessories, and beauty products, with features for easy browsing, purchasing, and tracking orders.
+All its main function pages are: Welcome.
+I want to view fresh & new clothes, in which view fresh & new clothes may be accomplished in MainProductListingPage page.
+I have finished the following actions:
+    (Step 1 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'bt_', 'class': 'FrameLayout', 'content-desc': 'New', 'parent_node': '', 'sibling_nodes': 'btd, bt9, bt7, btc', 'child_nodes': 'bxx, bxy, bxz, by1/New'};
+    (Step 2 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'es', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'ch5', 'child_nodes': 'cs1, crt, et/SHEIN NEW'};
+    (Step 3 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'bt0', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'es', 'sibling_nodes': 'cs1, crt, et/SHEIN NEW, bt4', 'child_nodes': 'auf'}.
+Current function GUI page is Message, which has the following texts: 'Message', 'Turn on App Notifications for more latest information.', 'OPEN', 'Orders', 'Keep updated on the status of orders and logistics.', 'News', 'Be the first to know website/account updated.', 'SHEINGals', 'New likes, comments and followers.'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'dap', 'sibling_nodes': 'Message, o1', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'o1', 'class': 'ImageView', 'content-desc': '', 'parent_node': 'dap', 'sibling_nodes': 'Message', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'azu', 'sibling_nodes': '', 'child_nodes': 'bzu'};
+    (Widget Id: 3) {'action': 'long-click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'azu', 'sibling_nodes': '', 'child_nodes': 'bzu'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'azu', 'sibling_nodes': '', 'child_nodes': 'a2z, brr'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'bzu', 'child_nodes': 'b7q, tv_title/SHEINGals, dvx/New likes, comments and followers.'};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': 'j5', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'bzu', 'sibling_nodes': '', 'child_nodes': 'tv_tips/Turn on App Notifications for more latest information.'};
+    (Widget Id: 7) {'action': 'click', 'text': 'OPEN', 'resource-id': 'qt', 'class': 'Button', 'content-desc': '', 'parent_node': 'j5', 'sibling_nodes': 'tv_tips/Turn on App Notifications for more latest information., bb1', 'child_nodes': ''};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': 'bb1', 'class': 'ImageView', 'content-desc': '', 'parent_node': 'j5', 'sibling_nodes': 'tv_tips/Turn on App Notifications for more latest information., qt/OPEN', 'child_nodes': ''};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'b7q, tv_title/Orders, dvx/Keep updated on the status of orders and logistics.'};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'b7q, tv_title/News, dvx/Be the first to know website/account updated.'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

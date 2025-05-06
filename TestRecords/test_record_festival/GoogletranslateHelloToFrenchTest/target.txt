@@ -1,0 +1,28 @@
+["translate 'hello' to French", "verify that the result is 'bonjour'"]
+
+The Google Translate app is a language translation application that provides text, voice, and image translation capabilities for over 100 languages, allowing users to communicate across language barriers.
+All its main function pages are: Translate, KeyboardHandwriting, VoiceInput, ContinuousTranslate, ContinuousTranslateTranscript, SavedContinuousTranslate, ConversationIntro, OpticsInput, Phrasebook, Flashcard, Onboarding, RestorePackages, LanguagePicker, OpticsOnboarding, Help, Settings, OfflineManager, OfflineDialog, LauncherShortcuts, WordyWelcome, CopyDropWelcome, CopyDrop, CopyDropInApp, CopyDropContextMenu, GetOfflineSpec.
+I have explored the following pages and predicted its possible features:
+    MainTranslationInterface: Tap to Translate; Language Selection; Input Mode Selection; Navigation Drawer Access.
+    KeyboardHandwriting: Input text for translation; Select input method; Clear input text; View translation result.
+    InputMethodSelector: Switch between Keyboard and Handwriting input methods.
+    KeyboardHandwriting1: Input method selection; Handwriting input; Undo/Redo actions; Backspace functionality; Space bar input; Text entry and clearing; Translation result display.
+    KeyboardHandwriting2: Input text for translation; Select input method; Clear input text; View translation result.
+    CopyDropWelcome: Enable background translation; Provide instant translation on text copy; Learn more about Tap to Translate.
+    MainTranslationInterface1: Language selection; Text input; Camera translation; Handwriting input; Conversation mode; Voice input.
+    MainTranslationInterface2: Language selection; Text input; Camera translation; Handwriting input; Conversation mode; Voice input; Navigation drawer access; Home; Phrasebook; Offline translation; Settings.
+    LanguagePicker: Select source language; Detect language automatically; Search for languages; View recent languages; View all languages; Manage offline translation files.
+    LanguageSelection: Select source language; Detect language automatically; Manage offline translation files; Search for languages.
+    LanguageSearch: Search for languages; Clear search query; Collapse search interface.
+    LanguagePicker1: Select target language; Search languages; View recent languages; View all languages; Manage offline translation files.
+    LanguagePicker2: Select target language; Manage offline translation files; Search for languages; View recent and all languages.
+Please give me the page with the function that best matches the following tasks:
+    (1) translate 'hello' to French;
+    (2) verify that the result is 'bonjour'.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['MainTranslationInterface', 'MainTranslationInterface']

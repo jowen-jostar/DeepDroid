@@ -1,0 +1,44 @@
+['navigate to sign up', 'create a new 6pm account with provided credentials']
+
+6PM is a shopping app that offers discounted deals on shoes, clothing, and accessories from various brands.
+All its main function pages are: Home, Splash, Departments, Recommendations, RecentlyViewedItems, MyListItems, MyLists, Favorites, OrderSummary, Order, SizeChart, ZAsk, GiftCard, LandingPages, Search, Product, ProductEnhance, VideoPlayer, AccountForwarding, MyAccountMultiPane, MyAccount, ReturnWizard, WebPackageTracking, NewMapPackageTracking, LoyaltyFAQ, InfoWeb, AccountAuth, AUIAccountAuth, TeamMember, EasterEgg, WebView, ACheckoutWizard, Checkout, CheckoutSecondary, Confirmation, ReviewCreation, OrderConfirmation, Settings, About, BarcodeScanner, LandingPage, ReturnUPSPickup, CustomerService, PushHistory.
+I have explored the following pages and predicted its possible features:
+    MainCategorySelector: Navigate to Women's section; Navigate to Men's section; Navigate to Kids's section; Navigate to Shoes section; Navigate to Clothing section; Navigate to Sale section; Open navigation drawer; Search; Access shopping bag; More options.
+    AccountSettingsMenu: Access My Account; Manage My Lists; Contact Customer Service; Adjust Settings & Info.
+    WebViewPage: Display web content; Handle user interactions within web view.
+    AccountSignIn: User authentication; Password assistance; Show password toggle; Keep me signed in option; Login with Amazon; Create new account.
+    HomePage: View discounts and deals; Navigate to account; Search products; View shopping bag; Access favorites; Explore clearance sales.
+    ShippingDeliveryFAQ: View shipping details; Check delivery policies; Search for assistance; Navigate to account and favorites; Access shopping bag.
+    ShippingDeliveryFAQ1: View shipping details; Navigate to search; Open navigation menu; Access account; View favorites; Check bag status; Submit search query; Interact with ads; Apply for services; Read FAQs.
+    UnknownAccountAuth: Account Authentication; Trading Platform Access; Investment Services.
+    UnknownBankingAuth: Login to banking account; View personal banking options; Explore investment platform features; Check eligibility for account application.
+    OCBCBankingAuth: Scam alert information; Learn more about scams; Login to OCBC; Navigate to FRANK by OCBC; Navigate to Personal Banking; Navigate to Premier Banking; Navigate to Premier Private Client.
+    SecurityLoginPage: Display security information; Provide login option; Show help support.
+    OCBCScamAlert: Display scam alert information; Provide learn more option; Offer login functionality.
+    BankAuthPage: Authenticate with OCBC Bank; Process payment authorization; Display bank-related information.
+    BankLoginPage: Input access code; Input PIN; Login; Learn more about security; No Access Code/PIN option; Login with Singpass.
+    MainShoppingDeals: View discounted fashion deals; Navigate to account and favorites; Search for products; View shopping bag; Explore specific sale categories like boots and clearance.
+    ShippingDeliveryFAQ2: View shipping details; Navigate to account; Search products; Open navigation menu; View bag; Apply for trading platform; Read FAQs.
+    AccountAuthLanding: Display promotional deals; Provide navigation menu; Enable account login or registration; Show shopping bag status; Allow product search; Highlight clearance and sale items.
+    ShippingDeliveryFAQ3: View shipping details; Check free shipping eligibility; Navigate to account, favorites, and bag; Search for products; Submit search queries; Access shipping and delivery FAQs.
+    AccountAuthentication: Close modal; Sign in to view previous items; Navigate to Home Page; Navigate to Brands List; Navigate to Contact Us; Initiate sign-in process.
+    PasswordAssistancePage: Request password assistance; Enter email; Solve CAPTCHA; Switch to audio CAPTCHA; Continue process.
+    PasswordAssistancePage1: Request password help; Enter email; Clear email field; Solve CAPTCHA.
+    MainShoppingPage: Browse discounted fashion items; Search for products; View shopping bag; Access customer service; Navigate through categories; View special deals and clearance items.
+    AccountAuthLiveHelp: Prompt login for Live Chat; Display Live Help option.
+    AccountSignIn1: User authentication; Password assistance; Email input; Password visibility toggle; Keep me signed in option.
+    WebViewPage1: Display web content; Handle web interactions.
+    ShippingDeliveryFAQ4: View shipping details; Check free shipping eligibility; Navigate to account; Access favorites; View empty bag; Search products; Submit search; Read shipping FAQs.
+    AUIAccountAuth: View account details; Access favorites; Check shopping bag; Navigate through web content; Open navigation menu.
+    SearchFilterPage: Filter products by category; Search within results; Apply filters; Navigate back; Access shopping bag; Access more options.
+    SearchResults: Display product listings; Apply filters; Sort products; Navigate to product details; Hide snackbar message; Access shopping cart; Access more options.
+Please give me the page with the function that best matches the following tasks:
+    (1) navigate to sign up;
+    (2) create a new 6pm account with provided credentials.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['AccountSignIn', 'AccountSignIn']

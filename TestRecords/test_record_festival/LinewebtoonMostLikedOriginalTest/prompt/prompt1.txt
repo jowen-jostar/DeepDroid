@@ -1,0 +1,26 @@
+The Line Webtoon app is a digital platform for reading and discovering webcomics (webtoons), offering a wide range of genres and stories created by various artists, with features like personalized recommendations and community interactions.
+All its main function pages are: Splash, Tutorial.
+I want to check the most liked fantasy original is Lore Olympus, in which check the most liked fantasy original is Lore Olympus may be accomplished in WebtoonRanking page.
+I have finished the following actions:
+    (Step 1 in Unknown page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'More', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/MORE'}.
+Current function GUI page is Main, which has the following texts: 'More', 'Get Free Coins for inviting friends to WEBTOON!', 'Search', 'Settings', 'Fan Translation', 'Notice', 'Updates to email login method​', 'LOG IN', 'Join WEBTOON for more stories!', 'FOR YOU', 'ORIGINALS', 'CANVAS', 'MY', 'MORE'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'swipe', 'text': '', 'resource-id': '', 'class': 'ScrollView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'toolbar', 'child_nodes': 'more_menu, more_menu_divider, notice_layer, login_layer, text_login_info/Join WEBTOON for more stories!, ad_place_holder'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'invite_friends_menu', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'more_menu, more_menu_divider, notice_layer, login_layer', 'child_nodes': 'Get Free Coins for inviting friends to WEBTOON!'};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'more_menu', 'sibling_nodes': '', 'child_nodes': 'icon, label/Search'};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'more_menu', 'sibling_nodes': '', 'child_nodes': 'icon, label/Settings'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'more_menu', 'sibling_nodes': '', 'child_nodes': 'icon, label/Fan Translation'};
+    (Widget Id: 5) {'action': 'click', 'text': 'Notice', 'resource-id': 'notice_label', 'class': 'TextView', 'content-desc': '', 'parent_node': 'notice_layer', 'sibling_nodes': 'home_notice/Updates to email login method​', 'child_nodes': ''};
+    (Widget Id: 6) {'action': 'click', 'text': 'Updates to email login method​', 'resource-id': 'home_notice', 'class': 'TextView', 'content-desc': '', 'parent_node': 'notice_layer', 'sibling_nodes': 'notice_label/Notice', 'child_nodes': ''};
+    (Widget Id: 7) {'action': 'click', 'text': 'LOG IN', 'resource-id': 'login_button', 'class': 'TextView', 'content-desc': '', 'parent_node': 'login_layer', 'sibling_nodes': 'text_login_info/Join WEBTOON for more stories!', 'child_nodes': ''};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'For you', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/FOR YOU'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'ORIGINALS', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/ORIGINALS'};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'CANVAS', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/CANVAS'};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'My', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/MY'};
+    (Widget Id: 12) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'More', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/MORE'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

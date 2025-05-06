@@ -1,0 +1,37 @@
+['navigate to settings', 'access about section', 'access legal section']
+
+USA TODAY is a news app that provides the latest national and international news, sports, entertainment, and more, delivering content from the USA TODAY newspaper and its network of local media outlets.
+All its main function pages are: Loading, Article, StandaloneNews, PushAlertReceiver, Navigation, Promo, Weather, ForcedUpgrade, ManageFollowTopics, SuggestedTopics, WeatherLocations, WeatherSearch, Scores, CoachesPoll, Gallery, VerticalGallery, VideoPlaylist, PublicationSelection, About, Faq, FeedbackSurvey, Accessibility, SubscriptionSupport, EthicalPrinciples, DownloadAllArticles, Lawyerese, LocationPicker, Sam, FrontAccess, Share, DeepLink, ActivtyNewsLetter, Video, EnlargedPhoto, AugmentedReality, Topic, Crosswords, OnBoard, TargetingQA, RemoteConfigQA, InvisibleNotificationUtils.
+I have explored the following pages and predicted its possible features:
+    NewsFeedNavigation: View top stories; Browse sections; Manage saved articles; Search for news; Access settings; Share articles.
+    SettingsNavigation: Toggle Night Mode; Enable Offline Reading; Manage Notifications; Subscribe Ad-Free; Configure General Settings; Access Help; View About Information.
+    SettingsTheme: Toggle Night Mode; Enable dark theme.
+    OfflineReadingSettings: Enable offline reading; Update headlines on launch; Download all articles for offline use.
+    OfflineReadingSettings1: Toggle update headlines on launch; Navigate back; Cancel article download.
+    Unknown: Unable to determine specific functions due to lack of identifiable widgets or text.
+    SearchNavigation: Search for news and sections; Voice search; Back navigation.
+    ArticleDetail: Navigate back; Adjust text size; Share article; Bookmark article; Swipe through articles; Follow topic; Read article content; Long-press article content.
+    ArticleTextSizeSelector: Adjust article text size; Cancel text size adjustment.
+    ShareOptions: Share via Bluetooth; Share via Messages; Share via Notes; Upload to Cloud drive; Share via Browser; Share via Search; Share via Email; Publish a post to vivo.com; Share via Chrome.
+    ShoppingTopic: View shopping deals; Share shopping deals; Navigate back; Swipe through deals.
+    ShoppingDealsArticle: View shopping deals; Adjust article text size; Share article; Save article; Add topic to news feed; Swipe through article content; Long-click article text; View article image.
+    ShoppingDealsArticle1: Navigate up; Adjust article text size; Share article; Bookmark article; Follow topic; Swipe through content; View article details; Long-click article text; View article image.
+    ArticleTextSizeSelector1: Adjust article text size; Cancel text size adjustment.
+    TopicNavigation: Navigate up; Return to previous screen.
+    EnlargedPhoto: View image details; Navigate back; Interact with caption; Interact with byline.
+    EnlargedPhoto1: View enlarged photo; Read caption and byline; Select all text; Copy text; Perform web search.
+    ShoppingDealsPage: View shopping deals; Add topic; Read article details; Swipe through articles; Long-click for options.
+    ShoppingDealsPage1: View shopping deals; Add topic; Read article details; Select text; Copy text; Web search.
+    StandaloneNews: Navigate back; Share article.
+    ArticleView: Navigate back; Adjust text size; Share article; Bookmark article.
+Please give me the page with the function that best matches the following tasks:
+    (1) navigate to settings;
+    (2) access about section;
+    (3) access legal section.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['SettingsNavigation', 'About', 'Lawyerese']

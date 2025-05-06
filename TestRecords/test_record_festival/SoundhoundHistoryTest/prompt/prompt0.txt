@@ -1,0 +1,27 @@
+The SoundHound app is a music identification and discovery service that allows users to identify songs playing around them, discover new music, and access lyrics and playlists.
+All its main function pages are: SoundHound, URLRouter, WidgetRouter, WidgetPermission, SoundHoundIdNow, IdNowRouter, CreateShortcutIdNow, NewTaskLauncher, ViewDatabaseError, ViewInternalWebview, ViewFreemiumStatus, PageHost, VideoPlayerPage, NoActionBarNoNavBarPageHost, OMR, PlayerPage, ViewMusicSearchResults, ViewSaySearchResults, ViewAudioSearchResultListItems.
+I want to Open settings and clear search history, in which open settings may be accomplished in Settings page, clear search history may be accomplished in MainNavigation page.
+This is the first action.
+Current function GUI page is PageHost, which has the following texts: '-10%', '-16%', '-10%', 'NEW', '-1%', 'Search lyrics, songs, and more', 'History', 'Search', 'Playlists'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'swipe', 'text': '', 'resource-id': 'scroll_view', 'class': 'ScrollView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'page_bg_container, overlay_container', 'child_nodes': 'homepage_page_cards_container, spacing_card, omr_combo'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'btn_omr', 'class': 'View', 'content-desc': '', 'parent_node': 'omr_combo', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'container, ad_container, mys-wrapper, mys-content, tower2-square, abgcp, abgc, abgb'};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-10%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-10%'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-16%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-16%'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-10%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-10%'};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': 'NEW', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'NEW'};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': 'googlefeed_sg%3Fgoods_id%3D45169227%26lang%3Den%26currency%3DSGD%26skucode%3DI437c2a8aoya%26url_from%3Dshein_google_sgadplaEN_GPM_Men01_20240606%26cid%3D20436175899%26pf%3DGOOGLE%26gad_source%3D5', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'View', 'content-desc': '-1%', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': '-1%'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': 'cbb', 'class': 'Button', 'content-desc': '', 'parent_node': 'abgc', 'sibling_nodes': 'abgb', 'child_nodes': ''};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'Search lyrics, songs, and more'};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': 'hound_button', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'Search lyrics, songs, and more', 'child_nodes': ''};
+    (Widget Id: 12) {'action': 'click', 'text': '', 'resource-id': 'nav_history', 'class': 'FrameLayout', 'content-desc': 'History', 'parent_node': '', 'sibling_nodes': 'nav_search, nav_playlist_collection', 'child_nodes': 'icon, smallLabel/History'};
+    (Widget Id: 13) {'action': 'long-click', 'text': '', 'resource-id': 'nav_search', 'class': 'FrameLayout', 'content-desc': 'Search', 'parent_node': '', 'sibling_nodes': 'nav_history, nav_playlist_collection', 'child_nodes': 'icon, largeLabel/Search'};
+    (Widget Id: 14) {'action': 'click', 'text': '', 'resource-id': 'nav_playlist_collection', 'class': 'FrameLayout', 'content-desc': 'Playlists', 'parent_node': '', 'sibling_nodes': 'nav_history, nav_search', 'child_nodes': 'icon, smallLabel/Playlists'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

@@ -1,0 +1,195 @@
+AccuweatherDefaultLocationTest:
+AR: 10/10=1.0
+SUCCESS: True
+
+AccuweatherDisplayModeTest:
+AR: 3/4=0.75
+SUCCESS: True
+
+AccuweatherFavouriteLocationTest:
+AR: 4/4=1.0
+SUCCESS: True
+
+AccuweatherLondonTest:
+AR: 3/3=1.0
+SUCCESS: True
+
+AccuweatherNotificationTest:
+AR: 2/5=0.4
+SUCCESS: False
+
+AccuweatherTemperatureTest:
+AR: 3/4=0.75
+SUCCESS: True
+
+Autoscout24DarkThemeTest:
+AR: 4/6=0.6666666666666666
+SUCCESS: True
+
+Autoscout24FavouriteTest:
+AR: 7/17=0.4117647058823529
+SUCCESS: False
+
+Autoscout24SearchTest:
+AR: 7/12=0.5833333333333334
+SUCCESS: True
+
+CastboxTechnologyTest:
+AR: 3/4=0.75
+SUCCESS: True
+
+ChanelweatherLocationTest:
+AR: 3/8=0.375
+SUCCESS: True
+
+ChanelweatherNotificationTest:
+AR: 4/12=0.3333333333333333
+SUCCESS: True
+
+DevweatherLocationTest:
+AR: 3/14=0.21428571428571427
+SUCCESS: True
+
+DevweatherShowTest:
+AR: 0/10=0.0
+SUCCESS: False
+
+DiaryCreateTest:
+AR: 3/12=0.25
+SUCCESS: True
+
+DiaryExportTest:
+AR: 3/4=0.75
+SUCCESS: True
+
+DiaryReminderTest:
+AR: 3/5=0.6
+SUCCESS: True
+
+GooglechromeAppVersionTest:
+AR: 4/4=1.0
+SUCCESS: True
+
+GooglechromeBookmarkTest:
+AR: 2/8=0.25
+SUCCESS: True
+
+GooglechromeOpenIncognitoTest:
+AR: 2/2=1.0
+SUCCESS: True
+
+GooglenewsProfileTest:
+AR: 1/1=1.0
+SUCCESS: True
+
+GooglenewsTechnologyTest:
+AR: 2/8=0.25
+SUCCESS: True
+
+GoogletranslateHelloTest:
+AR: 1/1=1.0
+SUCCESS: False
+
+GoogletranslateHelloToFrenchTest:
+AR: 6/7=0.8571428571428571
+SUCCESS: False
+
+GoogletranslateRecentLanguagesTest:
+AR: 0/2=0.0
+SUCCESS: False
+
+LinewebtoonAppVersionTest:
+AR: 7/4=1.75
+SUCCESS: True
+
+LinewebtoonMostLikedOriginalTest:
+AR: 3/6=0.5
+SUCCESS: False
+
+LinewebtoonOpenSleepModeTest:
+AR: 5/6=0.8333333333333334
+SUCCESS: True
+
+LinewebtoonSearchToonTest:
+AR: 2/5=0.4
+SUCCESS: True
+
+MarvelcomicsLocationTest:
+AR: 5/5=1.0
+SUCCESS: False
+
+MarvelcomicsVersionTest:
+AR: 3/2=1.5
+SUCCESS: True
+
+MerriamwebsterRecentWordTest:
+AR: 1/5=0.2
+SUCCESS: False
+
+MerriamwebsterSearchForHelloTest:
+AR: 0/2=0.0
+SUCCESS: False
+
+NasaDarkmodeTest:
+AR: 2/2=1.0
+SUCCESS: True
+
+NasaImageTest:
+AR: 2/10=0.2
+SUCCESS: False
+
+NasaMissionTest:
+AR: 0/9=0.0
+SUCCESS: False
+
+PhotomathCalculatorTest:
+AR: 0/4=0.0
+SUCCESS: False
+
+PhotomathLanguageTest:
+AR: 5/8=0.625
+SUCCESS: True
+
+QuizletAppVersionTest:
+AR: 3/2=1.5
+SUCCESS: True
+
+QuizletTurnOnNightModeTest:
+AR: 4/4=1.0
+SUCCESS: True
+
+SheinBagTest:
+AR: 1/1=1.0
+SUCCESS: True
+
+SheinCategoryTest:
+AR: 1/10=0.1
+SUCCESS: True
+
+SheinNewTest:
+AR: 1/4=0.25
+SUCCESS: True
+
+SoundhoundHistoryTest:
+AR: 6/7=0.8571428571428571
+SUCCESS: True
+
+SoundhoundMusicTest:
+AR: 0/4=0.0
+SUCCESS: False
+
+TedSearchTest:
+AR: 2/7=0.2857142857142857
+SUCCESS: False
+
+TedTrendingTest:
+AR: 1/0=0.0
+SUCCESS: True
+
+TransitSettingTest:
+AR: 1/3=0.3333333333333333
+SUCCESS: True
+
+
+
+AR: 138/277=0.4981949458483754

@@ -1,0 +1,479 @@
+ABCNews_testSearch:
+AR: 2/2=1.0
+SUCCESS: True
+
+ABCNews_testDetail:
+AR: 3/8=0.375
+SUCCESS: True
+
+ABCNews_testTextSize:
+AR: 4/8=0.5
+SUCCESS: True
+
+ABCNews_testCategory:
+AR: 2/3=0.6666666666666666
+SUCCESS: True
+
+ABCNews_testContact:
+AR: 2/8=0.25
+SUCCESS: False
+
+ABCNews_testMenu:
+AR: 1/1=1.0
+SUCCESS: True
+
+ABCNews_testTerms:
+AR: 3/10=0.3
+SUCCESS: True
+
+BBCNews_testSearch:
+AR: 2/2=1.0
+SUCCESS: True
+
+BBCNews_testDetail:
+AR: 2/2=1.0
+SUCCESS: False
+
+BBCNews_testTextSize:
+AR: 3/3=1.0
+SUCCESS: True
+
+BBCNews_testAbout:
+AR: 2/2=1.0
+SUCCESS: True
+
+BBCNews_testCategory:
+AR: 0/1=0.0
+SUCCESS: False
+
+BBCNews_testContact:
+AR: 2/3=0.6666666666666666
+SUCCESS: False
+
+BBCNews_testHelp:
+AR: 2/2=1.0
+SUCCESS: False
+
+BBCNews_testMenu:
+AR: 1/1=1.0
+SUCCESS: True
+
+BBCNews_testTerms:
+AR: 3/5=0.6
+SUCCESS: True
+
+BuzzFeed_testSignIn:
+AR: 5/6=0.8333333333333334
+SUCCESS: True
+
+BuzzFeed_testSignUp:
+AR: 2/5=0.4
+SUCCESS: False
+
+BuzzFeed_testSearch:
+AR: 2/2=1.0
+SUCCESS: True
+
+BuzzFeed_testDetail:
+AR: 3/3=1.0
+SUCCESS: True
+
+BuzzFeed_testAccount:
+AR: 1/6=0.16666666666666666
+SUCCESS: True
+
+BuzzFeed_testCategory:
+AR: 2/2=1.0
+SUCCESS: True
+
+BuzzFeed_testContact:
+AR: 1/3=0.3333333333333333
+SUCCESS: False
+
+BuzzFeed_testMenu:
+AR: 0/0=0.0
+SUCCESS: False
+
+BuzzFeed_testTerms:
+AR: 1/8=0.125
+SUCCESS: False
+
+FoxNews_testDetail:
+AR: 1/2=0.5
+SUCCESS: True
+
+FoxNews_testAccount:
+AR: 1/5=0.2
+SUCCESS: True
+
+FoxNews_testTextSize:
+AR: 2/2=1.0
+SUCCESS: True
+
+FoxNews_testAbout:
+AR: 3/6=0.5
+SUCCESS: True
+
+FoxNews_testCategory:
+AR: 2/3=0.6666666666666666
+SUCCESS: True
+
+FoxNews_testContact:
+AR: 3/10=0.3
+SUCCESS: True
+
+FoxNews_testHelp:
+AR: 3/11=0.2727272727272727
+SUCCESS: True
+
+FoxNews_testMenu:
+AR: 2/4=0.5
+SUCCESS: True
+
+FoxNews_testTerms:
+AR: 3/8=0.375
+SUCCESS: True
+
+SmartNews_testSearch:
+AR: 2/4=0.5
+SUCCESS: True
+
+SmartNews_testDetail:
+AR: 3/8=0.375
+SUCCESS: True
+
+SmartNews_testTextSize:
+AR: 3/3=1.0
+SUCCESS: True
+
+SmartNews_testAbout:
+AR: 2/3=0.6666666666666666
+SUCCESS: True
+
+SmartNews_testCategory:
+AR: 0/10=0.0
+SUCCESS: False
+
+SmartNews_testContact:
+AR: 2/9=0.2222222222222222
+SUCCESS: False
+
+SmartNews_testHelp:
+AR: 2/3=0.6666666666666666
+SUCCESS: True
+
+SmartNews_testMenu:
+AR: 1/1=1.0
+SUCCESS: True
+
+SmartNews_testTerms:
+AR: 3/7=0.42857142857142855
+SUCCESS: True
+
+USATODAY_testSearch:
+AR: 3/6=0.5
+SUCCESS: True
+
+USATODAY_testDetail:
+AR: 1/1=1.0
+SUCCESS: True
+
+USATODAY_testTextSize:
+AR: 3/7=0.42857142857142855
+SUCCESS: True
+
+USATODAY_testAbout:
+AR: 2/2=1.0
+SUCCESS: True
+
+USATODAY_testCategory:
+AR: 2/3=0.6666666666666666
+SUCCESS: True
+
+USATODAY_testContact:
+AR: 3/3=1.0
+SUCCESS: True
+
+USATODAY_testHelp:
+AR: 2/2=1.0
+SUCCESS: True
+
+USATODAY_testMenu:
+AR: 1/1=1.0
+SUCCESS: True
+
+USATODAY_testTerms:
+AR: 3/3=1.0
+SUCCESS: True
+
+5miles_testSignIn:
+AR: 4/4=1.0
+SUCCESS: True
+
+5miles_testSignUp:
+AR: 6/6=1.0
+SUCCESS: True
+
+5miles_testAbout:
+AR: 5/12=0.4166666666666667
+SUCCESS: False
+
+5miles_testAccount:
+AR: 6/6=1.0
+SUCCESS: True
+
+5miles_testCategory:
+AR: 5/9=0.5555555555555556
+SUCCESS: False
+
+5miles_testHelp:
+AR: 6/8=0.75
+SUCCESS: True
+
+5miles_testMenu:
+AR: 5/7=0.7142857142857143
+SUCCESS: True
+
+5miles_testSearch:
+AR: 6/6=1.0
+SUCCESS: True
+
+5miles_testFilter:
+AR: 10/10=1.0
+SUCCESS: True
+
+5miles_testDetail:
+AR: 7/7=1.0
+SUCCESS: True
+
+5miles_testAddress:
+AR: 7/12=0.5833333333333334
+SUCCESS: False
+
+5miles_testTerms:
+AR: 7/20=0.35
+SUCCESS: True
+
+6PM_testSignUp:
+AR: 7/10=0.7
+SUCCESS: True
+
+6PM_testAbout:
+AR: 3/4=0.75
+SUCCESS: True
+
+6PM_testAccount:
+AR: 2/3=0.6666666666666666
+SUCCESS: True
+
+6PM_testAddress:
+AR: 2/8=0.25
+SUCCESS: False
+
+6PM_testCategory:
+AR: 0/1=0.0
+SUCCESS: False
+
+6PM_testContact:
+AR: 2/2=1.0
+SUCCESS: True
+
+6PM_testHelp:
+AR: 3/9=0.3333333333333333
+SUCCESS: True
+
+6PM_testMenu:
+AR: 1/1=1.0
+SUCCESS: True
+
+6PM_testSearch:
+AR: 2/8=0.25
+SUCCESS: True
+
+6PM_testFilter:
+AR: 2/6=0.3333333333333333
+SUCCESS: False
+
+6PM_testDetail:
+AR: 2/6=0.3333333333333333
+SUCCESS: False
+
+6PM_testAddCart:
+AR: 2/6=0.3333333333333333
+SUCCESS: False
+
+6PM_testCart:
+AR: 2/2=1.0
+SUCCESS: False
+
+6PM_testTerms:
+AR: 4/5=0.8
+SUCCESS: True
+
+Geek_testSignIn:
+AR: 4/4=1.0
+SUCCESS: True
+
+Geek_testSignUp:
+AR: 7/12=0.5833333333333334
+SUCCESS: True
+
+Geek_testAccount:
+AR: 6/16=0.375
+SUCCESS: True
+
+Geek_testCategory:
+AR: 4/10=0.4
+SUCCESS: False
+
+Geek_testFilter:
+AR: 5/6=0.8333333333333334
+SUCCESS: False
+
+Geek_testContact:
+AR: 6/18=0.3333333333333333
+SUCCESS: True
+
+Geek_testHelp:
+AR: 5/12=0.4166666666666667
+SUCCESS: False
+
+Geek_testMenu:
+AR: 5/8=0.625
+SUCCESS: True
+
+Geek_testSearch:
+AR: 6/8=0.75
+SUCCESS: True
+
+Geek_testDetail:
+AR: 7/10=0.7
+SUCCESS: True
+
+Geek_testAddCart:
+AR: 8/16=0.5
+SUCCESS: True
+
+Geek_testCart:
+AR: 11/22=0.5
+SUCCESS: True
+
+Geek_testTerms:
+AR: 6/8=0.75
+SUCCESS: False
+
+Home_testSignIn:
+AR: 4/3=1.3333333333333333
+SUCCESS: True
+
+Home_testSignUp:
+AR: 5/11=0.45454545454545453
+SUCCESS: True
+
+Home_testAbout:
+AR: 5/12=0.4166666666666667
+SUCCESS: False
+
+Home_testAccount:
+AR: 6/5=1.2
+SUCCESS: True
+
+Home_testCategory:
+AR: 4/10=0.4
+SUCCESS: False
+
+Home_testContact:
+AR: 6/6=1.0
+SUCCESS: True
+
+Home_testHelp:
+AR: 6/6=1.0
+SUCCESS: True
+
+Home_testMenu:
+AR: 5/5=1.0
+SUCCESS: True
+
+Home_testSearch:
+AR: 6/6=1.0
+SUCCESS: True
+
+Home_testDetail:
+AR: 7/6=1.1666666666666667
+SUCCESS: True
+
+Home_testAddCart:
+AR: 8/9=0.8888888888888888
+SUCCESS: True
+
+Home_testCart:
+AR: 10/18=0.5555555555555556
+SUCCESS: False
+
+Home_testTerms:
+AR: 6/13=0.46153846153846156
+SUCCESS: False
+
+Home_testAddress:
+AR: 5/14=0.35714285714285715
+SUCCESS: False
+
+Wish_testSignIn:
+AR: 3/4=0.75
+SUCCESS: True
+
+Wish_testSignUp:
+AR: 6/11=0.5454545454545454
+SUCCESS: True
+
+Wish_testAccount:
+AR: 5/5=1.0
+SUCCESS: True
+
+Wish_testAddress:
+AR: 4/8=0.5
+SUCCESS: False
+
+Wish_testCategory:
+AR: 4/8=0.5
+SUCCESS: True
+
+Wish_testContact:
+AR: 5/12=0.4166666666666667
+SUCCESS: True
+
+Wish_testHelp:
+AR: 5/11=0.45454545454545453
+SUCCESS: True
+
+Wish_testMenu:
+AR: 4/7=0.5714285714285714
+SUCCESS: True
+
+Wish_testSearch:
+AR: 5/12=0.4166666666666667
+SUCCESS: True
+
+Wish_testFilter:
+AR: 5/11=0.45454545454545453
+SUCCESS: False
+
+Wish_testDetail:
+AR: 6/6=1.0
+SUCCESS: True
+
+Wish_testAddCart:
+AR: 7/9=0.7777777777777778
+SUCCESS: True
+
+Wish_testCart:
+AR: 10/16=0.625
+SUCCESS: True
+
+Wish_testTerms:
+AR: 4/12=0.3333333333333333
+SUCCESS: False
+
+
+
+AR: 453/807=0.5613382899628253

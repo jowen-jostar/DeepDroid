@@ -1,0 +1,30 @@
+The TED app is a mobile application that provides access to TED Talks, offering users the ability to watch and listen to inspiring and educational presentations by experts and thought leaders on various topics.
+All its main function pages are: Main.
+I want to click on "Inside the mind of a master procrastinator" Ted Talk and scroll down to read more information about the talk and speaker, in which click on "Inside the mind of a master procrastinator" Ted Talk may be accomplished in VideoDetails page, scroll down to read more information about the talk and speaker may be accomplished in VideoDetail page.
+I have finished the following actions:
+    (Step 1 in MainHomeScreen page) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_Discover', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Home, BottomTab_SurpriseMe, BottomTab_MyLibrary, BottomTab_Podcasts', 'child_nodes': 'Browse'};
+    (Step 2) {'action': 'text', 'text': 'Search', 'resource-id': '', 'class': 'EditText', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 3 in VideoDetails page) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_Discover', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Home, BottomTab_SurpriseMe, BottomTab_MyLibrary, BottomTab_Podcasts', 'child_nodes': 'Browse'};
+    (Step 4) {'action': 'text', 'text': 'Search', 'resource-id': '', 'class': 'EditText', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 5 in VideoDetails page) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_Discover', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Home, BottomTab_SurpriseMe, BottomTab_MyLibrary, BottomTab_Podcasts', 'child_nodes': 'Browse'};
+    (Step 6) {'action': 'text', 'text': 'Search', 'resource-id': '', 'class': 'EditText', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''}.
+Current function GUI page is Main, which has the following texts: 'TED Podcasts', 'Aug 17, 2023', 'Aug 17, 2023', 'Aug 15, 2023', 'Aug 15, 2023', 'Home', 'Browse', 'Surprise Me!', 'My Library', 'Podcasts'.
+Current GUI page seems like VideoDetails page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'swipe', 'text': '', 'resource-id': 'PodcastsScreen', 'class': 'ScrollView', 'content-desc': 'PodcastsScreen', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'Typography/TED Podcasts'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'PodcastCover', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'PodcastCover', 'child_nodes': 'CacheableImage, Typography/Aug 17, 2023'};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'PodcastCover', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'PodcastCover', 'child_nodes': 'CacheableImage, Typography/Aug 17, 2023'};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': 'PodcastCover', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'PodcastCover', 'child_nodes': 'CacheableImage, Typography/Aug 15, 2023'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'PodcastCover', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'PodcastCover', 'child_nodes': 'CacheableImage, Typography/Aug 15, 2023'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': 'PodcastCover', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'PodcastCover', 'child_nodes': 'CacheableImage'};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': 'PodcastCover', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'PodcastCover', 'child_nodes': 'CacheableImage'};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_Home', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Discover, BottomTab_SurpriseMe, BottomTab_MyLibrary, BottomTab_Podcasts', 'child_nodes': 'Home'};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_Discover', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Home, BottomTab_SurpriseMe, BottomTab_MyLibrary, BottomTab_Podcasts', 'child_nodes': 'Browse'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_SurpriseMe', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Home, BottomTab_Discover, BottomTab_MyLibrary, BottomTab_Podcasts', 'child_nodes': 'Surprise Me!'};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_MyLibrary', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Home, BottomTab_Discover, BottomTab_SurpriseMe, BottomTab_Podcasts', 'child_nodes': 'My Library'};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': 'BottomTab_Podcasts', 'class': 'View', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'BottomTab_Home, BottomTab_Discover, BottomTab_SurpriseMe, BottomTab_MyLibrary', 'child_nodes': 'Podcasts'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps, and don't do any extra operation after completing the task, such as going back to the home page, just output '-1'.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to check whether the target widget has already been operated in the previous steps.

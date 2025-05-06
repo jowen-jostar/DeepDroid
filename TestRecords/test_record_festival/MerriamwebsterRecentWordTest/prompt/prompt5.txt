@@ -1,0 +1,18 @@
+The Merriam-Webster app is a comprehensive dictionary and language resource that provides definitions, translations, synonyms, antonyms, and other linguistic tools to help users understand and use words effectively.
+All its main function pages are: Dictionary, WordDefinition.
+I want to search for hello and check if it is in recent words, in which search for "hello" may be accomplished in DictionarySearch page, check if "hello" is in recent words may be accomplished in MainMenuDrawer page.
+I have finished the following actions:
+    (Step 1 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'fake_search_layout', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'logo_layout, main_page_features', 'child_nodes': 'Search'};
+    (Step 2 in DictionarySearch1 page) {'action': 'text', 'text': 'Search', 'resource-id': 'search_src_text', 'class': 'EditText', 'content-desc': '', 'parent_node': 'search_plate', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 3 in DictionarySearch1 page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': '', 'parent_node': 'toolbar', 'sibling_nodes': 'searchView', 'child_nodes': ''};
+    (Step 4 in Unknown page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Open menu drawer', 'parent_node': 'toolbar', 'sibling_nodes': 'searchView', 'child_nodes': ''};
+    (Step 5 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'menu_recents', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'menu_bottom', 'sibling_nodes': 'menu_account, menu_favorites, menu_upgrade, menu_more', 'child_nodes': 'icon, title/Recent'}.
+Current function GUI page is Dictionary, which has the following texts: 'Recent', 'There are no recent words'.
+Current GUI page seems like MainMenuDrawer2 page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Open menu drawer', 'parent_node': 'toolbar', 'sibling_nodes': 'Recent', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

@@ -1,0 +1,24 @@
+5miles is a mobile shopping app that allows users to buy, sell, and discover items locally, offering a wide range of products from electronics to fashion.
+All its main function pages are: Welcome, MainTab, TabProfile, Report, ItemLocationMap, Profile, MyProfile, FmWeb, GuidePager.
+I want to sign in and navigate to add a new shipping address in the profile section, in which sign in may be accomplished in Welcome page, navigate to the profile section may be accomplished in MainTab page, add a new shipping address may be accomplished in Profile page.
+I have finished the following actions:
+    (Step 1) {'action': 'click', 'text': 'Sign In', 'resource-id': 'sign_in', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'sign_up/Register', 'child_nodes': ''};
+    (Step 2) {'action': 'text', 'text': 'Email', 'resource-id': 'login_email', 'class': 'EditText', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 3) {'action': 'text', 'text': 'Password (6–16 characters)', 'resource-id': 'login_password', 'class': 'EditText', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 4) {'action': 'click', 'text': 'SIGN IN', 'resource-id': 'login_login', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'navi_back, input_layout_email, input_layout_password, lbl_reset_password/Forgot password?, lbl_login_with_phone/Sign in with a phone number instead', 'child_nodes': ''};
+    (Step 5 in MainShoppingHub page) {'action': 'click', 'text': '', 'resource-id': 'action_profile', 'class': 'FrameLayout', 'content-desc': 'Me', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, smallLabel/Me'};
+    (Step 6) {'action': 'click', 'text': 'Edit Profile', 'resource-id': 'profile_edit_profile', 'class': 'TextView', 'content-desc': '', 'parent_node': 'summary_wrapper', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 7) {'action': 'click', 'text': '', 'resource-id': 'my_profile_shipping_address', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'my_profile_change_avatar, my_profile_change_nickname, my_profile_email_wrapper, my_profile_location, currency_wrapper, shipping_address_divider', 'child_nodes': 'Shipping Address'};
+    (Step 8 in SearchInput3 page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'top_toolbar', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 9) {'action': 'click', 'text': '', 'resource-id': 'my_profile_shipping_address', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'my_profile_change_avatar, my_profile_change_nickname, my_profile_email_wrapper, my_profile_location, currency_wrapper, shipping_address_divider', 'child_nodes': 'Shipping Address'};
+    (Step 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'top_toolbar', 'sibling_nodes': 'Shipping Address', 'child_nodes': ''};
+    (Step 11) {'action': 'click', 'text': '', 'resource-id': 'my_profile_shipping_address', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'my_profile_change_avatar, my_profile_change_nickname, my_profile_email_wrapper, my_profile_location, currency_wrapper, shipping_address_divider', 'child_nodes': 'Shipping Address'}.
+Current function GUI page is FmWeb, which has the following texts: 'Shipping Address', 'Shipping Address', 'Add new address'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'top_toolbar', 'sibling_nodes': 'Shipping Address', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps, and don't do any extra operation after completing the task, such as going back to the home page, just output '-1'.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget, which means <Widget Id> should not be -1.
+Note that the role of the previous step and the current page widgets is considered, and remember to check whether the target widget has already been operated in the previous steps.

@@ -1,0 +1,42 @@
+['open settings', 'change temperature unit to C']
+
+AccuWeather app is a weather forecasting application that provides real-time weather updates, forecasts, and alerts for locations worldwide.
+All its main function pages are: Onboarding, Splash, Main, WhatsNew.
+I have explored the following pages and predicted its possible features:
+    MainWeatherDashboard: Display current location weather; Show real-time weather updates; Provide weather alerts; Display hourly, daily, and radar forecasts; Show RealFeel temperature; Display precipitation status; Show upcoming weather conditions.
+    MainNavigationDrawer: Upgrade to Remove Ads; Access Settings; View What's New; Contact Us; FAQ; Terms of Use; Privacy Policy; Close Navigation Drawer; Swipe to Refresh; View Weather Alerts; Minute Cast Summary; Dial Interaction; Today's Forecast.
+    SettingsConfiguration: Set weather units (Imperial, Metric, Hybrid); Configure wind direction display (Cardinal, Degrees); Set time format (12 Hour, 24 Hour); Adjust display mode (Light, Dark, Black); Manage notifications; Configure location access; Set default location.
+    MainLocationSelector: Search for locations; Enable current location; Manage notifications; View favorites; View recent locations.
+    NotificationSettings: Toggle Persistent Notification; Toggle Government Issued Alerts; Navigate Back.
+    MainWeatherForecast: Display current weather details; Show daily and monthly forecasts; Provide temperature ranges and precipitation chances; Display wind and cloud cover details; Allow navigation between day and month views; Enable location selection.
+    MainWeatherForecast1: Display current location weather; Show daily and monthly forecasts; Toggle between day and month views; Navigate to Today, Hourly, Daily, and Radar sections; View temperature and precipitation details.
+    MainNavigationDrawer1: Upgrade to Remove Ads; Access Settings; View What's New; Contact Us; FAQ; Terms of Use; Privacy Policy; Close Navigation Drawer; Swipe Daily Overview; View Today's Forecast.
+    Settings: Manage units (Imperial, Metric, Hybrid); Manage wind direction display (Cardinal, Degrees); Manage time format (12 Hour, 24 Hour); Manage display mode (Light, Dark, Black); Manage notifications; Manage location access; Set default location.
+    NotificationSettings1: Manage persistent notifications; Control government-issued alerts; Toggle severe weather alerts.
+    NotificationSettings2: Manage notification preferences; Toggle persistent notifications; Toggle government-issued alerts.
+    NotificationPermissionPrompt: Request push notification permission; Provide option to cancel; Redirect to device settings.
+    AlertsDetail: View active weather alerts; Display alert details including title, start time, end time, and source; Navigate back to previous page.
+    MainWeatherDashboard1: Display current location weather; Show real-time weather updates; Provide precipitation forecast; Display RealFeel temperature; Show hourly, daily, and radar forecasts; Navigate to different forecast views.
+    MainNavigationDrawer2: Upgrade to Remove Ads; Access Settings; View What's New; Contact Us; FAQ; Terms of Use; Privacy Policy; Close Navigation Drawer; Swipe for Updates; View Weather Summary; View Weather Dial; View Today's Forecast.
+    MainWeatherForecast2: Display current weather details; Show daily and nightly forecasts; Provide historical weather data; Toggle between day and month views; Display temperature, wind, and precipitation details.
+    MainWeatherForecast3: Display current weather details; Show daily and weekly forecasts; Provide weather alerts; Toggle between day and month views; Navigate to location selection.
+    MainWeatherDashboard2: Display current weather details; Show weather alerts; Provide today, tonight, and tomorrow forecasts; Navigate to hourly, daily, and radar views.
+    MainLocationSelector1: Search for locations; Enable current location; Add locations to favorites; Cancel search.
+    MainWeatherDashboard3: Display current location weather; Show real-time weather updates; Provide weather alerts; Display minute-by-minute precipitation forecast; Show daily and nightly temperature forecasts; Display RealFeel temperature; Show upcoming weather trends.
+    MainWeatherDashboard4: Display current weather details; Show real-time weather alerts; Provide minute-by-minute precipitation forecast; Display daily and nightly temperature forecasts; Show RealFeel temperature; Navigate to location selection; Access navigation drawer.
+    MainWeatherForecast4: Display current weather details; Show daily weather forecast; Toggle between day and month views; Navigate to hourly and radar views; Provide RealFeel and precipitation data.
+    MainWeatherForecast5: View daily weather forecasts; Toggle between day and month views; Navigate to Today, Hourly, Daily, and Radar sections; Access weather history; View temperature and precipitation details.
+    MainNavigationDrawer3: Upgrade to Remove Ads; Access Settings; View What's New; Contact Us; FAQ; Terms of Use; Privacy Policy; Close Navigation Drawer; Swipe Daily Forecast; View Today's Forecast.
+    SettingDefaultLocation: Set default location; Enable current location; Edit favorite locations.
+    MainWeatherDashboard5: Display current weather details; Show weather alerts; Provide minute-by-minute precipitation forecast; Display hourly and daily forecasts; Access radar map; Navigate to different forecast views.
+    MainNavigationDrawer4: Upgrade to Remove Ads; Access Settings; View What's New; Contact Support; FAQ; Terms of Use; Privacy Policy; Close Navigation Drawer; View Weather Alerts; Minute Cast Summary; Today's Forecast.
+Please give me the page with the function that best matches the following tasks:
+    (1) open settings;
+    (2) change temperature unit to C.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['SettingsConfiguration', 'SettingsConfiguration']

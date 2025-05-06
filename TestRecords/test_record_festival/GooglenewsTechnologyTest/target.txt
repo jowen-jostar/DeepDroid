@@ -1,0 +1,33 @@
+['view technology headlines']
+
+The Google News app is a news aggregation application that curates and delivers personalized news articles, headlines, and stories from various sources based on user interests and preferences.
+All its main function pages are: CurrentsStart.
+I have explored the following pages and predicted its possible features:
+    Home: News aggregation; Personalized content delivery; Top stories display; Article source selection; Full coverage access; Navigation tabs for For you, Headlines, Following, Newsstand.
+    SearchPage: Search for topics, locations & sources; Navigate back.
+    SearchResultsPage: Display search results; Allow text input; Clear search text; Navigate back; Follow topics/sources; Scroll through results.
+    AccountSettingsPage: Manage Google Account; View Notifications; View My Activity; Configure News Settings; Access Help & Feedback; View Privacy Policy; View Terms of Service.
+    AccountManagementPage: Manage user accounts; Change profile picture; Add another account; Manage accounts on device; Configure notifications; View activity; Adjust news settings; Access help & feedback; Review privacy policy; View terms of service.
+    HomeNewsFeed: View personalized news headlines; Navigate news categories like U.S., World, Business, Technology; Access full coverage of stories; Switch between For You, Headlines, Following, Newsstand tabs; Search for news; Manage account settings.
+    SearchResultsPage1: Display search results; Allow scrolling through articles; Enable following topics; Provide article details; Offer more options for articles.
+    SearchResultsPage2: Display search suggestions; Allow text input; Clear search text; Navigate back; Select search result.
+    Home2: View personalized news headlines; Navigate through news categories like U.S., World, Business, Technology; Access full coverage of stories; Switch between For You, Headlines, Following, and Newsstand tabs; Search for news; View account settings.
+    ArticleDrawer: Navigate up; Share article; Save for later; Access more options; View Full Coverage.
+    ArticleReading: View article content; Navigate back; Access full coverage; Share article; Save for later; Open more options.
+    NewsEdition: View full coverage of news; Navigate back; Share news; Access more options; Swipe through news list; Select news articles for details.
+    ArticleReading1: Read article content; Close smart banner; Share article; Save article for later; Access more options; Navigate back; View full coverage.
+    HeaderEdition: Refresh news content; Display personalized news headlines.
+    NewsArticleViewer: Navigate back; Share article; Access more options; Scroll news list; View detailed news articles; Access additional article options.
+    ArticleReading2: Navigate back; Share article; Save for later; Access full coverage; Open article drawer; Scroll article content; Access breadcrumb links; View author profiles.
+    ArticleReading3: Navigate back; Share article; Save for later; Access more options; View full coverage; Swipe through content.
+    ArticleReading4: Navigate back; Share article; Save for later; Open more options; Swipe through content; Access full coverage.
+    ArticleDrawer1: Navigate up; Share article; Save for later; More options.
+Please give me the page with the function that best matches the following tasks:
+    (1) view technology headlines.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['HomeNewsFeed']

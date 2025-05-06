@@ -1,0 +1,19 @@
+The DevWeather app is a weather forecasting application designed specifically for developers, offering real-time weather data and APIs for integration into software projects.
+All its main function pages are: Main, AppPreferences, AppWidgetPreferences, About, CityList, AppList, CalList.
+I want to Show me the temperature forecast over New Orleans Louisiana, in which Show me the temperature forecast over New Orleans Louisiana may be accomplished in MainWeatherForecast page.
+I have finished the following actions:
+    (Step 1 in MainLocationWeather page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'tool_bar', 'sibling_nodes': '5-Day Weather', 'child_nodes': ''};
+    (Step 2 in MainWeatherDisplay page) {'action': 'click', 'text': '', 'resource-id': 'menu_cities', 'class': 'LinearLayoutCompat', 'content-desc': '', 'parent_node': 'design_navigation_view', 'sibling_nodes': 'navigation_header_container, menu_5day, menu_hourly, menu_daily, menu_moon, menu_settings, menu_about', 'child_nodes': 'design_menu_item_text/My Cities'};
+    (Step 3 in Unknown page) {'action': 'click', 'text': '', 'resource-id': 'fab', 'class': 'ImageButton', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'city_list', 'child_nodes': ''};
+    (Step 4 in MainLocationSelector page) {'action': 'text', 'text': 'City, Country', 'resource-id': 'inputCountry', 'class': 'EditText', 'content-desc': '', 'parent_node': 'TopView', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 5 in MainLocationSelector1 page) {'action': 'click', 'text': 'SEARCH NOW', 'resource-id': 'btnSearch', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'btnCancel/CANCEL', 'child_nodes': ''}.
+Current function GUI page is CityList, which has the following texts: 'Select Location Manually', 'Failed to find location.', 'CANCEL'.
+Current GUI page seems like LocationErrorDialog page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': 'Failed to find location.', 'resource-id': 'text1', 'class': 'CheckedTextView', 'content-desc': '', 'parent_node': 'select_dialog_listview', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': 'CANCEL', 'resource-id': 'button2', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

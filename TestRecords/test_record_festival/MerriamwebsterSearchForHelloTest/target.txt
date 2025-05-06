@@ -1,0 +1,35 @@
+['search for hello']
+
+The Merriam-Webster app is a comprehensive dictionary and language resource that provides definitions, translations, synonyms, antonyms, and other linguistic tools to help users understand and use words effectively.
+All its main function pages are: Dictionary, WordDefinition.
+I have explored the following pages and predicted its possible features:
+    MainDictionary: Open menu drawer; Search; Voice search; Access WORD GAMES; PLAY M-W QUIZZES.
+    MainMenuDrawer: Navigate to Dictionary; Navigate to Word of the Day; Navigate to Games; Access Account/Log in; View Recent Searches; View Saved Words; Upgrade Options; Access More Features; Close Menu; Voice Search; Search Function; Access Word Games.
+    DictionarySearch: Open menu drawer; Voice search; Input search text.
+    MainMenuDrawer1: Navigate to Dictionary; Access Word of the Day; Play Games; Manage Account; View Recent Searches; Access Saved Words; Upgrade Subscription; Explore More Options; Perform Search; Voice Search.
+    DictionarySearch1: Search word definitions; Switch between Dictionary and Thesaurus; Voice search; Display search suggestions.
+    MainSearchPage: Search for words; Switch between Dictionary and Thesaurus; Access voice search; View word games and quizzes.
+    MainSearchPage1: Search for words; Switch between Dictionary and Thesaurus; Voice search; View search history.
+    DictionarySearch2: Search word definitions; Switch between dictionary and thesaurus; View search suggestions; Clear search query; Voice search.
+    MainMenuDrawer2: Open menu drawer; Access additional features.
+    MainMenuDrawer3: Navigate to Dictionary; Access Word of the Day; Play Games; Manage Account; View Recent Searches; Access Saved Words; Upgrade Subscription; Explore More Options; Close Menu Drawer.
+    GamesDifficultySelector: Select game difficulty levels; Navigate to game menu; Choose between LIGHT, MEDIUM, HARD, DEVILISH, DIFFICULT options.
+    MainMenuGames: Access dictionary; Access Word of the Day; Access games; Log in/Account management; View recent searches; View saved words; Upgrade options; More settings; Select game difficulty levels.
+    DictionarySearch3: Search word definitions; Switch between dictionary and thesaurus; View search suggestions; Access voice search; Open menu drawer.
+    DictionarySearch4: Search for words; Switch between Dictionary and Thesaurus; View search suggestions; Access menu options like Word of the Day, Games, Account, Recent, Saved Words, Upgrade, More.
+    GamePlayInstructions: Display game rules and instructions; Start gameplay; Pause game.
+    GamePlay: Toggle audio on/off; Exit game; Track question progress; Display time; Display score.
+    GamePlay_QuestionAnswer: Pause game; Select answer; Track progress; Display score; Timer countdown.
+    GamePlayPauseMenu: Resume quiz; Start new quiz; Exit quiz; Toggle audio.
+    GamePlayPauseMenu1: Pause quiz; Resume quiz; Start new quiz; Exit quiz; Toggle audio.
+    GamePlay5: Pause game; Track question progress; Display time; Show score; Present word challenge.
+    Dictionary: Open menu drawer.
+Please give me the page with the function that best matches the following tasks:
+    (1) search for hello.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['DictionarySearch']

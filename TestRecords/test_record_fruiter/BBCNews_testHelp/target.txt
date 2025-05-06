@@ -1,0 +1,24 @@
+['navigate to more options', 'navigate to settings', 'navigate to help section']
+
+BBC News is a trusted global news app providing up-to-date coverage on international news, politics, business, technology, and more, directly from the British Broadcasting Corporation.
+All its main function pages are: TopLevel, SubMenuSettings, Item, PictureGalleryGrid, WidgetConfigure.
+I have explored the following pages and predicted its possible features:
+    MainNavigation: Access toolbar; Initiate search; Open more options; Long-press more options.
+    MainNavigation1: Access toolbar; Initiate search; Open more options; Long-press more options.
+    SearchPage: Navigate back; Enter search query.
+    SettingsMenu: Access Settings; Access Help; Contact Support; Explore Other BBC Apps.
+    Settings: Compact layout; Text size customization; Accessibility enhancement; Auto-play video settings; My News by Topic; Carousel display; Notification settings customization.
+    VideoAutoPlaySetting: Select auto-play video preference; Cancel setting changes.
+    ArticleDetail: Navigate back; Share story.
+    NetworkErrorRetry: Navigate back; Share story; Retry connection.
+Please give me the page with the function that best matches the following tasks:
+    (1) navigate to more options;
+    (2) navigate to settings;
+    (3) navigate to help section.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['MainNavigation', 'SettingsMenu', 'SettingsMenu']

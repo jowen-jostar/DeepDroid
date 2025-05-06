@@ -1,0 +1,26 @@
+The Line Webtoon app is a digital platform for reading and discovering webcomics (webtoons), offering a wide range of genres and stories created by various artists, with features like personalized recommendations and community interactions.
+All its main function pages are: Splash, Tutorial.
+I want to open sleep mode, in which open sleep mode may be accomplished in MainWebtoonDiscovery1 page.
+I have finished the following actions:
+    (Step 1 in Unknown page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ActionBar$Tab', 'content-desc': 'More', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': 'icon, text1/MORE'};
+    (Step 2 in Unknown page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'more_menu', 'sibling_nodes': '', 'child_nodes': 'icon, label/Settings'};
+    (Step 3 in Unknown page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Display'};
+    (Step 4 in Unknown page) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Navigate up', 'parent_node': 'toolbar', 'sibling_nodes': 'Display', 'child_nodes': ''}.
+Current function GUI page is Setting, which has the following texts: 'Settings', 'ACCOUNT', 'Log In', 'Sharing to Timeline', 'OPTIONS', 'Content Language', 'Image Resolution', 'Clear Cache', '13.71 MB', 'Manage Registered Device', 'Display', 'NOTIFICATIONS', 'Service Notifications', 'OFF'.
+Current GUI page seems like Unknown page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'swipe', 'text': '', 'resource-id': 'recycler_view', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': 'list_container', 'sibling_nodes': '', 'child_nodes': 'title/ACCOUNT, title/OPTIONS, title/NOTIFICATIONS'};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Log In'};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Sharing to Timeline'};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Content Language'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Image Resolution'};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Clear Cache, summary/13.71 MB'};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Manage Registered Device'};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'RelativeLayout', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'title/Display'};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'checkbox_bind_preference, title/Service Notifications, checkbox/OFF'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ViewGroup', 'content-desc': '', 'parent_node': 'recycler_view', 'sibling_nodes': '', 'child_nodes': 'checkbox_bind_preference'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

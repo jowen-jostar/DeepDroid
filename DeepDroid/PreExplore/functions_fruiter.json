@@ -1,0 +1,1556 @@
+{
+    "com.abc.abcnews": {
+        "MainNewsFeed": [
+            "View top stories",
+            "Swipe to refresh",
+            "Navigate to news categories",
+            "Access live content",
+            "Explore shows",
+            "Listen to audio content"
+        ],
+        "MainNavigation": [
+            "View top stories",
+            "Navigate through news categories",
+            "Access live streaming",
+            "Search for content",
+            "Save and view trending stories"
+        ],
+        "MainNewsFeed1": [
+            "View trending news",
+            "Read article headlines",
+            "Access different content categories",
+            "Navigate through news sections"
+        ],
+        "MainNavigation1": [
+            "Browse trending news",
+            "Access live streaming",
+            "Explore on-demand video content",
+            "Navigate through sections",
+            "Search for specific topics",
+            "Save and view top stories"
+        ],
+        "MainNavigation2": [
+            "Access saved stories",
+            "Navigate to news, interests, live, shows, listen sections",
+            "Open drawer menu"
+        ],
+        "MainNavigationDrawer": [
+            "Access saved stories",
+            "Navigate through news categories",
+            "Search for content",
+            "View top stories",
+            "Explore trending topics",
+            "Watch live and on-demand videos",
+            "Follow election updates",
+            "Read investigative reports"
+        ],
+        "VideoPlaylist": [
+            "View video playlist",
+            "Share video",
+            "Close playlist",
+            "Minimize playlist"
+        ],
+        "PermissionPrompt": [
+            "Request app permissions",
+            "Confirm action"
+        ],
+        "VideoPlaylistError": [
+            "Display error message",
+            "Provide OK button for acknowledgment"
+        ],
+        "VideoPlaylist2": [
+            "View video playlist",
+            "Share video",
+            "Close playlist",
+            "Minimize playlist"
+        ],
+        "MainNavigation4": [
+            "Listen to ABC News Radio",
+            "Browse podcasts",
+            "Navigate to NEWS, INTERESTS, LIVE, SHOWS, LISTEN tabs"
+        ],
+        "AppUpdateNotification": [
+            "Inform app improvement",
+            "Prompt user action",
+            "Confirm notification"
+        ],
+        "MainNavigation5": [
+            "Listen to podcasts",
+            "Browse news categories",
+            "Access live streaming",
+            "Search for content",
+            "View top stories",
+            "Save articles",
+            "Explore trending topics",
+            "Watch videos",
+            "Follow election updates",
+            "Read investigative reports"
+        ],
+        "MainNavigation6": [
+            "Listen to podcasts",
+            "Navigate news categories",
+            "Access live streaming",
+            "Search content",
+            "Explore shows and sections"
+        ],
+        "MainNavigation7": [
+            "Access podcast episodes",
+            "Navigate through news categories",
+            "Search for content",
+            "View top stories",
+            "Save and manage content",
+            "Explore trending topics",
+            "Access specific sections like U.S., Video, Election 2020, Politics, Local Video, International, Investigative"
+        ],
+        "MainNewsFeed2": [
+            "View news headlines",
+            "Access featured content",
+            "Navigate to different sections like NEWS, INTERESTS, LIVE, SHOWS, LISTEN",
+            "Click on specific news items",
+            "Swipe through news list"
+        ],
+        "MainNavigation8": [
+            "Navigate to NEWS, INTERESTS, LIVE, SHOWS, LISTEN",
+            "Access search functionality",
+            "Explore sections and shows",
+            "View specific programs like GOOD MORNING AMERICA, WORLD NEWS TONIGHT, NIGHTLINE, THIS WEEK, 20/20, ABC NEWS FEATURES, A MURDER ON ORCHARD STREET, YOUNG AND GIFTED, FINDING THE NEXT"
+        ]
+    },
+    "com.android.packageinstaller": {
+        "GrantPermissions": [
+            "Request user permissions",
+            "Enable access to features",
+            "Ensure app functionality"
+        ],
+        "GrantPermissions1": [
+            "Request user permissions",
+            "Enable app functionality",
+            "Access device features"
+        ],
+        "GrantPermissions2": [
+            "Request user permissions",
+            "Enable app functionality",
+            "Access device features"
+        ],
+        "GrantPermissions3": [
+            "Request user permissions",
+            "Enable app functionality",
+            "Access device features"
+        ]
+    },
+    "com.bbk.launcher2": {
+        "Launcher": [
+            "Access news categories",
+            "Start live streaming",
+            "Browse on-demand videos"
+        ]
+    },
+    "bbc.mobile.news.ww": {
+        "MainNavigation": [
+            "Access toolbar",
+            "Initiate search",
+            "Open more options",
+            "Long-press more options"
+        ],
+        "MainNavigation1": [
+            "Access toolbar",
+            "Initiate search",
+            "Open more options",
+            "Long-press more options"
+        ],
+        "SearchPage": [
+            "Navigate back",
+            "Enter search query"
+        ],
+        "SettingsMenu": [
+            "Access Settings",
+            "Access Help",
+            "Contact Support",
+            "Explore Other BBC Apps"
+        ],
+        "Settings": [
+            "Compact layout",
+            "Text size customization",
+            "Accessibility enhancement",
+            "Auto-play video settings",
+            "My News by Topic",
+            "Carousel display",
+            "Notification settings customization"
+        ],
+        "VideoAutoPlaySetting": [
+            "Select auto-play video preference",
+            "Cancel setting changes"
+        ],
+        "ArticleDetail": [
+            "Navigate back",
+            "Share story"
+        ],
+        "NetworkErrorRetry": [
+            "Navigate back",
+            "Share story",
+            "Retry connection"
+        ]
+    },
+    "com.buzzfeed.android": {
+        "MainContentPager": [
+            "Navigate between 'For You' and 'Trending' sections",
+            "Search content",
+            "Access user profile",
+            "Swipe through content cards",
+            "View detailed articles",
+            "Switch between Home, News, Videos, Quizzes, and Explore tabs"
+        ],
+        "ContentPager": [
+            "Switch between 'For You' and 'Trending' tabs",
+            "Share trending stories",
+            "Navigate to Home, News, Videos, Quizzes, Explore sections",
+            "View advertisements"
+        ],
+        "SearchResultPager": [
+            "Search content",
+            "View trending stories",
+            "Share articles",
+            "Swipe through pages"
+        ],
+        "BuffetSearch": [
+            "Navigate up",
+            "Search for content",
+            "Select post card"
+        ],
+        "ContentPager1": [
+            "Switch between 'For You' and 'Trending' tabs",
+            "Share content",
+            "Navigate to different sections like Home, News, Videos, Quizzes, Explore",
+            "View and interact with trending stories and advertisements"
+        ],
+        "ProfileSignUp": [
+            "Sign up with Facebook",
+            "Sign up with Google",
+            "Sign up with email",
+            "Log in"
+        ],
+        "Settings": [
+            "Manage notifications",
+            "Toggle dark mode",
+            "Control video streaming quality",
+            "Set autoplay preferences",
+            "Select edition language",
+            "Send feedback"
+        ],
+        "NotificationTopicSelector": [
+            "Select notification topics",
+            "Confirm selection with DONE"
+        ],
+        "MainContentNavigator": [
+            "Switch between content tabs",
+            "Access search",
+            "Navigate user profile",
+            "Swipe through content",
+            "Select main categories"
+        ],
+        "SearchResultsPager": [
+            "Display search suggestions",
+            "Show trending articles",
+            "Allow text input for search",
+            "Enable voice search",
+            "Swipe through content",
+            "Click to view detailed articles"
+        ],
+        "BuffetSearch1": [
+            "Search content",
+            "Voice search",
+            "Select search suggestion",
+            "View post details"
+        ],
+        "BuffetSearch2": [
+            "Search for content",
+            "Clear search query",
+            "Select trending topic"
+        ],
+        "DetailPage": [
+            "Navigate up",
+            "Share content",
+            "Bookmark content"
+        ],
+        "ArticleDetailPage": [
+            "Navigate back",
+            "Contribute",
+            "Share",
+            "Bookmark",
+            "View article details",
+            "Long-click title",
+            "Long-click description"
+        ],
+        "CommentsErrorPage": [
+            "Display outdated comment error",
+            "Navigate back",
+            "Add new comment",
+            "Reply to comment",
+            "Share comment"
+        ],
+        "FacebookLoginPage": [
+            "Log in to Facebook",
+            "Change language",
+            "Enter email or phone",
+            "Enter password",
+            "Recover password",
+            "Create new account",
+            "Access About, Help, More sections"
+        ],
+        "FacebookLogin": [
+            "Log in to Facebook",
+            "Create new account",
+            "Reset forgotten password",
+            "Select language",
+            "Close page"
+        ],
+        "FacebookLogin2": [
+            "Log in to Facebook",
+            "Select language",
+            "Clear input field",
+            "Enter email or phone number",
+            "Enter password"
+        ]
+    },
+    "com.android.chrome": {
+        "Unknown": [
+            "Unable to determine specific functions due to lack of identifiable widgets or texts"
+        ],
+        "CustomTab": [
+            "Display trending stories",
+            "Show quizzes",
+            "Play videos",
+            "Highlight entertainment content",
+            "Focus on pop culture and viral topics"
+        ]
+    },
+    "com.foxnews.android": {
+        "HomeTab": [
+            "Watch TV",
+            "Explore content",
+            "Navigate to Browse, Watch, Listen, For You sections",
+            "View sponsored ads"
+        ],
+        "VideoFeed": [
+            "Swipe to browse videos",
+            "Click to play selected video",
+            "View video details and timestamps"
+        ],
+        "MainNewsFeed": [
+            "Watch live TV",
+            "Browse news articles",
+            "Access COVID-19 updates",
+            "Navigate to different sections like Home, Browse, Watch, Listen, For You"
+        ],
+        "ArticleDetail": [
+            "View article details",
+            "Adjust text size",
+            "Save article",
+            "Share article",
+            "Navigate back",
+            "Interact with embedded video"
+        ],
+        "ArticleDetail1": [
+            "Select text",
+            "Copy text",
+            "Web search",
+            "Adjust text size",
+            "Save article",
+            "Share article",
+            "Navigate back",
+            "View embedded video"
+        ],
+        "ArticleDetail2": [
+            "View article details",
+            "Save article to For You tab",
+            "Adjust text size",
+            "Share article",
+            "Navigate back",
+            "View saved articles"
+        ],
+        "HomeFeed": [
+            "View live streams",
+            "Access news segments",
+            "Navigate to different sections like Browse, Watch, Listen, For You"
+        ],
+        "MainNewsFeed1": [
+            "Watch live TV",
+            "Read news articles",
+            "Save or remove content",
+            "Browse recommended stories",
+            "Navigate to different sections like Home, Browse, Watch, Listen, For You"
+        ],
+        "ArticleView": [
+            "Navigate back",
+            "Access main menu",
+            "Watch TV",
+            "Read article",
+            "Swipe through content"
+        ],
+        "WebViewArticle": [
+            "Display web content",
+            "Navigate back"
+        ],
+        "ArticleDetailView": [
+            "Navigate back",
+            "Watch TV",
+            "Share via social media",
+            "Read article content",
+            "View related articles",
+            "Access comments",
+            "Print or email article"
+        ],
+        "ArticleDetailView1": [
+            "Navigate back",
+            "Watch TV",
+            "Share via social media",
+            "Read article details",
+            "View related content",
+            "Access comments"
+        ],
+        "WebViewArticle1": [
+            "Display web content",
+            "Navigate back"
+        ],
+        "NewsWebView": [
+            "Navigate back",
+            "View latest news",
+            "Watch TV",
+            "Access mobile menu",
+            "Browse news categories",
+            "Read specific articles"
+        ],
+        "ArticleView1": [
+            "Navigate back",
+            "Access Fox News homepage",
+            "Watch TV",
+            "Open mobile menu",
+            "Read article on AG Pam Bondi"
+        ],
+        "ArticleDetailView2": [
+            "Navigate back",
+            "Watch TV",
+            "Share via social media",
+            "Read article details",
+            "View related content",
+            "Access comments"
+        ],
+        "VideoList": [
+            "Swipe to browse videos",
+            "Click to view video details",
+            "Navigate through video categories"
+        ],
+        "VideoList1": [
+            "Display video headlines",
+            "Navigate to video details",
+            "Play selected video"
+        ],
+        "VideoPlaylistEnd": [
+            "Display video details",
+            "Indicate end of playlist",
+            "Swipe to navigate"
+        ]
+    },
+    "jp.gocro.smartnews.android": {
+        "MainUnsupportedVersion": [
+            "Display unsupported version message",
+            "Show news sources",
+            "Enable search functionality",
+            "Refresh news",
+            "Access settings",
+            "Navigate overview"
+        ],
+        "SearchHistory": [
+            "Search news",
+            "Clear search history",
+            "Select search term"
+        ],
+        "MainLocalNews": [
+            "Share location for local news",
+            "Search news",
+            "Refresh news",
+            "Access settings",
+            "View news overview"
+        ],
+        "MainNewsFeed": [
+            "Swipe to browse news",
+            "Click to select news source",
+            "Long-click for additional options",
+            "Search for specific news",
+            "Refresh news feed",
+            "Access settings",
+            "View news overview"
+        ],
+        "UnknownNavigationBar": [
+            "Navigate back",
+            "Access site link",
+            "Perform action",
+            "Display web content"
+        ],
+        "SettingChannel": [
+            "Edit channel order",
+            "Remove channels",
+            "Reorder channels",
+            "Customize news categories"
+        ],
+        "NewsArticleView": [
+            "Display news article",
+            "Navigate back",
+            "Open source link",
+            "Perform action",
+            "Swipe content",
+            "Highlight keywords"
+        ],
+        "WebBrowser": [
+            "Navigate back",
+            "Open menu",
+            "Swipe through news",
+            "Select news categories",
+            "View detailed news stories",
+            "Navigate previous page"
+        ],
+        "WebBrowser1": [
+            "Navigate back",
+            "Open menu",
+            "View news categories",
+            "Access specific news stories",
+            "Switch between web pages"
+        ],
+        "WebBrowserShareOptions": [
+            "Share on Twitter",
+            "Share on Facebook",
+            "Save to Pocket",
+            "Share via Mail",
+            "Open share menu",
+            "Open in external browser",
+            "Copy URL to clipboard"
+        ],
+        "TwitterAuth": [
+            "Connect with Twitter",
+            "Cancel authentication",
+            "Confirm authentication"
+        ],
+        "FacebookAppInstallPrompt": [
+            "Prompt to install Facebook app",
+            "Option to cancel",
+            "Option to proceed"
+        ],
+        "MainNewsFeed1": [
+            "Swipe to browse news",
+            "Click to select news source",
+            "Long-click for additional options",
+            "Search for specific news",
+            "Refresh news feed",
+            "Access settings",
+            "View news overview"
+        ]
+    },
+    "com.usatoday.android.news": {
+        "NewsFeedNavigation": [
+            "View top stories",
+            "Browse sections",
+            "Manage saved articles",
+            "Search for news",
+            "Access settings",
+            "Share articles"
+        ],
+        "SettingsNavigation": [
+            "Toggle Night Mode",
+            "Enable Offline Reading",
+            "Manage Notifications",
+            "Subscribe Ad-Free",
+            "Configure General Settings",
+            "Access Help",
+            "View About Information"
+        ],
+        "SettingsTheme": [
+            "Toggle Night Mode",
+            "Enable dark theme"
+        ],
+        "OfflineReadingSettings": [
+            "Enable offline reading",
+            "Update headlines on launch",
+            "Download all articles for offline use"
+        ],
+        "OfflineReadingSettings1": [
+            "Toggle update headlines on launch",
+            "Navigate back",
+            "Cancel article download"
+        ],
+        "Unknown": [
+            "Unable to determine specific functions due to lack of identifiable widgets or text"
+        ],
+        "SearchNavigation": [
+            "Search for news and sections",
+            "Voice search",
+            "Back navigation"
+        ],
+        "ArticleDetail": [
+            "Navigate back",
+            "Adjust text size",
+            "Share article",
+            "Bookmark article",
+            "Swipe through articles",
+            "Follow topic",
+            "Read article content",
+            "Long-press article content"
+        ],
+        "ArticleTextSizeSelector": [
+            "Adjust article text size",
+            "Cancel text size adjustment"
+        ],
+        "ShareOptions": [
+            "Share via Bluetooth",
+            "Share via Messages",
+            "Share via Notes",
+            "Upload to Cloud drive",
+            "Share via Browser",
+            "Share via Search",
+            "Share via Email",
+            "Publish a post to vivo.com",
+            "Share via Chrome"
+        ],
+        "ShoppingTopic": [
+            "View shopping deals",
+            "Share shopping deals",
+            "Navigate back",
+            "Swipe through deals"
+        ],
+        "ShoppingDealsArticle": [
+            "View shopping deals",
+            "Adjust article text size",
+            "Share article",
+            "Save article",
+            "Add topic to news feed",
+            "Swipe through article content",
+            "Long-click article text",
+            "View article image"
+        ],
+        "ShoppingDealsArticle1": [
+            "Navigate up",
+            "Adjust article text size",
+            "Share article",
+            "Bookmark article",
+            "Follow topic",
+            "Swipe through content",
+            "View article details",
+            "Long-click article text",
+            "View article image"
+        ],
+        "ArticleTextSizeSelector1": [
+            "Adjust article text size",
+            "Cancel text size adjustment"
+        ],
+        "TopicNavigation": [
+            "Navigate up",
+            "Return to previous screen"
+        ],
+        "EnlargedPhoto": [
+            "View image details",
+            "Navigate back",
+            "Interact with caption",
+            "Interact with byline"
+        ],
+        "EnlargedPhoto1": [
+            "View enlarged photo",
+            "Read caption and byline",
+            "Select all text",
+            "Copy text",
+            "Perform web search"
+        ],
+        "ShoppingDealsPage": [
+            "View shopping deals",
+            "Add topic",
+            "Read article details",
+            "Swipe through articles",
+            "Long-click for options"
+        ],
+        "ShoppingDealsPage1": [
+            "View shopping deals",
+            "Add topic",
+            "Read article details",
+            "Select text",
+            "Copy text",
+            "Web search"
+        ],
+        "StandaloneNews": [
+            "Navigate back",
+            "Share article"
+        ],
+        "ArticleView": [
+            "Navigate back",
+            "Adjust text size",
+            "Share article",
+            "Bookmark article"
+        ]
+    },
+    "com.android.notes": {
+        "EditWidget": [
+            "Customize widget layout",
+            "Modify widget content",
+            "Save widget preferences"
+        ]
+    },
+    "com.thirdrock.fivemiles": {
+        "MainShoppingHub": [
+            "Search for items",
+            "Browse local listings",
+            "View popular items",
+            "Bid on items",
+            "Chat with sellers",
+            "Like items",
+            "Navigate to different categories",
+            "Access user profile"
+        ],
+        "CategorySearch": [
+            "Navigate back",
+            "Search items",
+            "Select main categories",
+            "Explore subcategories"
+        ],
+        "KeywordAndUserSearch": [
+            "Search for listings",
+            "Search for sellers",
+            "View popular search terms",
+            "Set up search alerts"
+        ],
+        "LocalSearchAndDiscovery": [
+            "Navigate back",
+            "Input search keyword",
+            "Clear search keyword",
+            "Switch between Listings and Sellers views",
+            "Swipe through search results"
+        ],
+        "CategorySearch1": [
+            "Navigate back",
+            "Search items",
+            "Select main categories",
+            "Select sub-categories"
+        ],
+        "SearchResult": [
+            "Display search results",
+            "Filter listings",
+            "Navigate back",
+            "Set alerts",
+            "View item details",
+            "Like items"
+        ],
+        "KeyWordAndUserSearch": [
+            "Search for items by keyword",
+            "Filter results by Listings or Sellers",
+            "View popular search terms",
+            "Set up search alerts",
+            "Clear search history"
+        ],
+        "LocationVerification": [
+            "Confirm current location",
+            "Enter zip code manually",
+            "Save location settings"
+        ],
+        "ItemDetailView": [
+            "View item details",
+            "Make an offer",
+            "Initiate chat",
+            "Navigate back",
+            "Share item",
+            "Like item"
+        ],
+        "ItemImageGallery": [
+            "Swipe to view images",
+            "Navigate back to previous page"
+        ],
+        "ItemDetailView1": [
+            "View item details",
+            "Make an offer",
+            "Initiate chat",
+            "Navigate back",
+            "Share item",
+            "Like item"
+        ],
+        "ItemImageGallery1": [
+            "Swipe through large images",
+            "Navigate back to previous page"
+        ],
+        "CreditLotteryWeb": [
+            "Display new coupons",
+            "Offer limited-time savings",
+            "Provide new user bonuses",
+            "Redirect to coupon management",
+            "Enable bidding action"
+        ],
+        "DashIntroduction": [
+            "Introduce 5miles Dash",
+            "Explain bidding process",
+            "Confirm payment method",
+            "Ensure delivery",
+            "Provide buyer protection",
+            "Confirm understanding with OK button"
+        ],
+        "MainShoppingPage": [
+            "Search items",
+            "Filter by category",
+            "View product details",
+            "Place bids",
+            "Navigate to home, sell, like, chat, and profile sections"
+        ],
+        "SearchResult1": [
+            "Display search results",
+            "Filter items",
+            "Alert notifications",
+            "Navigate back",
+            "Like items",
+            "View item details"
+        ],
+        "SearchInput": [
+            "Enter search keyword",
+            "Clear search input",
+            "Select search suggestion",
+            "Navigate back"
+        ],
+        "SearchResult2": [
+            "Display search results",
+            "Filter listings",
+            "Alert for new items",
+            "Navigate back",
+            "View item details",
+            "Like items"
+        ],
+        "SearchResult3": [
+            "Display search results",
+            "Filter items",
+            "Navigate back",
+            "Alert notifications",
+            "Like items",
+            "Swipe through listings"
+        ],
+        "KeywordAndUserSearch1": [
+            "Search for listings by keyword",
+            "Filter results by listings or sellers",
+            "View popular search terms",
+            "Set up search alerts",
+            "Clear search history",
+            "Access suggested search terms"
+        ],
+        "CategorySearch2": [
+            "Navigate back",
+            "Search items",
+            "Select main categories",
+            "Select sub-categories",
+            "Swipe through sub-categories"
+        ],
+        "SearchResult4": [
+            "Display search results",
+            "Filter items",
+            "Navigate back",
+            "Toggle list mode",
+            "Set alerts",
+            "Like items"
+        ],
+        "SearchInput1": [
+            "Enter search keyword",
+            "Display search suggestions",
+            "Clear search input",
+            "Navigate back"
+        ],
+        "SearchResult5": [
+            "Display search results",
+            "Filter items",
+            "Navigate back",
+            "Set alerts",
+            "Like items",
+            "View item details"
+        ],
+        "SearchResult6": [
+            "Display search results",
+            "Apply filters",
+            "Show alerts",
+            "Navigate back",
+            "Switch list mode"
+        ],
+        "SearchInput2": [
+            "Enter search keyword",
+            "Clear search input",
+            "Navigate back"
+        ],
+        "SearchInput3": [
+            "Navigate back",
+            "Input search keyword"
+        ],
+        "DynamicFilter": [
+            "Apply filter settings",
+            "Reset filter settings",
+            "Select category",
+            "Set sort order",
+            "Adjust distance",
+            "Define price range",
+            "Set last active time"
+        ],
+        "CategorySelector": [
+            "Select main categories",
+            "Navigate to subcategories",
+            "Return to previous page"
+        ],
+        "CategorySelector1": [
+            "Navigate to parent categories",
+            "Select sub-categories",
+            "Return to previous page"
+        ]
+    },
+    "com.zappos.android.sixpmFlavor": {
+        "MainCategorySelector": [
+            "Navigate to Women's section",
+            "Navigate to Men's section",
+            "Navigate to Kids's section",
+            "Navigate to Shoes section",
+            "Navigate to Clothing section",
+            "Navigate to Sale section",
+            "Open navigation drawer",
+            "Search",
+            "Access shopping bag",
+            "More options"
+        ],
+        "AccountSettingsMenu": [
+            "Access My Account",
+            "Manage My Lists",
+            "Contact Customer Service",
+            "Adjust Settings & Info"
+        ],
+        "WebViewPage": [
+            "Display web content",
+            "Handle user interactions within web view"
+        ],
+        "AccountSignIn": [
+            "User authentication",
+            "Password assistance",
+            "Show password toggle",
+            "Keep me signed in option",
+            "Login with Amazon",
+            "Create new account"
+        ],
+        "HomePage": [
+            "View discounts and deals",
+            "Navigate to account",
+            "Search products",
+            "View shopping bag",
+            "Access favorites",
+            "Explore clearance sales"
+        ],
+        "ShippingDeliveryFAQ": [
+            "View shipping details",
+            "Check delivery policies",
+            "Search for assistance",
+            "Navigate to account and favorites",
+            "Access shopping bag"
+        ],
+        "ShippingDeliveryFAQ1": [
+            "View shipping details",
+            "Navigate to search",
+            "Open navigation menu",
+            "Access account",
+            "View favorites",
+            "Check bag status",
+            "Submit search query",
+            "Interact with ads",
+            "Apply for services",
+            "Read FAQs"
+        ],
+        "UnknownAccountAuth": [
+            "Account Authentication",
+            "Trading Platform Access",
+            "Investment Services"
+        ],
+        "UnknownBankingAuth": [
+            "Login to banking account",
+            "View personal banking options",
+            "Explore investment platform features",
+            "Check eligibility for account application"
+        ],
+        "OCBCBankingAuth": [
+            "Scam alert information",
+            "Learn more about scams",
+            "Login to OCBC",
+            "Navigate to FRANK by OCBC",
+            "Navigate to Personal Banking",
+            "Navigate to Premier Banking",
+            "Navigate to Premier Private Client"
+        ],
+        "SecurityLoginPage": [
+            "Display security information",
+            "Provide login option",
+            "Show help support"
+        ],
+        "OCBCScamAlert": [
+            "Display scam alert information",
+            "Provide learn more option",
+            "Offer login functionality"
+        ],
+        "BankAuthPage": [
+            "Authenticate with OCBC Bank",
+            "Process payment authorization",
+            "Display bank-related information"
+        ],
+        "BankLoginPage": [
+            "Input access code",
+            "Input PIN",
+            "Login",
+            "Learn more about security",
+            "No Access Code/PIN option",
+            "Login with Singpass"
+        ],
+        "MainShoppingDeals": [
+            "View discounted fashion deals",
+            "Navigate to account and favorites",
+            "Search for products",
+            "View shopping bag",
+            "Explore specific sale categories like boots and clearance"
+        ],
+        "ShippingDeliveryFAQ2": [
+            "View shipping details",
+            "Navigate to account",
+            "Search products",
+            "Open navigation menu",
+            "View bag",
+            "Apply for trading platform",
+            "Read FAQs"
+        ],
+        "AccountAuthLanding": [
+            "Display promotional deals",
+            "Provide navigation menu",
+            "Enable account login or registration",
+            "Show shopping bag status",
+            "Allow product search",
+            "Highlight clearance and sale items"
+        ],
+        "ShippingDeliveryFAQ3": [
+            "View shipping details",
+            "Check free shipping eligibility",
+            "Navigate to account, favorites, and bag",
+            "Search for products",
+            "Submit search queries",
+            "Access shipping and delivery FAQs"
+        ],
+        "AccountAuthentication": [
+            "Close modal",
+            "Sign in to view previous items",
+            "Navigate to Home Page",
+            "Navigate to Brands List",
+            "Navigate to Contact Us",
+            "Initiate sign-in process"
+        ],
+        "PasswordAssistancePage": [
+            "Request password assistance",
+            "Enter email",
+            "Solve CAPTCHA",
+            "Switch to audio CAPTCHA",
+            "Continue process"
+        ],
+        "PasswordAssistancePage1": [
+            "Request password help",
+            "Enter email",
+            "Clear email field",
+            "Solve CAPTCHA"
+        ],
+        "MainShoppingPage": [
+            "Browse discounted fashion items",
+            "Search for products",
+            "View shopping bag",
+            "Access customer service",
+            "Navigate through categories",
+            "View special deals and clearance items"
+        ],
+        "AccountAuthLiveHelp": [
+            "Prompt login for Live Chat",
+            "Display Live Help option"
+        ],
+        "AccountSignIn1": [
+            "User authentication",
+            "Password assistance",
+            "Email input",
+            "Password visibility toggle",
+            "Keep me signed in option"
+        ],
+        "WebViewPage1": [
+            "Display web content",
+            "Handle web interactions"
+        ],
+        "ShippingDeliveryFAQ4": [
+            "View shipping details",
+            "Check free shipping eligibility",
+            "Navigate to account",
+            "Access favorites",
+            "View empty bag",
+            "Search products",
+            "Submit search",
+            "Read shipping FAQs"
+        ],
+        "AUIAccountAuth": [
+            "View account details",
+            "Access favorites",
+            "Check shopping bag",
+            "Navigate through web content",
+            "Open navigation menu"
+        ],
+        "SearchFilterPage": [
+            "Filter products by category",
+            "Search within results",
+            "Apply filters",
+            "Navigate back",
+            "Access shopping bag",
+            "Access more options"
+        ],
+        "SearchResults": [
+            "Display product listings",
+            "Apply filters",
+            "Sort products",
+            "Navigate to product details",
+            "Hide snackbar message",
+            "Access shopping cart",
+            "Access more options"
+        ]
+    },
+    "com.contextlogic.geek": {
+        "BrowseProductFeed": [
+            "Open Menu",
+            "Filter Products",
+            "Search Products",
+            "Swipe Product Feed",
+            "View Product Details",
+            "Select Popular Items",
+            "Navigate to Deals Hub"
+        ],
+        "BrowseProductFeed1": [
+            "Open Menu",
+            "Filter Products",
+            "Search Products",
+            "Swipe Product View",
+            "Click Product Tile",
+            "Long-Click Product Tile",
+            "Swipe Tab Strip",
+            "Select Popular",
+            "Select Deals Hub"
+        ],
+        "Browse": [
+            "View product listings",
+            "Filter by Popular or Deals Hub",
+            "Access user profile",
+            "Navigate to Search, Notifications, Shopping Cart, Order History, Geek Cash, Rewards, Daily Login Bonus, Shop More, Invite Friends"
+        ],
+        "MenuDrawer": [
+            "Open Menu"
+        ],
+        "ProfileMenu": [
+            "Close Menu",
+            "View Profile",
+            "Browse",
+            "Search",
+            "Notifications",
+            "Shopping Cart",
+            "Order History",
+            "Geek Cash",
+            "Rewards",
+            "Daily Login Bonus",
+            "Shop More",
+            "Invite Friends"
+        ],
+        "CartLoading": [
+            "Open Menu",
+            "Loading Cart View"
+        ],
+        "CartErrorMenu": [
+            "Close Menu",
+            "Retry Loading",
+            "Navigate to Profile",
+            "Browse",
+            "Search",
+            "Notifications",
+            "Shopping Cart",
+            "Order History",
+            "Geek Cash",
+            "Rewards",
+            "Daily Login Bonus",
+            "Shop More",
+            "Invite Friends"
+        ],
+        "ProfileWishlist": [
+            "View user profile",
+            "Edit profile picture",
+            "View followers and following",
+            "Navigate to wishlist, reviews, and photos sections",
+            "Create a new wishlist"
+        ],
+        "CartEmpty": [
+            "Navigate back",
+            "Display empty cart message",
+            "Continue shopping"
+        ],
+        "UserList": [
+            "Display followers",
+            "Show no users found",
+            "Navigate up"
+        ],
+        "ProductDetails": [
+            "Navigate back",
+            "Access search",
+            "Long-press search"
+        ],
+        "ProductDetailsError": [
+            "Navigate back",
+            "Retry loading",
+            "Search products"
+        ],
+        "SearchPage": [
+            "Open Menu",
+            "Enter Search Query"
+        ],
+        "SearchLocation": [
+            "Input search query",
+            "Clear search query",
+            "Open menu"
+        ],
+        "MainMenuDrawer": [
+            "Close Menu",
+            "View Profile",
+            "Browse",
+            "Search",
+            "Notifications",
+            "Shopping Cart",
+            "Order History"
+        ],
+        "ProductBrowseFilter": [
+            "Close menu",
+            "Navigate to filter",
+            "Search products",
+            "Swipe through product feed",
+            "View product details",
+            "Select popular or deals hub",
+            "Refine by color or rating",
+            "Clear or apply filters"
+        ],
+        "ErrorDialog": [
+            "Display error message",
+            "Provide OK button for confirmation"
+        ],
+        "SearchResults": [
+            "Display search suggestions",
+            "Clear search query",
+            "Open menu",
+            "Select search result"
+        ]
+    },
+    "com.contextlogic.home": {
+        "BrowseHomeGoods": [
+            "Open Menu",
+            "Search for Items",
+            "View Cart",
+            "Apply Filters",
+            "Swipe Product Feed",
+            "View Product Details",
+            "Long-click Product",
+            "Swipe Tabs",
+            "Select Popular Items",
+            "Navigate Deals Hub"
+        ],
+        "BrowseMenuDrawer": [
+            "Close Menu",
+            "Search for Products",
+            "View Product Details",
+            "Switch Tabs",
+            "View Profile",
+            "Navigate to Browse",
+            "Earn Cash",
+            "Search",
+            "Check Notifications",
+            "View Shopping Cart",
+            "Apply Promo",
+            "View Order History",
+            "Manage Home Cash",
+            "Check Rewards",
+            "Claim Daily Login Bonus"
+        ],
+        "ProfileWishlistManager": [
+            "View user profile",
+            "Manage wishlists",
+            "Create new wishlist",
+            "Switch between personal and followed wishlists",
+            "View reviews and uploads"
+        ],
+        "UserList": [
+            "Display followers",
+            "Show no users found",
+            "Navigate back"
+        ],
+        "SearchFunctionality": [
+            "Input search term",
+            "Display recent searches",
+            "Navigate back"
+        ],
+        "SearchResults": [
+            "Display search suggestions",
+            "Show recent searches",
+            "Clear search query",
+            "Navigate back"
+        ],
+        "SearchFeed": [
+            "Browse products",
+            "View product details",
+            "Filter results",
+            "Navigate back",
+            "Scroll through items",
+            "View purchase counts",
+            "View prices",
+            "Access all results"
+        ],
+        "SearchHistory": [
+            "Display recent searches",
+            "Clear search query",
+            "Navigate back",
+            "Select search term"
+        ],
+        "CartEmpty": [
+            "Navigate up",
+            "Continue Shopping"
+        ],
+        "BrowseHomeGoods1": [
+            "Open Menu",
+            "Search for Items",
+            "View Product Details",
+            "Filter Products",
+            "Swipe Through Product Feed",
+            "View Popular Items",
+            "Access Deals Hub"
+        ],
+        "BrowseHomeGoods2": [
+            "View product listings",
+            "Filter by popularity",
+            "Access deals",
+            "Navigate to user profile",
+            "Manage shopping cart",
+            "Apply promo codes",
+            "Check order history",
+            "Earn rewards",
+            "Claim daily login bonus"
+        ],
+        "BrowseHomeGoods3": [
+            "Open menu",
+            "Search for items",
+            "Filter products",
+            "Scroll through product feed",
+            "View product details",
+            "Switch between Popular and Deals Hub tabs"
+        ],
+        "BrowseHomeGoods4": [
+            "View product details",
+            "Swipe through product feed",
+            "Select popular or deals",
+            "Access user profile",
+            "Navigate to search, notifications, shopping cart, promo, order history, rewards, and daily login bonus"
+        ],
+        "BrowseHomeGoods5": [
+            "Search for home goods",
+            "View product details",
+            "Filter by color and rating",
+            "Apply or clear filters",
+            "Browse popular items and deals"
+        ],
+        "BrowseHomeGoods6": [
+            "Open Menu",
+            "Search for Items",
+            "View Product Details",
+            "Filter Products",
+            "Scroll Through Products",
+            "View Popular Items",
+            "Access Deals Hub"
+        ],
+        "BrowseHomeGoods7": [
+            "Open Menu",
+            "Search for Items",
+            "View Product Details",
+            "Filter Products",
+            "Scroll Product Feed",
+            "Switch Tabs between Popular and Deals Hub"
+        ],
+        "ReferralProgramError": [
+            "Display referral program ineligibility message",
+            "Provide retry option",
+            "Navigate to user profile",
+            "Access main menu options",
+            "View rewards and bonuses"
+        ],
+        "WishlistCreation": [
+            "Create new wishlist",
+            "Suggest wishlist names",
+            "Cancel wishlist creation",
+            "Input custom wishlist name"
+        ],
+        "CreateWishlistDialog": [
+            "Create new wishlist",
+            "Input wishlist name",
+            "Cancel wishlist creation"
+        ],
+        "CreateWishlistDialog1": [
+            "Create new wishlist",
+            "Input wishlist name",
+            "Cancel wishlist creation"
+        ],
+        "WishlistCreation1": [
+            "Create new wishlist",
+            "Suggest wishlist names",
+            "Cancel wishlist creation",
+            "Edit wishlist name"
+        ],
+        "ProductDetails": [
+            "View product details",
+            "Swipe through product images",
+            "Share product",
+            "Save to wishlist",
+            "Navigate to related products",
+            "Read product reviews",
+            "Purchase product"
+        ],
+        "SearchHistoryAndRecentlyViewed": [
+            "Search for items",
+            "View recent searches",
+            "View all recent searches",
+            "View recently viewed items",
+            "View all recently viewed items"
+        ],
+        "ImageViewer": [
+            "Swipe through images",
+            "Click to view details",
+            "Navigate back",
+            "View all images"
+        ]
+    },
+    "com.contextlogic.wish": {
+        "ProductBrowse": [
+            "Open Menu",
+            "Filter Products",
+            "Search Products",
+            "Swipe Product Feed",
+            "Click Product Tile",
+            "Long-Click Product Tile",
+            "Select Popular Tab",
+            "Select Deals Hub Tab"
+        ],
+        "BrowseDeals": [
+            "Open Menu",
+            "Search",
+            "Spin for Bonus",
+            "View Deals Hub",
+            "View Recently Viewed",
+            "Swipe through products"
+        ],
+        "MainMenuDrawer": [
+            "Close Menu",
+            "Navigate to Browse",
+            "Navigate to Earn Cash",
+            "Navigate to Search",
+            "Navigate to Notifications",
+            "Navigate to Shopping Cart",
+            "Navigate to Order History",
+            "Navigate to Wish Cash",
+            "View Rewards",
+            "Claim Daily Login Bonus",
+            "Apply Promo"
+        ],
+        "UserProfile": [
+            "View user profile details",
+            "Manage wishlists",
+            "Navigate to reviews and uploads",
+            "Create new wishlist",
+            "Follow or view followers"
+        ],
+        "BrowseProductFeed": [
+            "Open Menu",
+            "Search Products",
+            "Swipe Product Feed",
+            "Click Product Tile",
+            "Long-Click Product Tile",
+            "Swipe Tab Strip",
+            "Navigate to Deals Hub",
+            "Navigate to Recently Viewed",
+            "Navigate to Fashion",
+            "Navigate to Tops"
+        ],
+        "MainBrowseMenu": [
+            "Close Menu",
+            "Swipe Product Feed",
+            "Click Product Grid",
+            "Long-Click Product",
+            "Swipe Tab Strip",
+            "Navigate Deals Hub",
+            "Navigate Recently Viewed",
+            "Navigate Fashion",
+            "Navigate Tops",
+            "Swipe Menu List",
+            "View Profile",
+            "Browse",
+            "Earn Cash",
+            "Search",
+            "Notifications",
+            "Shopping Cart",
+            "Order History",
+            "Wish Cash",
+            "Rewards",
+            "Daily Login Bonus",
+            "Apply Promo"
+        ],
+        "CartEmpty": [
+            "Navigate back",
+            "Display empty cart message",
+            "Redirect to shopping page"
+        ],
+        "BrowseShoppingFeed": [
+            "View product listings",
+            "Filter by Popular and Deals Hub",
+            "Access user profile",
+            "Navigate to Earn Cash, Search, Notifications, Shopping Cart, Order History, Wish Cash, Rewards, Daily Login Bonus, Apply Promo"
+        ],
+        "UserList": [
+            "Display followers",
+            "Show no users found",
+            "Navigate back"
+        ],
+        "WishlistCreation": [
+            "Create new wishlist",
+            "Name wishlist",
+            "View suggestions",
+            "Cancel creation",
+            "Select existing wishlist"
+        ],
+        "UserProfile1": [
+            "View user profile details",
+            "Navigate to Wishlist, Reviews, Uploads sections",
+            "Switch between My Wishlists and Followed Wishlists",
+            "Create new Wishlist",
+            "Edit profile picture"
+        ],
+        "ProductBrowsePage": [
+            "View product listings",
+            "Filter products by color and rating",
+            "Clear or apply filters",
+            "Navigate between Popular and Deals Hub tabs",
+            "Close menu",
+            "Search products",
+            "Swipe through product feed"
+        ],
+        "SearchHistory": [
+            "Open Menu",
+            "Enter Search Query",
+            "Select Recent Search Item",
+            "View All Recently Viewed Items"
+        ],
+        "SearchMenuDrawer": [
+            "Search for items",
+            "View recent searches",
+            "Browse recently viewed items",
+            "Access profile",
+            "Navigate to different sections like Browse, Earn Cash, Notifications, Shopping Cart, Order History, Wish Cash, Rewards, Daily Login Bonus, Apply Promo"
+        ],
+        "WishlistEmpty": [
+            "Navigate back",
+            "Access more options",
+            "Long-press more options"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+The Merriam-Webster app is a comprehensive dictionary and language resource that provides definitions, translations, synonyms, antonyms, and other linguistic tools to help users understand and use words effectively.
+All its main function pages are: Dictionary, WordDefinition.
+I want to search for hello, in which search for hello may be accomplished in DictionarySearch page.
+I have finished the following actions:
+    (Step 1 in MainDictionary page) {'action': 'click', 'text': '', 'resource-id': 'fake_search_layout', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'logo_layout, main_page_features', 'child_nodes': 'Search'}.
+Current function GUI page is Dictionary, which has the following texts: 'hello', 'Dictionary', 'Thesaurus', 'hello', 'hell on', 'hell or high water', 'hellos', 'SINCE 1828', 'Search', 'or'.
+Current GUI page seems like DictionarySearch1 page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': '', 'parent_node': 'toolbar', 'sibling_nodes': 'searchView', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'click', 'text': '', 'resource-id': 'focus_stealer', 'class': 'View', 'content-desc': '', 'parent_node': 'searchView', 'sibling_nodes': 'search_plate, search_voice_btn', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'search_voice_btn', 'class': 'ImageView', 'content-desc': 'Voice search', 'parent_node': 'searchView', 'sibling_nodes': 'focus_stealer, search_plate', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'text', 'text': 'hello', 'resource-id': 'search_src_text', 'class': 'EditText', 'content-desc': '', 'parent_node': 'search_plate', 'sibling_nodes': 'search_close_btn', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'search_close_btn', 'class': 'ImageView', 'content-desc': 'Clear query', 'parent_node': 'search_plate', 'sibling_nodes': 'search_src_text/hello', 'child_nodes': ''};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'search_expanded_content', 'sibling_nodes': '', 'child_nodes': 'search_suggestion_box, search_suggestion_switcher_wrapper, search_suggestion_switcher, list'};
+    (Widget Id: 6) {'action': 'click', 'text': 'Dictionary', 'resource-id': 'search_suggestion_switcher_def', 'class': 'TextView', 'content-desc': '', 'parent_node': 'search_suggestion_switcher', 'sibling_nodes': 'search_suggestion_switcher_thes/Thesaurus', 'child_nodes': ''};
+    (Widget Id: 7) {'action': 'click', 'text': 'Thesaurus', 'resource-id': 'search_suggestion_switcher_thes', 'class': 'TextView', 'content-desc': '', 'parent_node': 'search_suggestion_switcher', 'sibling_nodes': 'search_suggestion_switcher_def/Dictionary', 'child_nodes': ''};
+    (Widget Id: 8) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'list', 'sibling_nodes': '', 'child_nodes': 'text1/hello'};
+    (Widget Id: 9) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'list', 'sibling_nodes': '', 'child_nodes': 'text1/hell on'};
+    (Widget Id: 10) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'list', 'sibling_nodes': '', 'child_nodes': 'text1/hell or high water'};
+    (Widget Id: 11) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'list', 'sibling_nodes': '', 'child_nodes': 'text1/hellos'};
+    (Widget Id: 12) {'action': 'click', 'text': '', 'resource-id': 'fake_search_layout', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'logo_layout, main_page_features', 'child_nodes': 'Search'};
+    (Widget Id: 13) {'action': 'swipe', 'text': '', 'resource-id': 'main_page_features', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'logo_layout, fake_search_layout', 'child_nodes': ''};
+    (Widget Id: 14) {'action': 'click', 'text': '', 'resource-id': 'card_wotd_wrapper', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'main_page_features', 'sibling_nodes': 'card_games_wrapper', 'child_nodes': 'card_wotd, card_wotd_bg'};
+    (Widget Id: 15) {'action': 'click', 'text': '', 'resource-id': 'card_games_wrapper', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'main_page_features', 'sibling_nodes': 'card_wotd_wrapper', 'child_nodes': 'card_games, or'}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

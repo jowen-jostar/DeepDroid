@@ -1,0 +1,20 @@
+The Google Translate app is a language translation application that provides text, voice, and image translation capabilities for over 100 languages, allowing users to communicate across language barriers.
+All its main function pages are: Translate, KeyboardHandwriting, VoiceInput, ContinuousTranslate, ContinuousTranslateTranscript, SavedContinuousTranslate, ConversationIntro, OpticsInput, Phrasebook, Flashcard, Onboarding, RestorePackages, LanguagePicker, OpticsOnboarding, Help, Settings, OfflineManager, OfflineDialog, LauncherShortcuts, WordyWelcome, CopyDropWelcome, CopyDrop, CopyDropInApp, CopyDropContextMenu, GetOfflineSpec.
+I want to translate 'hello' to French and verify that the result is 'bonjour', in which translate 'hello' to French may be accomplished in MainTranslationInterface page, verify that the result is 'bonjour' may be accomplished in MainTranslationInterface page.
+I have finished the following actions:
+    (Step 1 in MainTranslationInterface1 page) {'action': 'click', 'text': '', 'resource-id': 'picker2_frame', 'class': 'FrameLayout', 'content-desc': '', 'parent_node': 'language_picker', 'sibling_nodes': 'picker1_frame, btn_lang_picker_swap', 'child_nodes': 'picker2/Spanish'};
+    (Step 2 in LanguagePicker1 page) {'action': 'click', 'text': '', 'resource-id': 'languages_search', 'class': 'TextView', 'content-desc': 'Search', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Step 3 in LanguagePicker2 page) {'action': 'text', 'text': 'Translate to...', 'resource-id': 'search_src_text', 'class': 'EditText', 'content-desc': '', 'parent_node': 'search_plate', 'sibling_nodes': '', 'child_nodes': ''}.
+Current function GUI page is LanguagePicker, which has the following texts: 'French', 'French'.
+Current GUI page seems like LanguageSearch page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': '', 'class': 'ImageButton', 'content-desc': 'Collapse', 'parent_node': 'toolbar', 'sibling_nodes': 'languages_search', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'text', 'text': 'French', 'resource-id': 'search_src_text', 'class': 'EditText', 'content-desc': '', 'parent_node': 'search_plate', 'sibling_nodes': 'search_close_btn', 'child_nodes': ''};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'search_close_btn', 'class': 'ImageView', 'content-desc': 'Clear query', 'parent_node': 'search_plate', 'sibling_nodes': 'search_src_text/French', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': '', 'resource-id': 'language_list_row_linearlayout', 'class': 'LinearLayout', 'content-desc': '', 'parent_node': 'list', 'sibling_nodes': '', 'child_nodes': 'text1/French'};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'img_pin_offline_package', 'class': 'ImageView', 'content-desc': 'Uninstall French offline translation file', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

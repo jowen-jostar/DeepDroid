@@ -1,0 +1,25 @@
+['check if app version is 3.10.20.310432']
+
+The Marvel Comics app is a digital platform for reading official Marvel comic books, featuring a vast library of titles from various series, with options for purchasing and subscribing to new releases.
+All its main function pages are: Router.
+I have explored the following pages and predicted its possible features:
+    MainNavigationDrawer: Open navigation drawer; Search comics; Access My Books; Swipe through tabs; View featured, new, discover, popular, and top-rated comics.
+    MainNavigationDrawer1: Access navigation drawer; Browse featured, new, discover, and popular comics; Access smart lists, my books, wish list, archived books, series, story arcs, creators; Manage account, settings, feedback, and about information.
+    SearchPage: Search for comic titles or creators; Collapse search interface.
+    MyBooksSignInPrompt: Navigation drawer access; More options access; Sign-in button.
+    NavigationDrawer: Access navigation menu; Sign in to Marvel account; Explore featured content; Manage library; View smart lists; Access My Books; Manage Wish List; View archived books; Browse series, story arcs, and creators; Access account settings; Provide feedback; View app information.
+    MyBooks: Refresh library; View tips.
+    Unknown: MainLocationSelector; Access to MyBooks; Navigation to other sections; Display of available comic titles; Purchase and subscription options.
+    Login: Navigate back; Sign In.
+    WebViewAuthPortal: Web-based authentication; Login or sign-up interface; Embedded web content.
+    LoginErrorPage: Navigate back; Attempt to sign in again; Display connection error message.
+    MainNavigationDrawer2: Open navigation drawer; Search comics; Access My Books; Swipe through tabs; View featured content; Explore new releases; Discover popular titles; Access top-rated comics; Get started guide.
+Please give me the page with the function that best matches the following tasks:
+    (1) check if app version is 3.10.20.310432.
+Please answer with a page name corresponds strictly to the task.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page name only.
+Output example: MainLocation.
+
+['MainNavigationDrawer2']

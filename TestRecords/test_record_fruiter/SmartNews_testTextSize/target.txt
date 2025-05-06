@@ -1,0 +1,28 @@
+['navigate to settings', 'adjust text size']
+
+SmartNews is a news aggregation app that delivers curated news stories from various sources, personalized to user interests, using machine learning algorithms.
+All its main function pages are: SmartNews, Main, Overview, VideoAd, VideoAdLandingPage, Setting, SettingChannel, SettingAbout, Report, WebPage, WebBrowser, Image, ExtraChannel, BaseballStats, LocationList, LocationSearch, DiscoverRanking, DiscoverCategory, DiscoverSearch, ChannelPreview, ImmersiveVideo, TraditionalVideo, Coupon, CouponBrand, CouponCategory, WeatherForecast, ClientCondition, TimeSale.
+I have explored the following pages and predicted its possible features:
+    MainUnsupportedVersion: Display unsupported version message; Show news sources; Enable search functionality; Refresh news; Access settings; Navigate overview.
+    SearchHistory: Search news; Clear search history; Select search term.
+    MainLocalNews: Share location for local news; Search news; Refresh news; Access settings; View news overview.
+    MainNewsFeed: Swipe to browse news; Click to select news source; Long-click for additional options; Search for specific news; Refresh news feed; Access settings; View news overview.
+    UnknownNavigationBar: Navigate back; Access site link; Perform action; Display web content.
+    SettingChannel: Edit channel order; Remove channels; Reorder channels; Customize news categories.
+    NewsArticleView: Display news article; Navigate back; Open source link; Perform action; Swipe content; Highlight keywords.
+    WebBrowser: Navigate back; Open menu; Swipe through news; Select news categories; View detailed news stories; Navigate previous page.
+    WebBrowser1: Navigate back; Open menu; View news categories; Access specific news stories; Switch between web pages.
+    WebBrowserShareOptions: Share on Twitter; Share on Facebook; Save to Pocket; Share via Mail; Open share menu; Open in external browser; Copy URL to clipboard.
+    TwitterAuth: Connect with Twitter; Cancel authentication; Confirm authentication.
+    FacebookAppInstallPrompt: Prompt to install Facebook app; Option to cancel; Option to proceed.
+    MainNewsFeed1: Swipe to browse news; Click to select news source; Long-click for additional options; Search for specific news; Refresh news feed; Access settings; View news overview.
+Please give me the page with the function that best matches the following tasks:
+    (1) navigate to settings;
+    (2) adjust text size.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['Setting', 'Setting']

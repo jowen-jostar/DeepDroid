@@ -1,0 +1,20 @@
+The NASA app is an official application developed by the National Aeronautics and Space Administration (NASA), offering users access to the latest news, images, videos, and information about space exploration missions and discoveries.
+All its main function pages are: Main, ExpandedControls, Ringtones, Feeds, WebBrowserView, EXOVideoPlayer, News, NewsPager, Images, ImageDetail, Missions, MissionDetail, MapTracking, Map, Sightings, Videos, NASALive, Podcasts1, Featured, FeaturedChild, FeaturedChildSectioned, CenterDetail, GlobalSearch, Planet, FeaturedHistoryTimeline, TweetTab, Sites, LegacySettings, ThirdRock1, Tweets, WWFeatured.
+I want to Go to settings and use Dark Mode Theme, in which go to settings may be accomplished in MainNewsImageTV page, enable Dark Mode Theme may be accomplished in SettingsMenu page.
+This is the first action.
+Current function GUI page is Main, which has the following texts: 'NASA', 'All News', '  ', 'News', ' ', 'Very Cold Detectors Reveal the Very Hot Universe and Kick Off a...', '  ', 'Images', ' ', 'A Kilometer High Cliff on Comet Churyumov - Gerasimenko', '  ', 'TV and Audio', ' ', ' '.
+Current GUI page seems like MainNewsImageTVSelector page, and it have the following widgets that can be operated:
+    (Widget Id: 0) {'action': 'click', 'text': '', 'resource-id': 'action_settings', 'class': 'TextView', 'content-desc': 'Settings', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 1) {'action': 'swipe', 'text': '', 'resource-id': 'recycler_view', 'class': 'RecyclerView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'cardLayout', 'child_nodes': 'card_view, separator/  , title/News, count/ , subtitle/Very Cold Detectors Reveal the Very Hot Universe and Kick Off a..., title/Images, subtitle/A Kilometer High Cliff on Comet Churyumov - Gerasimenko, title/TV and Audio, subtitle/ '};
+    (Widget Id: 2) {'action': 'click', 'text': '', 'resource-id': 'thumbnail', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'allNewsButton/All News, separator/  , title/News, count/ , subtitle/Very Cold Detectors Reveal the Very Hot Universe and Kick Off a....', 'child_nodes': ''};
+    (Widget Id: 3) {'action': 'click', 'text': 'All News', 'resource-id': 'allNewsButton', 'class': 'Button', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'thumbnail, separator/  , title/News, count/ , subtitle/Very Cold Detectors Reveal the Very Hot Universe and Kick Off a....', 'child_nodes': ''};
+    (Widget Id: 4) {'action': 'click', 'text': '', 'resource-id': 'thumbnail', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'separator/  , title/Images, count/ , subtitle/A Kilometer High Cliff on Comet Churyumov - Gerasimenko', 'child_nodes': ''};
+    (Widget Id: 5) {'action': 'click', 'text': '', 'resource-id': 'thumbnail', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': 'separator/  , title/TV and Audio, count/ , subtitle/ ', 'child_nodes': ''};
+    (Widget Id: 6) {'action': 'click', 'text': '', 'resource-id': 'thumbnail', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''};
+    (Widget Id: 7) {'action': 'click', 'text': '', 'resource-id': 'thumbnail', 'class': 'ImageView', 'content-desc': '', 'parent_node': '', 'sibling_nodes': '', 'child_nodes': ''}.
+Which widget id should I operate in this GUI page?
+Let's think step by step for one action and answer strictly in accordance with the following format: (Thought: <Reasoning> Action: <Widget Id> Input: <Input Text>).
+Note that <Widget Id> is -1 only when the entire task is complete, don't end the task when there are still steps.
+Note that <Input Text> is required when the action you choose is 'text', and provide the words you want to enter.
+You can try swipe down this page or close this page to go back to the previous page and continue the task if you can't find the target widget.
+Note that the role of the previous step and the current page widgets is considered, and remember to consider whether the target widget has already been operated in the previous steps.

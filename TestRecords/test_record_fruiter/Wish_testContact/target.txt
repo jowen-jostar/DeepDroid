@@ -1,0 +1,30 @@
+['log in to the app', 'navigate to the contact section in the menu']
+
+Wish is a mobile shopping app that offers a wide range of discounted products, often directly from manufacturers, with a focus on affordable and trendy items.
+All its main function pages are: Browse.
+I have explored the following pages and predicted its possible features:
+    ProductBrowse: Open Menu; Filter Products; Search Products; Swipe Product Feed; Click Product Tile; Long-Click Product Tile; Select Popular Tab; Select Deals Hub Tab.
+    BrowseDeals: Open Menu; Search; Spin for Bonus; View Deals Hub; View Recently Viewed; Swipe through products.
+    MainMenuDrawer: Close Menu; Navigate to Browse; Navigate to Earn Cash; Navigate to Search; Navigate to Notifications; Navigate to Shopping Cart; Navigate to Order History; Navigate to Wish Cash; View Rewards; Claim Daily Login Bonus; Apply Promo.
+    UserProfile: View user profile details; Manage wishlists; Navigate to reviews and uploads; Create new wishlist; Follow or view followers.
+    BrowseProductFeed: Open Menu; Search Products; Swipe Product Feed; Click Product Tile; Long-Click Product Tile; Swipe Tab Strip; Navigate to Deals Hub; Navigate to Recently Viewed; Navigate to Fashion; Navigate to Tops.
+    MainBrowseMenu: Close Menu; Swipe Product Feed; Click Product Grid; Long-Click Product; Swipe Tab Strip; Navigate Deals Hub; Navigate Recently Viewed; Navigate Fashion; Navigate Tops; Swipe Menu List; View Profile; Browse; Earn Cash; Search; Notifications; Shopping Cart; Order History; Wish Cash; Rewards; Daily Login Bonus; Apply Promo.
+    CartEmpty: Navigate back; Display empty cart message; Redirect to shopping page.
+    BrowseShoppingFeed: View product listings; Filter by Popular and Deals Hub; Access user profile; Navigate to Earn Cash, Search, Notifications, Shopping Cart, Order History, Wish Cash, Rewards, Daily Login Bonus, Apply Promo.
+    UserList: Display followers; Show no users found; Navigate back.
+    WishlistCreation: Create new wishlist; Name wishlist; View suggestions; Cancel creation; Select existing wishlist.
+    UserProfile1: View user profile details; Navigate to Wishlist, Reviews, Uploads sections; Switch between My Wishlists and Followed Wishlists; Create new Wishlist; Edit profile picture.
+    ProductBrowsePage: View product listings; Filter products by color and rating; Clear or apply filters; Navigate between Popular and Deals Hub tabs; Close menu; Search products; Swipe through product feed.
+    SearchHistory: Open Menu; Enter Search Query; Select Recent Search Item; View All Recently Viewed Items.
+    SearchMenuDrawer: Search for items; View recent searches; Browse recently viewed items; Access profile; Navigate to different sections like Browse, Earn Cash, Notifications, Shopping Cart, Order History, Wish Cash, Rewards, Daily Login Bonus, Apply Promo.
+    WishlistEmpty: Navigate back; Access more options; Long-press more options.
+Please give me the page with the function that best matches the following tasks:
+    (1) log in to the app;
+    (2) navigate to the contact section in the menu.
+Please answer with a sentence in which the order of the page names corresponds strictly to the order of the tasks, and the page names are separated by ';'.
+Note that the page name should be selected from the name of the explored page mentioned above, and if there is no page that matches the corresponding task, select one of the function pages above to return.
+Note that the page name should appear exactly as it appears above, and do not make any typos.
+Note that you should output the page names only.
+Output example: MainLocation; MainSetting1.
+
+['MainMenuDrawer', 'MainMenuDrawer']

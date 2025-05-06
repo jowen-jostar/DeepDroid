@@ -1,0 +1,1284 @@
+{
+    "com.autoscout24.MainHomeScreen": [
+        "MainHomeScreen"
+    ],
+    "com.autoscout24.MainHomePage": [
+        "MainHomeScreen",
+        "MainHomePage"
+    ],
+    "com.autoscout24.LoginPrompt": [
+        "MainHomeScreen",
+        "MainHomePage",
+        "LoginPrompt"
+    ],
+    "com.autoscout24.MainSearchFilter": [
+        "MainHomeScreen",
+        "MainSearchFilter"
+    ],
+    "com.autoscout24.MainSearchResetDialog": [
+        "MainHomeScreen",
+        "MainSearchFilter",
+        "MainSearchResetDialog"
+    ],
+    "com.autoscout24.MainBrandSelection": [
+        "MainHomeScreen",
+        "MainSearchFilter",
+        "MainBrandSelection"
+    ],
+    "com.autoscout24.MainBrandLocationSelector": [
+        "MainHomeScreen",
+        "MainSearchFilter",
+        "MainBrandSelection",
+        "MainBrandLocationSelector"
+    ],
+    "com.autoscout24.BrandSelectionPage": [
+        "MainHomeScreen",
+        "MainSearchFilter",
+        "MainBrandSelection",
+        "MainBrandLocationSelector",
+        "BrandSelectionPage"
+    ],
+    "com.autoscout24.MainSearchFilter1": [
+        "MainHomeScreen",
+        "MainSearchFilter"
+    ],
+    "com.autoscout24.MainLocationSelector": [
+        "MainHomeScreen",
+        "MainLocationSelector"
+    ],
+    "com.autoscout24.MainSavedSearches": [
+        "MainHomeScreen",
+        "MainLocationSelector",
+        "MainSavedSearches"
+    ],
+    "com.autoscout24.SavedSearchesOnboarding": [
+        "MainHomeScreen",
+        "MainLocationSelector",
+        "MainSavedSearches",
+        "SavedSearchesOnboarding"
+    ],
+    "com.autoscout24.LoginPrompt1": [
+        "MainHomeScreen",
+        "MainLocationSelector",
+        "MainSavedSearches",
+        "LoginPrompt"
+    ],
+    "fm.castbox.audiobook.radio.podcast.MainDiscover": [
+        "MainDiscover"
+    ],
+    "fm.castbox.audiobook.radio.podcast.ChannelDetail": [
+        "MainDiscover",
+        "ChannelDetail"
+    ],
+    "fm.castbox.audiobook.radio.podcast.ChannelDetail1": [
+        "MainDiscover",
+        "ChannelDetail"
+    ],
+    "fm.castbox.audiobook.radio.podcast.ChannelDetail2": [
+        "MainDiscover",
+        "ChannelDetail"
+    ],
+    "fm.castbox.audiobook.radio.podcast.CategorySelector": [
+        "MainDiscover",
+        "CategorySelector"
+    ],
+    "fm.castbox.audiobook.radio.podcast.CategoryChannels": [
+        "MainDiscover",
+        "CategorySelector",
+        "CategoryChannels"
+    ],
+    "fm.castbox.audiobook.radio.podcast.Audiobooks": [
+        "MainDiscover",
+        "Audiobooks"
+    ],
+    "fm.castbox.audiobook.radio.podcast.SearchPage": [
+        "MainDiscover",
+        "Audiobooks",
+        "SearchPage"
+    ],
+    "fm.castbox.audiobook.radio.podcast.ErrorPage": [
+        "MainDiscover",
+        "Audiobooks",
+        "SearchPage",
+        "ErrorPage"
+    ],
+    "fm.castbox.audiobook.radio.podcast.SearchResults": [
+        "MainDiscover",
+        "Audiobooks",
+        "SearchPage",
+        "SearchResults"
+    ],
+    "fm.castbox.audiobook.radio.podcast.SearchPage1": [
+        "MainDiscover",
+        "Audiobooks",
+        "SearchPage"
+    ],
+    "com.chanel.weather.forecast.accu.MainWeatherDetail": [
+        "MainWeatherDetail"
+    ],
+    "com.chanel.weather.forecast.accu.MainWeatherDetail1": [
+        "MainWeatherDetail"
+    ],
+    "com.chanel.weather.forecast.accu.MainUpgradePrompt": [
+        "MainWeatherDetail",
+        "MainUpgradePrompt"
+    ],
+    "com.chanel.weather.forecast.accu.LocationManagement": [
+        "MainWeatherDetail",
+        "LocationManagement"
+    ],
+    "com.chanel.weather.forecast.accu.SearchLocation": [
+        "MainWeatherDetail",
+        "LocationManagement",
+        "SearchLocation"
+    ],
+    "com.chanel.weather.forecast.accu.SearchLocation1": [
+        "MainWeatherDetail",
+        "LocationManagement",
+        "SearchLocation"
+    ],
+    "com.chanel.weather.forecast.accu.SearchLocation2": [
+        "MainWeatherDetail",
+        "LocationManagement",
+        "SearchLocation"
+    ],
+    "com.chanel.weather.forecast.accu.MainLocationSelector": [
+        "MainWeatherDetail",
+        "LocationManagement",
+        "SearchLocation",
+        "MainLocationSelector"
+    ],
+    "com.chanel.weather.forecast.accu.MainWeatherDetail2": [
+        "MainWeatherDetail"
+    ],
+    "com.chanel.weather.forecast.accu.MainSettingsMenu": [
+        "MainWeatherDetail",
+        "MainSettingsMenu"
+    ],
+    "com.chanel.weather.forecast.accu.MainWeatherDetail3": [
+        "MainWeatherDetail"
+    ],
+    "com.chanel.weather.forecast.accu.MainWeatherDetail4": [
+        "MainWeatherDetail"
+    ],
+    "com.devexpert.weather.MainLocationWeather": [
+        "MainLocationWeather"
+    ],
+    "com.devexpert.weather.MainWeatherDisplay": [
+        "MainLocationWeather",
+        "MainWeatherDisplay"
+    ],
+    "com.devexpert.weather.MainHourlyWeatherView": [
+        "MainLocationWeather",
+        "MainWeatherDisplay",
+        "MainHourlyWeatherView"
+    ],
+    "com.devexpert.weather.HourlyWeatherView": [
+        "MainLocationWeather",
+        "MainWeatherDisplay",
+        "MainHourlyWeatherView",
+        "HourlyWeatherView"
+    ],
+    "com.devexpert.weather.MainWidgetManager": [
+        "MainLocationWeather",
+        "MainWidgetManager"
+    ],
+    "com.devexpert.weather.MainLocationSelector": [
+        "MainLocationWeather",
+        "MainWidgetManager",
+        "MainLocationSelector"
+    ],
+    "com.devexpert.weather.MainLocationSelector1": [
+        "MainLocationWeather",
+        "MainWidgetManager",
+        "MainLocationSelector"
+    ],
+    "com.devexpert.weather.LocationErrorDialog": [
+        "MainLocationWeather",
+        "MainWidgetManager",
+        "MainLocationSelector",
+        "LocationErrorDialog"
+    ],
+    "com.devexpert.weather.MainLocationWeatherView": [
+        "MainLocationWeather",
+        "MainWeatherDisplay",
+        "MainHourlyWeatherView",
+        "MainLocationWeatherView"
+    ],
+    "com.devexpert.weather.MainNavigationMenu": [
+        "MainLocationWeather",
+        "MainWeatherDisplay",
+        "MainHourlyWeatherView",
+        "MainLocationWeatherView",
+        "MainNavigationMenu"
+    ],
+    "com.devexpert.weather.WidgetSettingsCustomizer": [
+        "MainLocationWeather",
+        "MainWidgetManager",
+        "WidgetSettingsCustomizer"
+    ],
+    "com.devexpert.weather.FontSelector": [
+        "MainLocationWeather",
+        "MainWidgetManager",
+        "WidgetSettingsCustomizer",
+        "FontSelector"
+    ],
+    "com.devexpert.weather.UpdateNotification": [
+        "UpdateNotification"
+    ],
+    "com.devexpert.weather.MainWeatherForecast": [
+        "UpdateNotification",
+        "MainLocationWeatherView",
+        "MainWeatherForecast"
+    ],
+    "com.devexpert.weather.MainWeatherForecast1": [
+        "UpdateNotification",
+        "MainLocationWeatherView",
+        "MainWeatherForecast"
+    ],
+    "com.adpog.diary.NoteList": [
+        "NoteList"
+    ],
+    "com.adpog.diary.NoteListWithNavigationDrawer": [
+        "NoteList",
+        "NoteListWithNavigationDrawer"
+    ],
+    "com.adpog.diary.AccountInterim": [
+        "NoteList",
+        "NoteListWithNavigationDrawer",
+        "AccountInterim"
+    ],
+    "com.adpog.diary.SearchFilterPage": [
+        "NoteList",
+        "SearchFilterPage"
+    ],
+    "com.adpog.diary.MainLocationSelector": [
+        "NoteList",
+        "SearchFilterPage",
+        "MainLocationSelector"
+    ],
+    "com.adpog.diary.SearchFilterPage1": [
+        "NoteList",
+        "SearchFilterPage"
+    ],
+    "com.adpog.diary.NoteList2": [
+        "NoteList"
+    ],
+    "com.adpog.diary.NoteListSideMenu": [
+        "NoteList",
+        "NoteListSideMenu"
+    ],
+    "com.adpog.diary.NoteActionSelector": [
+        "NoteList",
+        "NoteActionSelector"
+    ],
+    "com.adpog.diary.NoteEditor": [
+        "NoteList",
+        "NoteActionSelector",
+        "NoteEditor"
+    ],
+    "com.adpog.diary.NoteEditor1": [
+        "NoteList",
+        "NoteActionSelector",
+        "NoteEditor"
+    ],
+    "com.adpog.diary.NoteActionSelector1": [
+        "NoteList",
+        "NoteEditor",
+        "NoteActionSelector"
+    ],
+    "com.adpog.diary.DatePicker": [
+        "NoteList",
+        "NoteEditor",
+        "DatePicker"
+    ],
+    "com.adpog.diary.DatePicker1": [
+        "NoteList",
+        "NoteEditor",
+        "DatePicker"
+    ],
+    "com.google.android.apps.magazines.Home": [
+        "Home"
+    ],
+    "com.google.android.apps.magazines.SearchPage": [
+        "Home",
+        "SearchPage"
+    ],
+    "com.google.android.apps.magazines.SearchResultsPage": [
+        "Home",
+        "SearchPage",
+        "SearchResultsPage"
+    ],
+    "com.google.android.apps.magazines.AccountSettingsPage": [
+        "Home",
+        "AccountSettingsPage"
+    ],
+    "com.google.android.apps.magazines.AccountManagementPage": [
+        "Home",
+        "AccountSettingsPage",
+        "AccountManagementPage"
+    ],
+    "com.google.android.apps.magazines.HomeNewsFeed": [
+        "Home",
+        "HomeNewsFeed"
+    ],
+    "com.google.android.apps.magazines.SearchResultsPage1": [
+        "Home",
+        "HomeNewsFeed",
+        "SearchPage",
+        "SearchResultsPage"
+    ],
+    "com.google.android.apps.magazines.SearchResultsPage2": [
+        "Home",
+        "HomeNewsFeed",
+        "SearchPage",
+        "SearchResultsPage"
+    ],
+    "com.google.android.apps.magazines.Home2": [
+        "Home"
+    ],
+    "com.google.android.apps.magazines.ArticleDrawer": [
+        "Home",
+        "ArticleDrawer"
+    ],
+    "com.google.android.apps.magazines.ArticleReading": [
+        "Home",
+        "ArticleReading"
+    ],
+    "com.google.android.apps.magazines.NewsEdition": [
+        "Home",
+        "NewsEdition"
+    ],
+    "com.google.android.apps.magazines.ArticleReading1": [
+        "Home",
+        "ArticleReading"
+    ],
+    "com.google.android.apps.magazines.HeaderEdition": [
+        "Home",
+        "NewsEdition",
+        "HeaderEdition"
+    ],
+    "com.google.android.apps.magazines.NewsArticleViewer": [
+        "Home",
+        "NewsEdition",
+        "HeaderEdition",
+        "NewsArticleViewer"
+    ],
+    "com.google.android.apps.magazines.ArticleReading2": [
+        "Home",
+        "ArticleReading"
+    ],
+    "com.google.android.apps.magazines.ArticleReading3": [
+        "Home",
+        "ArticleReading"
+    ],
+    "com.google.android.apps.magazines.ArticleReading4": [
+        "Home",
+        "ArticleReading"
+    ],
+    "com.google.android.apps.magazines.ArticleDrawer1": [
+        "Home",
+        "ArticleReading",
+        "ArticleDrawer"
+    ],
+    "com.google.android.apps.translate.MainTranslationInterface": [
+        "MainTranslationInterface"
+    ],
+    "com.google.android.apps.translate.KeyboardHandwriting": [
+        "MainTranslationInterface",
+        "KeyboardHandwriting"
+    ],
+    "com.google.android.apps.translate.InputMethodSelector": [
+        "MainTranslationInterface",
+        "KeyboardHandwriting",
+        "InputMethodSelector"
+    ],
+    "com.google.android.apps.translate.KeyboardHandwriting1": [
+        "MainTranslationInterface",
+        "KeyboardHandwriting"
+    ],
+    "com.google.android.apps.translate.KeyboardHandwriting2": [
+        "MainTranslationInterface",
+        "KeyboardHandwriting"
+    ],
+    "com.google.android.apps.translate.CopyDropWelcome": [
+        "MainTranslationInterface",
+        "CopyDropWelcome"
+    ],
+    "com.google.android.apps.translate.MainTranslationInterface1": [
+        "MainTranslationInterface"
+    ],
+    "com.google.android.apps.translate.MainTranslationInterface2": [
+        "MainTranslationInterface"
+    ],
+    "com.google.android.apps.translate.LanguagePicker": [
+        "MainTranslationInterface",
+        "LanguagePicker"
+    ],
+    "com.google.android.apps.translate.LanguageSelection": [
+        "MainTranslationInterface",
+        "LanguagePicker",
+        "LanguageSelection"
+    ],
+    "com.google.android.apps.translate.LanguageSearch": [
+        "MainTranslationInterface",
+        "LanguagePicker",
+        "LanguageSelection",
+        "LanguageSearch"
+    ],
+    "com.google.android.apps.translate.LanguagePicker1": [
+        "MainTranslationInterface",
+        "LanguagePicker"
+    ],
+    "com.google.android.apps.translate.LanguagePicker2": [
+        "MainTranslationInterface",
+        "LanguagePicker"
+    ],
+    "com.naver.linewebtoon.MainHome": [
+        "MainHome"
+    ],
+    "com.naver.linewebtoon.SearchGenreSelector": [
+        "MainHome",
+        "SearchGenreSelector"
+    ],
+    "com.naver.linewebtoon.SearchResultsPage": [
+        "MainHome",
+        "SearchGenreSelector",
+        "SearchResultsPage"
+    ],
+    "com.naver.linewebtoon.MainWebtoonDiscovery": [
+        "MainHome",
+        "SearchGenreSelector",
+        "SearchResultsPage",
+        "MainWebtoonDiscovery"
+    ],
+    "com.naver.linewebtoon.MainWebtoonDiscovery1": [
+        "MainHome",
+        "SearchGenreSelector",
+        "SearchResultsPage",
+        "MainWebtoonDiscovery"
+    ],
+    "com.naver.linewebtoon.WebtoonRankingSelector": [
+        "MainHome",
+        "SearchGenreSelector",
+        "SearchResultsPage",
+        "MainWebtoonDiscovery",
+        "WebtoonRankingSelector"
+    ],
+    "com.naver.linewebtoon.WebtoonRanking": [
+        "MainHome",
+        "SearchGenreSelector",
+        "WebtoonRankingSelector",
+        "WebtoonRanking"
+    ],
+    "com.naver.linewebtoon.MainGenreSelection": [
+        "MainHome",
+        "SearchGenreSelector",
+        "MainWebtoonDiscovery",
+        "MainGenreSelection"
+    ],
+    "com.naver.linewebtoon.MainWebtoonExplorer": [
+        "MainHome",
+        "SearchGenreSelector",
+        "MainWebtoonExplorer"
+    ],
+    "com.naver.linewebtoon.MainWebtoonDiscovery2": [
+        "MainHome",
+        "SearchGenreSelector",
+        "MainWebtoonExplorer",
+        "MainWebtoonDiscovery"
+    ],
+    "com.naver.linewebtoon.MainLocationSelector": [
+        "MainHome",
+        "SearchGenreSelector",
+        "MainWebtoonExplorer",
+        "MainWebtoonDiscovery",
+        "MainLocationSelector"
+    ],
+    "com.naver.linewebtoon.OnBoardingInterestSelector": [
+        "MainHome",
+        "OnBoardingInterestSelector"
+    ],
+    "com.naver.linewebtoon.OnBoardingSelect_Error": [
+        "MainHome",
+        "OnBoardingInterestSelector",
+        "OnBoardingSelect_Error"
+    ],
+    "com.naver.linewebtoon.WebtoonRanking2": [
+        "MainHome",
+        "WebtoonRanking"
+    ],
+    "com.naver.linewebtoon.MainSortSelector": [
+        "MainHome",
+        "SearchGenreSelector",
+        "MainWebtoonExplorer",
+        "MainWebtoonDiscovery",
+        "MainSortSelector"
+    ],
+    "com.marvel.comics.MainNavigationDrawer": [
+        "MainNavigationDrawer"
+    ],
+    "com.marvel.comics.MainNavigationDrawer1": [
+        "MainNavigationDrawer"
+    ],
+    "com.marvel.comics.SearchPage": [
+        "MainNavigationDrawer",
+        "SearchPage"
+    ],
+    "com.marvel.comics.MyBooksSignInPrompt": [
+        "MainNavigationDrawer",
+        "MyBooksSignInPrompt"
+    ],
+    "com.marvel.comics.NavigationDrawer": [
+        "MainNavigationDrawer",
+        "MyBooksSignInPrompt",
+        "NavigationDrawer"
+    ],
+    "com.marvel.comics.MyBooks": [
+        "MainNavigationDrawer",
+        "MyBooksSignInPrompt",
+        "MyBooks"
+    ],
+    "com.marvel.comics.Unknown": [
+        "MainNavigationDrawer",
+        "MyBooksSignInPrompt",
+        "MyBooks",
+        "Unknown"
+    ],
+    "com.marvel.comics.Login": [
+        "MainNavigationDrawer",
+        "MyBooksSignInPrompt",
+        "Login"
+    ],
+    "com.marvel.comics.WebViewAuthPortal": [
+        "MainNavigationDrawer",
+        "MyBooksSignInPrompt",
+        "Login",
+        "WebViewAuthPortal"
+    ],
+    "com.marvel.comics.LoginErrorPage": [
+        "MainNavigationDrawer",
+        "MyBooksSignInPrompt",
+        "Login",
+        "WebViewAuthPortal",
+        "LoginErrorPage"
+    ],
+    "com.marvel.comics.MainNavigationDrawer2": [
+        "MainNavigationDrawer"
+    ],
+    "com.merriamwebster.MainDictionary": [
+        "MainDictionary"
+    ],
+    "com.merriamwebster.MainMenuDrawer": [
+        "MainDictionary",
+        "MainMenuDrawer"
+    ],
+    "com.merriamwebster.DictionarySearch": [
+        "MainDictionary",
+        "MainMenuDrawer",
+        "DictionarySearch"
+    ],
+    "com.merriamwebster.MainMenuDrawer1": [
+        "MainDictionary",
+        "MainMenuDrawer"
+    ],
+    "com.merriamwebster.DictionarySearch1": [
+        "MainDictionary",
+        "DictionarySearch"
+    ],
+    "com.merriamwebster.MainSearchPage": [
+        "MainDictionary",
+        "DictionarySearch",
+        "MainSearchPage"
+    ],
+    "com.merriamwebster.MainSearchPage1": [
+        "MainDictionary",
+        "DictionarySearch",
+        "MainSearchPage"
+    ],
+    "com.merriamwebster.DictionarySearch2": [
+        "MainDictionary",
+        "DictionarySearch"
+    ],
+    "com.merriamwebster.MainMenuDrawer2": [
+        "MainDictionary",
+        "DictionarySearch",
+        "MainMenuDrawer"
+    ],
+    "com.merriamwebster.MainMenuDrawer3": [
+        "MainDictionary",
+        "DictionarySearch",
+        "MainMenuDrawer"
+    ],
+    "com.merriamwebster.GamesDifficultySelector": [
+        "MainDictionary",
+        "GamesDifficultySelector"
+    ],
+    "com.merriamwebster.MainMenuGames": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "MainMenuGames"
+    ],
+    "com.merriamwebster.DictionarySearch3": [
+        "MainDictionary",
+        "MainMenuDrawer",
+        "DictionarySearch"
+    ],
+    "com.merriamwebster.DictionarySearch4": [
+        "MainDictionary",
+        "MainMenuDrawer",
+        "DictionarySearch"
+    ],
+    "com.merriamwebster.GamePlayInstructions": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "GamePlayInstructions"
+    ],
+    "com.merriamwebster.GamePlay": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "GamePlayInstructions",
+        "GamePlay"
+    ],
+    "com.merriamwebster.GamePlay_QuestionAnswer": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "GamePlayInstructions",
+        "GamePlay",
+        "GamePlay_QuestionAnswer"
+    ],
+    "com.merriamwebster.GamePlayPauseMenu": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "GamePlayInstructions",
+        "GamePlay",
+        "GamePlay_QuestionAnswer",
+        "GamePlayPauseMenu"
+    ],
+    "com.merriamwebster.GamePlayPauseMenu1": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "GamePlayInstructions",
+        "GamePlay",
+        "GamePlay_QuestionAnswer",
+        "GamePlayPauseMenu"
+    ],
+    "com.merriamwebster.GamePlay5": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "GamePlayInstructions",
+        "GamePlay"
+    ],
+    "com.merriamwebster.Dictionary": [
+        "MainDictionary",
+        "GamesDifficultySelector",
+        "GamePlayInstructions",
+        "GamePlay",
+        "Dictionary"
+    ],
+    "gov.nasa.MainNewsImageTV": [
+        "MainNewsImageTV"
+    ],
+    "gov.nasa.MainNewsImageTVSelector": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector"
+    ],
+    "gov.nasa.SettingsMenu": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu"
+    ],
+    "gov.nasa.SightingsPage": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu",
+        "SightingsPage"
+    ],
+    "gov.nasa.SightingsMapViewer": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu",
+        "SightingsPage",
+        "SightingsMapViewer"
+    ],
+    "gov.nasa.ImageSourceSelector": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu",
+        "ImageSourceSelector"
+    ],
+    "gov.nasa.FeedsSelection": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu",
+        "FeedsSelection"
+    ],
+    "gov.nasa.SightingsLocationSetup": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu",
+        "SightingsPage",
+        "SightingsLocationSetup"
+    ],
+    "gov.nasa.LocationPermissionPrompt": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu",
+        "SightingsPage",
+        "SightingsLocationSetup",
+        "LocationPermissionPrompt"
+    ],
+    "gov.nasa.LocationSettings": [
+        "MainNewsImageTV",
+        "MainNewsImageTVSelector",
+        "SettingsMenu",
+        "SightingsPage",
+        "SightingsMapViewer",
+        "LocationSettings"
+    ],
+    "gov.nasa.NewsPager": [
+        "NewsPager"
+    ],
+    "gov.nasa.NewsFeed": [
+        "NewsPager",
+        "NewsFeed"
+    ],
+    "gov.nasa.NASALiveSelector": [
+        "NewsPager",
+        "NewsFeed",
+        "MainNewsImageTVSelector",
+        "NASALiveSelector"
+    ],
+    "com.microblink.photomath.MainCameraFunctionPage": [
+        "MainCameraFunctionPage"
+    ],
+    "com.microblink.photomath.OutdatedAppNotification": [
+        "MainCameraFunctionPage",
+        "OutdatedAppNotification"
+    ],
+    "com.microblink.photomath.MainCameraFunctionPage1": [
+        "MainCameraFunctionPage"
+    ],
+    "com.microblink.photomath.AboutPage": [
+        "MainCameraFunctionPage",
+        "AboutPage"
+    ],
+    "com.microblink.photomath.OssLicensesMenu": [
+        "AboutPage",
+        "OssLicensesMenu"
+    ],
+    "com.microblink.photomath.LicenseViewer": [
+        "AboutPage",
+        "OssLicensesMenu",
+        "LicenseViewer"
+    ],
+    "com.microblink.photomath.HelpSettingsPage": [
+        "AboutPage",
+        "MainCameraFunctionPage",
+        "HelpSettingsPage"
+    ],
+    "com.microblink.photomath.Editor": [
+        "AboutPage",
+        "MainCameraFunctionPage",
+        "Editor"
+    ],
+    "com.microblink.photomath.Editor1": [
+        "AboutPage",
+        "MainCameraFunctionPage",
+        "Editor"
+    ],
+    "com.microblink.photomath.MyStuff": [
+        "AboutPage",
+        "MainCameraFunctionPage",
+        "MyStuff"
+    ],
+    "com.quizlet.quizletandroid.HomeNavigation": [
+        "HomeNavigation"
+    ],
+    "com.quizlet.quizletandroid.ActivitySummary": [
+        "HomeNavigation",
+        "ActivitySummary"
+    ],
+    "com.quizlet.quizletandroid.UpgradeSubscription": [
+        "HomeNavigation",
+        "UpgradeSubscription"
+    ],
+    "com.quizlet.quizletandroid.SheetUiBuilderHost": [
+        "SheetUiBuilderHost"
+    ],
+    "com.quizlet.quizletandroid.UserSettingsProfile": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "HomeNavigation",
+        "UserSettingsProfile"
+    ],
+    "com.quizlet.quizletandroid.ProfileImageSelector": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "HomeNavigation",
+        "UserSettingsProfile",
+        "ProfileImageSelector"
+    ],
+    "com.quizlet.quizletandroid.SearchResultsNavigation": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation",
+        "SearchResultsNavigation"
+    ],
+    "com.quizlet.quizletandroid.SearchResultsPage": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation",
+        "SearchResultsNavigation",
+        "SearchResultsPage"
+    ],
+    "com.quizlet.quizletandroid.SearchResultsNavigation1": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation",
+        "SearchResultsNavigation"
+    ],
+    "com.quizlet.quizletandroid.SearchResultsPage1": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation",
+        "SearchResultsNavigation",
+        "SearchResultsPage"
+    ],
+    "com.quizlet.quizletandroid.SearchResultsNavigation2": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation",
+        "SearchResultsNavigation"
+    ],
+    "com.quizlet.quizletandroid.SearchResultsExplorer": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation",
+        "SearchResultsNavigation",
+        "SearchResultsExplorer"
+    ],
+    "com.quizlet.quizletandroid.SearchResultsPage2": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation",
+        "SearchResultsNavigation",
+        "SearchResultsExplorer",
+        "SearchResultsPage"
+    ],
+    "com.quizlet.quizletandroid.HomeNavigation1": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation"
+    ],
+    "com.quizlet.quizletandroid.HomeNavigation2": [
+        "SheetUiBuilderHost",
+        "UpgradeSubscription",
+        "UserSettingsProfile",
+        "HomeNavigation"
+    ],
+    "com.zzkko.MainCategorySelector": [
+        "MainCategorySelector"
+    ],
+    "com.zzkko.DiscountErrorPage": [
+        "MainCategorySelector",
+        "DiscountErrorPage"
+    ],
+    "com.zzkko.SearchHomeV3": [
+        "MainCategorySelector",
+        "DiscountErrorPage",
+        "SearchHomeV"
+    ],
+    "com.zzkko.SearchHomeV31": [
+        "MainCategorySelector",
+        "DiscountErrorPage",
+        "SearchHomeV"
+    ],
+    "com.zzkko.WishlistEmptyState": [
+        "MainCategorySelector",
+        "DiscountErrorPage",
+        "WishlistEmptyState"
+    ],
+    "com.zzkko.ErrorPageWithCategoryFilter": [
+        "MainCategorySelector",
+        "ErrorPageWithCategoryFilter"
+    ],
+    "com.zzkko.SignInPage": [
+        "MainCategorySelector",
+        "SignInPage"
+    ],
+    "com.zzkko.SignInEmailSelector": [
+        "MainCategorySelector",
+        "SignInPage",
+        "SignInEmailSelector"
+    ],
+    "com.zzkko.SignIn": [
+        "MainCategorySelector",
+        "SignInPage",
+        "SignInEmailSelector",
+        "SignIn"
+    ],
+    "com.zzkko.WebViewPage": [
+        "MainCategorySelector",
+        "WebViewPage"
+    ],
+    "com.zzkko.MainProductListingPage": [
+        "MainCategorySelector",
+        "MainProductListingPage"
+    ],
+    "com.zzkko.MainProductListing": [
+        "MainCategorySelector",
+        "MainProductListing"
+    ],
+    "com.zzkko.MainShoppingPage": [
+        "MainCategorySelector",
+        "MainShoppingPage"
+    ],
+    "com.zzkko.MainWebViewPage": [
+        "MainCategorySelector",
+        "MainWebViewPage"
+    ],
+    "com.zzkko.WebViewWelcomePage": [
+        "MainCategorySelector",
+        "WebViewWelcomePage"
+    ],
+    "com.zzkko.WebViewWelcome": [
+        "MainCategorySelector",
+        "WebViewWelcome"
+    ],
+    "com.zzkko.AssistedSignInCartView": [
+        "MainCategorySelector",
+        "WebViewWelcome",
+        "AssistedSignInCartView"
+    ],
+    "com.zzkko.MainLocationSelector": [
+        "MainCategorySelector",
+        "WebViewWelcome",
+        "AssistedSignInCartView",
+        "SignInPage",
+        "MainLocationSelector"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.MainNavigation": [
+        "MainNavigation"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.OMRPage": [
+        "MainNavigation",
+        "OMRPage"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.MusicSearchError": [
+        "MainNavigation",
+        "OMRPage",
+        "MusicSearchError"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.MainNavigationPage": [
+        "MainNavigation",
+        "OMRPage",
+        "MusicSearchError",
+        "MainNavigationPage"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.SearchPage": [
+        "MainNavigation",
+        "OMRPage",
+        "MusicSearchError",
+        "MainNavigationPage",
+        "SearchPage"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.VoiceSearchPage": [
+        "MainNavigation",
+        "VoiceSearchPage"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.MusicDiscoveryHome": [
+        "MainNavigation",
+        "MusicDiscoveryHome"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.PlaylistManagement": [
+        "MusicDiscoveryHome",
+        "PlaylistManagement"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.PlaylistCreation": [
+        "MusicDiscoveryHome",
+        "PlaylistManagement",
+        "PlaylistCreation"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.PlaylistManagement1": [
+        "MusicDiscoveryHome",
+        "PlaylistManagement"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.PlaylistManagement2": [
+        "MusicDiscoveryHome",
+        "PlaylistManagement"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.Settings": [
+        "MusicDiscoveryHome",
+        "Settings"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.AccountSignUp": [
+        "MusicDiscoveryHome",
+        "Settings",
+        "AccountSignUp"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.AccountSignUpError": [
+        "MusicDiscoveryHome",
+        "Settings",
+        "AccountSignUp",
+        "AccountSignUpError"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.AccountSignUp2": [
+        "MusicDiscoveryHome",
+        "Settings",
+        "AccountSignUp"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.LinkedAccounts": [
+        "MusicDiscoveryHome",
+        "Settings",
+        "LinkedAccounts"
+    ],
+    "com.melodis.midomiMusicIdentifier.freemium.MainNavigationSelector": [
+        "MusicDiscoveryHome",
+        "Settings",
+        "LinkedAccounts",
+        "MainNavigationSelector"
+    ],
+    "com.ted.android.MainHomeScreen": [
+        "MainHomeScreen"
+    ],
+    "com.ted.android.MainUserProfile": [
+        "MainHomeScreen",
+        "MainUserProfile"
+    ],
+    "com.ted.android.MainHomeScreen1": [
+        "MainHomeScreen"
+    ],
+    "com.ted.android.VideoDetails": [
+        "MainHomeScreen",
+        "VideoDetails"
+    ],
+    "com.ted.android.VideoDetailsPage": [
+        "MainHomeScreen",
+        "VideoDetails",
+        "VideoDetailsPage"
+    ],
+    "com.ted.android.MainHomeScreen2": [
+        "MainHomeScreen"
+    ],
+    "com.ted.android.MainUserProfile1": [
+        "MainHomeScreen",
+        "MainUserProfile"
+    ],
+    "com.ted.android.UserSettingsScreen": [
+        "MainHomeScreen",
+        "MainUserProfile",
+        "UserSettingsScreen"
+    ],
+    "com.ted.android.VideoDetail": [
+        "MainHomeScreen",
+        "VideoDetail"
+    ],
+    "com.ted.android.VideoPlayer": [
+        "MainHomeScreen",
+        "VideoDetail",
+        "VideoPlayer"
+    ],
+    "com.ted.android.VideoPlayer1": [
+        "VideoPlayer"
+    ],
+    "com.ted.android.MainUserProfile2": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile"
+    ],
+    "com.ted.android.PodcastsScreen": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen"
+    ],
+    "com.ted.android.PodcastDetails": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen",
+        "PodcastDetails"
+    ],
+    "com.ted.android.PodcastDetails1": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen",
+        "PodcastDetails"
+    ],
+    "com.ted.android.PodcastDetails2": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen",
+        "PodcastDetails"
+    ],
+    "com.ted.android.PodcastsScreen1": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen"
+    ],
+    "com.ted.android.PodcastDetails3": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen",
+        "PodcastDetails"
+    ],
+    "com.ted.android.PodcastDetails4": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen",
+        "PodcastDetails"
+    ],
+    "com.ted.android.PodcastDetails5": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen",
+        "PodcastDetails"
+    ],
+    "com.ted.android.UserProfileSettings": [
+        "VideoPlayer",
+        "MainHomeScreen",
+        "MainUserProfile",
+        "PodcastsScreen",
+        "PodcastDetails",
+        "UserProfileSettings"
+    ],
+    "com.ted.android.MainHomeScreen3": [
+        "VideoPlayer",
+        "MainHomeScreen"
+    ],
+    "com.accuweather.android.MainWeatherDashboard": [
+        "MainWeatherDashboard"
+    ],
+    "com.accuweather.android.MainNavigationDrawer": [
+        "MainWeatherDashboard",
+        "MainNavigationDrawer"
+    ],
+    "com.accuweather.android.SettingsConfiguration": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration"
+    ],
+    "com.accuweather.android.MainLocationSelector": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "MainWeatherDashboard",
+        "MainLocationSelector"
+    ],
+    "com.accuweather.android.NotificationSettings": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "MainWeatherDashboard",
+        "MainLocationSelector",
+        "NotificationSettings"
+    ],
+    "com.accuweather.android.MainWeatherForecast": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "MainWeatherDashboard",
+        "MainWeatherForecast"
+    ],
+    "com.accuweather.android.MainWeatherForecast1": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "MainWeatherDashboard",
+        "MainWeatherForecast"
+    ],
+    "com.accuweather.android.MainNavigationDrawer1": [
+        "MainNavigationDrawer"
+    ],
+    "com.accuweather.android.Settings": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "Settings"
+    ],
+    "com.accuweather.android.NotificationSettings1": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "NotificationSettings"
+    ],
+    "com.accuweather.android.NotificationSettings2": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "NotificationSettings"
+    ],
+    "com.accuweather.android.NotificationPermissionPrompt": [
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "NotificationSettings",
+        "NotificationPermissionPrompt"
+    ],
+    "com.accuweather.android.AlertsDetail": [
+        "AlertsDetail"
+    ],
+    "com.accuweather.android.MainWeatherDashboard1": [
+        "AlertsDetail",
+        "MainWeatherDashboard"
+    ],
+    "com.accuweather.android.MainNavigationDrawer2": [
+        "AlertsDetail",
+        "MainWeatherDashboard",
+        "MainNavigationDrawer"
+    ],
+    "com.accuweather.android.MainWeatherForecast2": [
+        "MainWeatherDashboard",
+        "MainWeatherForecast"
+    ],
+    "com.accuweather.android.MainWeatherForecast3": [
+        "MainWeatherDashboard",
+        "MainWeatherForecast"
+    ],
+    "com.accuweather.android.MainWeatherDashboard2": [
+        "MainWeatherDashboard"
+    ],
+    "com.accuweather.android.MainLocationSelector1": [
+        "MainWeatherDashboard",
+        "MainLocationSelector"
+    ],
+    "com.accuweather.android.MainWeatherDashboard3": [
+        "MainWeatherDashboard"
+    ],
+    "com.accuweather.android.MainWeatherDashboard4": [
+        "MainWeatherDashboard"
+    ],
+    "com.accuweather.android.MainWeatherForecast4": [
+        "MainWeatherDashboard",
+        "MainWeatherForecast"
+    ],
+    "com.accuweather.android.MainWeatherForecast5": [
+        "MainWeatherDashboard",
+        "MainWeatherForecast"
+    ],
+    "com.accuweather.android.MainNavigationDrawer3": [
+        "MainWeatherDashboard",
+        "MainWeatherForecast",
+        "MainNavigationDrawer"
+    ],
+    "com.accuweather.android.SettingDefaultLocation": [
+        "MainWeatherDashboard",
+        "MainWeatherForecast",
+        "MainNavigationDrawer",
+        "SettingsConfiguration",
+        "SettingDefaultLocation"
+    ],
+    "com.accuweather.android.MainWeatherDashboard5": [
+        "MainWeatherDashboard"
+    ],
+    "com.accuweather.android.MainNavigationDrawer4": [
+        "MainWeatherDashboard",
+        "MainNavigationDrawer"
+    ]
+}
